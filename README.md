@@ -42,3 +42,17 @@ Paul cannot go for a walk with the dog. He has to learn.
 
 ### Lea will heute nicht mit Skip spazieren gehen. Sie und Marie wollen heute im Park spielen.
 Lea doesn't want to go for a walk with Skip today. You and Marie want to play in the park today.
+
+
+### Welches Modalverb passt?
+Which Modal Verb Fits
+
+
+	          wollen	    müssen	    können
+ich	         will	      muss      	kann
+du	        willst    	musst	      kannst
+er/es/sie	   will	      muss	      kann
+wir	        wollen	    müssen	    können
+ihr	         wollt	    müsst	      könnt
+sie/Sie	    wollen	    müssen    	können
+
