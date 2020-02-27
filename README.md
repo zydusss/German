@@ -49,10 +49,10 @@ Which Modal Verb Fits
 
 
 	          wollen	    müssen	    können
-ich	         will	      muss      	kann
-du	        willst    	musst	      kannst
-er/es/sie	   will	      muss	      kann
-wir	        wollen	    müssen	    können
-ihr	         wollt	    müsst	      könnt
-sie/Sie	    wollen	    müssen    	können
+	          ich	         will	      muss      	kann
+	          du	        willst    	musst	      kannst
+	          er/es/sie	   will	      muss	      kann
+	          wir	        wollen	    müssen	    können
+	          ihr	         wollt	    müsst	      könnt
+	          sie/Sie	    wollen	    müssen    	können
 
