@@ -60,51 +60,76 @@ ich	         will	      muss      	kann
 
 
 ### Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
+You have to learn vocabulary this afternoon.
 
 ### Sabine will morgen Abend mit Eva ins Kino gehen (wollen / gehen).
+Sabine wants to go to the cinema with Eva tomorrow evening (want / to go).
 
 ### Willst du heute joggen (joggen / wollen)?
+Do you want to jog (jog / want) today?
 
 ### Wann müssen wir mit Skip spazieren gehen (spazieren gehen / müssen)?
+When do we have to take a walk with Skip (go for a walk)?
 
 ### Könnt  ihr am Nachmittag einkaufen (können / einkaufen)?
+Can you shop (can / shop) in the afternoon?
 
 ### Ich kann am Abend nicht ins Kino gehen .
+I can't go to the cinema in the evening.
 
 ### Ich muss arbeiten .
+I have to work .
 
 ### Wollen wir morgen zusammen Kaffee trinken ?
+Shall we have coffee together tomorrow?
 
 ### Paul muss am Nachmittag zum Fußball fahren .
+Paul has to go to football in the afternoon.
 
 ### Daniel muss heute lange arbeiten .
+Daniel has to work a long time today.
 
 ### Wo will Lea am Nachmittag spielen ?
+Where does Lea want to play in the afternoon?
 
 ### Kannst du heute mit in den Park kommen? Wir wollen Fußball spielen.
+Can you come to the park today? We want to play soccer.
 
 ### Nein, ich muss am Nachmittag lernen.
+No, I have to study in the afternoon.
 
 ### Lea kann heute nicht mit Skip spielen. Sie muss zum Klavierunterricht gehen.
+Lea can't play with Skip today. She has to go to piano lessons.
 
 ### Eva will am Abend mit Sabine ins Kino gehen. Sie schreibt der Freundin eine SMS.
+Eva wants to go to the cinema with Sabine in the evening. She texted the friend.
 
 ### Daniel ist um 7:30 Uhr im Büro.
+Daniel is in the office at 7:30 AM.
 
 ### Er hat am Vormittag ein Meeting.
+He has a meeting in the morning.
 
 ### Daniel will um 12:00 Uhr mit Kollegen Mittag essen.
+Daniel wants to have lunch with colleagues at 12:00.
 
 ### Er hat am Nachmittag auch Termine.
+He also has appointments in the afternoon.
 
 ### Daniel will am Abend einen Film sehen.
+Daniel wants to see a movie in the evening.
 
 ### Sabine muss am Vormittag arbeiten.
+Sabine has to work in the morning.
 
 ### Sie kocht mittags für die Kinder.
+She cooks for the children at lunchtime.
 
 ### Sabine muss am Nachmittag einkaufen.
+Sabine has to go shopping in the afternoon.
 
 ### Sie muss Lea zum Klavierunterricht bringen.
+She has to take Lea to piano lessons.
 
 ### Sie joggt am Abend im Park.
+She jogs in the park in the evening.
