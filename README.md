@@ -155,3 +155,13 @@ She jogs in the park in the evening.
 
 ### 1 Aug Super! Keine Arbeit. Ich kann in Ruhe lesen.
 1 Aug Super! No work. I can read in peace.
+
+### Daniel will surfen lernen.
+
+### Sabine joggt jeden Tag.
+
+### Paul macht einen Surf-Kurs.
+
+### Die Familie besucht die Insel Hiddensee.
+
+### Lea will im Urlaub viel lesen.
