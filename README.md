@@ -133,3 +133,19 @@ She has to take Lea to piano lessons.
 
 ### Sie joggt am Abend im Park.
 She jogs in the park in the evening.
+
+### 25 Aug Unser Urlaub ist zu Ende. Morgen beginnt der Alltag. Wir müssen wieder arbeiten und die Kinder müssen zur Schule gehen. Schade
+
+
+### 18 Aug Die Insel Hiddensee: Hier können wir nur Fahrrad fahren. Autos sind auf der Insel verboten.
+
+### 13. August Lea will die größte Sandburg bauen.
+
+### 12 Aug Ausflug zu den Kreidefelsen: ein schöner Ort!
+
+### 10 Aug Paul will Surfen lernen. Er macht einen Kurs und muss viel üben.
+
+### 5 Aug Daniel schwimmt jeden Tag im Meer und joggt. Der Alltag ist weit weg.
+
+### 1 Aug Super! Keine Arbeit. Ich kann in Ruhe lesen.
+
