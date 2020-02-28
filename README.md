@@ -56,3 +56,15 @@ ich	         will	      muss      	kann
           ihr	         wollt	    müsst	      könnt
           sie/Sie	    wollen	    müssen    	können
 
+
+
+
+Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
+
+Sabine will morgen Abend mit Eva ins Kino gehen (wollen / gehen).
+
+Willst du heute joggen (joggen / wollen)?
+
+Wann müssen wir mit Skip spazieren gehen (spazieren gehen / müssen)?
+
+Könnt  ihr am Nachmittag einkaufen (können / einkaufen)?
