@@ -89,3 +89,22 @@ ich	         will	      muss      	kann
 
 ### Eva will am Abend mit Sabine ins Kino gehen. Sie schreibt der Freundin eine SMS.
 
+### Daniel ist um 7:30 Uhr im Büro.
+
+### Er hat am Vormittag ein Meeting.
+
+### Daniel will um 12:00 Uhr mit Kollegen Mittag essen.
+
+### Er hat am Nachmittag auch Termine.
+
+### Daniel will am Abend einen Film sehen.
+
+### Sabine muss am Vormittag arbeiten.
+
+### Sie kocht mittags für die Kinder.
+
+### Sabine muss am Nachmittag einkaufen.
+
+### Sie muss Lea zum Klavierunterricht bringen.
+
+### Sie joggt am Abend im Park.
