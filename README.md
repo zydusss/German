@@ -135,17 +135,23 @@ She has to take Lea to piano lessons.
 She jogs in the park in the evening.
 
 ### 25 Aug Unser Urlaub ist zu Ende. Morgen beginnt der Alltag. Wir müssen wieder arbeiten und die Kinder müssen zur Schule gehen. Schade
+25 Aug Our vacation is over. Everyday life begins tomorrow. We have to work again and the children have to go to school. A pity
 
 
 ### 18 Aug Die Insel Hiddensee: Hier können wir nur Fahrrad fahren. Autos sind auf der Insel verboten.
+18 Aug Hiddensee Island: Here we can only ride a bike. Cars are prohibited on the island.
 
 ### 13. August Lea will die größte Sandburg bauen.
+13 Aug Lea wants to build the largest sand castle.
 
 ### 12 Aug Ausflug zu den Kreidefelsen: ein schöner Ort!
+12 Aug Excursion to the chalk cliffs: a beautiful place!
 
 ### 10 Aug Paul will Surfen lernen. Er macht einen Kurs und muss viel üben.
+10 Aug Paul wants to learn to surf. He takes a course and has to practice a lot.
 
 ### 5 Aug Daniel schwimmt jeden Tag im Meer und joggt. Der Alltag ist weit weg.
+5 Aug Daniel swims and jogs every day in the sea. Everyday life is far away.
 
 ### 1 Aug Super! Keine Arbeit. Ich kann in Ruhe lesen.
-
+1 Aug Super! No work. I can read in peace.
