@@ -59,24 +59,33 @@ ich	         will	      muss      	kann
 
 
 
-# Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
+### Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
 
-# Sabine will morgen Abend mit Eva ins Kino gehen (wollen / gehen).
+### Sabine will morgen Abend mit Eva ins Kino gehen (wollen / gehen).
 
-# Willst du heute joggen (joggen / wollen)?
+### Willst du heute joggen (joggen / wollen)?
 
-# Wann müssen wir mit Skip spazieren gehen (spazieren gehen / müssen)?
+### Wann müssen wir mit Skip spazieren gehen (spazieren gehen / müssen)?
 
-# Könnt  ihr am Nachmittag einkaufen (können / einkaufen)?
+### Könnt  ihr am Nachmittag einkaufen (können / einkaufen)?
 
-# Ich kann am Abend nicht ins Kino gehen .
+### Ich kann am Abend nicht ins Kino gehen .
 
-# Ich muss arbeiten .
+### Ich muss arbeiten .
 
-# Wollen wir morgen zusammen Kaffee trinken ?
+### Wollen wir morgen zusammen Kaffee trinken ?
 
-# Paul muss am Nachmittag zum Fußball fahren .
+### Paul muss am Nachmittag zum Fußball fahren .
 
-# Daniel muss heute lange arbeiten .
+### Daniel muss heute lange arbeiten .
 
-# Wo will Lea am Nachmittag spielen ?
+### Wo will Lea am Nachmittag spielen ?
+
+### Kannst du heute mit in den Park kommen? Wir wollen Fußball spielen.
+
+### Nein, ich muss am Nachmittag lernen.
+
+### Lea kann heute nicht mit Skip spielen. Sie muss zum Klavierunterricht gehen.
+
+### Eva will am Abend mit Sabine ins Kino gehen. Sie schreibt der Freundin eine SMS.
+
