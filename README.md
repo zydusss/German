@@ -203,3 +203,11 @@ don't have to work
 Paul is going on an excursion today. He has no school today. Daniel and Sabine have a lot of appointments today. You have a lot of stress. Only Lea has a lot of free time. She plays the piano for an hour today and then goes for a walk with Skip.
 
 ### Eine Nachricht von Levi
+
+### Paul bekommt eine Nachricht von Levi. Lesen Sie und ergänzen Sie die Sätze mit den passenden Verben in der richtigen Form. Schreiben Sie.
+
+### Hallo Paul, was machst du heute Nachmittag? Wollen wir schwimmen gehen? Marie und Hannah kommen auch.
+
+### Ich muss meine Mutter fragen. Und ich kann nicht so lange bleiben. Ich muss noch Englisch lernen. Wie lange wollt ihr denn schwimmen?
+
+### Also bis 18 Uhr oder so. Komm! Englisch kannst du auch noch morgen lernen.
