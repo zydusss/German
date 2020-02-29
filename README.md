@@ -157,14 +157,19 @@ She jogs in the park in the evening.
 1 Aug Super! No work. I can read in peace.
 
 ### Daniel will surfen lernen.
+Daniel wants to learn to surf.
 
 ### Sabine joggt jeden Tag.
+Sabine jogs every day.
 
 ### Paul macht einen Surf-Kurs.
+Paul is doing a surf course.
 
 ### Die Familie besucht die Insel Hiddensee.
+The family visits the island of Hiddensee.
 
 ### Lea will im Urlaub viel lesen.
+Lea wants to read a lot on vacation.
 
 ### Was passt zu Urlaub und Freizeit? Ziehen Sie die passenden Wörter in die Box.
-
+What suits vacation and leisure time? Drag the appropriate words into the box.
