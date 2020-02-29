@@ -191,3 +191,6 @@ go to the sea
 
 ### nicht arbeiten müssen
 don't have to work
+
+### Paul macht heute einen Ausflug. Er hat heute keine Schule. Daniel und Sabine haben heute viele Termine. Sie haben viel Stress. Nur Lea hat viel Freizeit. Sie spielt heute eine Stunde Klavier und geht dann mit Skip spazieren.
+Paul is going on an excursion today. He has no school today. Daniel and Sabine have a lot of appointments today. You have a lot of stress. Only Lea has a lot of free time. She plays the piano for an hour today and then goes for a walk with Skip.
