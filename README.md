@@ -359,3 +359,23 @@ Sabine has a meeting at 10 a.m. (to have a meeting at 10 am)
 ### Sabine muss am Freitag um drei einkaufen gehen.
 
 ### Sabine muss am Mittwoch bis um zwei in der Schule arbeiten.
+
+### Kommst du am Mittwoch mit ins Theater? 
+
+### Ja, gern. Wann denn? 
+
+### Georg und ich treffen uns um acht. 
+
+### Ok, bis dann.
+
+### Wollen wir im Winter Urlaub machen? 
+
+### Ja, gern.
+
+### Kannst du am Donnerstag zu Hause bleiben?
+
+### Nein, das geht leider nicht.
+
+### Von Montag bis Freitag muss Sabine um 6:00 Uhr aufstehen. Am Wochenende kann sie lange schlafen.
+
+### Eva hat im Februar viele Termine. Im März hat sie mehr Zeit.
