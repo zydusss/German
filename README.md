@@ -284,18 +284,25 @@ Lea: Super!
 
 
 ## Positionen im Satz
+Positions in the sentence
 
 ### Markieren Sie das Subjekt.
+Highlight the subject.
 
 ### Beispiel: Am Abend arbeitet Timo Marielli im Restaurant. Timo Marielli arbeitet am Abend im Restaurant.
+Example: Timo Marielli works in the restaurant in the evening. Timo Marielli works in the restaurant in the evening.
 
 ### Am Abend hat Franziska Goldberg oft Konzerte.
+Franziska Goldberg often has concerts in the evening.
 
 ### Sabine hat am Nachmittag frei.
+Sabine is free in the afternoon.
 
 ### Bei der Arbeit muss Timo Marielli immer freundlich sein.
+At work, Timo Marielli must always be friendly.
 
 ### Am Vormittag arbeitet Sabine in der Schule.
+Sabine works at school in the morning.
 
 ### Daniel hat im Büro viel Stress.
-
+Daniel has a lot of stress in the office.
