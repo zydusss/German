@@ -173,3 +173,10 @@ Lea wants to read a lot on vacation.
 
 ### Was passt zu Urlaub und Freizeit? Ziehen Sie die passenden Wörter in die Box.
 What suits vacation and leisure time? Drag the appropriate words into the box.
+
+### lange schlafen
+### surfen lernen
+### einen Ausflug machen
+### Freunde treffen können
+### ans Meer fahren
+### nicht arbeiten müssen
