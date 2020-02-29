@@ -211,3 +211,29 @@ Paul is going on an excursion today. He has no school today. Daniel and Sabine h
 ### Ich muss meine Mutter fragen. Und ich kann nicht so lange bleiben. Ich muss noch Englisch lernen. Wie lange wollt ihr denn schwimmen?
 
 ### Also bis 18 Uhr oder so. Komm! Englisch kannst du auch noch morgen lernen.
+
+### Daniel: Was wollt ihr morgen machen, Lea und Paul?
+
+### Paul: Ich will lange schlafen. Dann gehe ich wieder den ganzen Tag surfen. Ich muss noch viel üben. Und ich will schwimmen.
+
+### Daniel: Du auch, Lea?
+
+### Lea: Nein. Können wir morgen einen Ausflug machen? Und ich will ins Kino gehen.
+
+### Sabine: Das können wir ja am Abend machen.
+
+### Paul: Kino ist gut. Aber ich will keinen Ausflug machen. Ich will ans Meer.
+
+### Sabine: Daniel, willst du nicht auch einen Ausflug machen?
+
+### Daniel: Nein, ich will lieber im Meer schwimmen. Und am Abend will ich mein Buch lesen.
+
+### Sabine: Ich habe eine Idee. Daniel und Paul gehen ans Meer und Lea und ich machen einen Ausflug mit dem Fahrrad. Und am Abend gehen Lea, Paul und ich ins Kino, ja?
+
+### Daniel: Kann ich nicht mit ins Kino kommen?
+
+### Sabine: Und dein Buch?
+
+### Daniel: Ach, ich kann auch am Donnerstag lesen.
+
+### Lea: Super!
