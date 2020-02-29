@@ -409,3 +409,9 @@ written:	Der 10.05.	am 10.05.	vom 14.11.–20.11.
 spoken:	Der zehnte Mai	am zehnten Mai	vom vierzehnten bis zwanzigsten November
 
 
+### Wann ist Rock am Fluss? -  Vom 8. bis 11. Juni.
+### Was ist in Kiel?  Ein Reggae-Festival.
+### Wo sind die Beethovenfestspiele? In Ludwigshafen.
+### Wann ist das Rastafari Summer Weekend? Vom 3.8. bis 5.8.
+### Wo kann man klassische Musik hören? Bei den Beethovenfestspielen.
+### Wie heißt das Jazzfestival? Blue Note.
