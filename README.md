@@ -255,3 +255,25 @@ Daniel: Oh, I can also read on Thursday.
 
 ### Lea: Super!
 Lea: Super!
+
+### Sabine Pohl ist Lehrerin von Beruf. Die Arbeit mit den Kindern macht ihr viel Spaß. Am Vormittag arbeitet sie, am Nachmittag hat sie keine Schule. Sie unterrichtet an der Paul Klee Schule in Nürnberg.
+
+### Franziska Goldberg ist Musikerin. Sie spielt Violine. Als Musikerin muss sie jeden Tag üben. Am Abend hat sie oft Konzerte. Sie ist viel unterwegs. Sie spielt im Orchester in Weimar. Sie liebt Musik.
+
+### Timo Marielli arbeitet im Restaurant „Krone“ in Köln. Er bringt den Gästen Speisen und Getränke und hilft auch in der Küche. Er ist Kellner von Beruf. Timo mag gutes Essen und guten Wein. Bei der Arbeit muss er immer freundlich sein. Das ist oft schwer.
+
+### Markus Schenk arbeitet im Marien-Krankenhaus in Weinheim. Als Arzt kann er vielen kranken Menschen helfen. Die Gespräche mit den Patienten sind für ihn wichtig. Oft muss er auch am Abend oder in der Nacht arbeiten. Das ist nicht so schön.
+
+### Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike schreibt viele E-Mails. Für den Chef und andere Kollegen organisiert sie Meetings und Termine. Als Sekretärin muss sie sehr ordentlich und genau arbeiten.
+
+### Sabine ist Lehrerin. Sie arbeitet von Montag bis Freitag von 8:00 bis 13:00 Uhr. Sie arbeitet immer am Vormittag.
+
+### Daniel hat viele Termine und Stress.- Er hat im Büro nie Ruhe.
+
+### Franziska Goldberg hat viele Konzerte. - Sie reist oft.
+
+### Das Restaurant "Krone" hat von 18:00 Uhr bis 24:00 Uhr geöffnet. - Timo Marielli muss immer am Abend arbeiten.
+
+### Markus Schenk arbeitet vier Tage pro Woche von 22:00 Uhr bis 06:00 Uhr. - Er muss oft in der Nacht arbeiten.
+
+### Heike Weber arbeitet von Montag bis Freitag von 8:00 bis 14:00 Uhr. - Sie muss nie am Wochenende arbeiten.
