@@ -203,37 +203,55 @@ don't have to work
 Paul is going on an excursion today. He has no school today. Daniel and Sabine have a lot of appointments today. You have a lot of stress. Only Lea has a lot of free time. She plays the piano for an hour today and then goes for a walk with Skip.
 
 ### Eine Nachricht von Levi
+A message from Levi
 
 ### Paul bekommt eine Nachricht von Levi. Lesen Sie und ergänzen Sie die Sätze mit den passenden Verben in der richtigen Form. Schreiben Sie.
+Paul receives a message from Levi. Read and complete the sentences with the right verbs in the right form. You write.
 
 ### Hallo Paul, was machst du heute Nachmittag? Wollen wir schwimmen gehen? Marie und Hannah kommen auch.
+Hi Paul, what are you doing this afternoon? Do we want to go swimming? Marie and Hannah come too.
 
 ### Ich muss meine Mutter fragen. Und ich kann nicht so lange bleiben. Ich muss noch Englisch lernen. Wie lange wollt ihr denn schwimmen?
+I must ask my mother. And I can't stay that long. I still have to learn English. How long do you want to swim?
 
 ### Also bis 18 Uhr oder so. Komm! Englisch kannst du auch noch morgen lernen.
+So until 6 p.m. or so. Come over! You can still learn English tomorrow.
 
 ### Daniel: Was wollt ihr morgen machen, Lea und Paul?
+Daniel: What are you going to do tomorrow, Lea and Paul?
 
 ### Paul: Ich will lange schlafen. Dann gehe ich wieder den ganzen Tag surfen. Ich muss noch viel üben. Und ich will schwimmen.
+Paul: I want to sleep long. Then I go surfing all day again. I still have to practice a lot. And I want to swim.
 
 ### Daniel: Du auch, Lea?
+Daniel: You too, Lea?
 
 ### Lea: Nein. Können wir morgen einen Ausflug machen? Und ich will ins Kino gehen.
+Lea: No. Can we take a trip tomorrow? And I want to go to the cinema.
 
 ### Sabine: Das können wir ja am Abend machen.
+Sabine: We can do that in the evening.
 
 ### Paul: Kino ist gut. Aber ich will keinen Ausflug machen. Ich will ans Meer.
+Paul: Cinema is good. But I don't want to go on an excursion. I'd like to go to the ocean.
 
 ### Sabine: Daniel, willst du nicht auch einen Ausflug machen?
+Sabine: Daniel, don't you want to go on an excursion too?
 
 ### Daniel: Nein, ich will lieber im Meer schwimmen. Und am Abend will ich mein Buch lesen.
+Daniel: No, I prefer to swim in the sea. And in the evening I want to read my book.
 
 ### Sabine: Ich habe eine Idee. Daniel und Paul gehen ans Meer und Lea und ich machen einen Ausflug mit dem Fahrrad. Und am Abend gehen Lea, Paul und ich ins Kino, ja?
+Sabine: I have an idea. Daniel and Paul go to the sea and Lea and I go on a bike ride. And in the evening Lea, Paul and I go to the cinema, right?
 
 ### Daniel: Kann ich nicht mit ins Kino kommen?
+Daniel: Can't I come to the cinema with you?
 
 ### Sabine: Und dein Buch?
+Sabine: And your book?
 
 ### Daniel: Ach, ich kann auch am Donnerstag lesen.
+Daniel: Oh, I can also read on Thursday.
 
 ### Lea: Super!
+Lea: Super!
