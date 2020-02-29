@@ -423,3 +423,30 @@ das Orchester
 die klassische Musik
 der Song
 die Band
+
+
+Was machst du in Stuttgart? 
+
+Da ist ein Festival. Es ist wirklich toll. Da spielt auch T.A.S.K.
+
+ T.A.S.K? Die Band kenne ich nicht. 
+
+Sie spielt Metal.
+
+ Mario, kommst du auch zum Hip Hop Open Air?
+
+ Nein, das ist nicht meine Musik. Frag doch Jakob, deinen Kollegen.
+
+Gute Idee. Er mag Hip Hop und kommt sicher mit.
+
+ Magst du Heavy Metal?
+
+Nein, ich mag laute Musik nicht.
+
+Lisa, Petra, hört ihr gern Rock? Ich habe eine neue CD. Hier, hört mal! 
+
+Super.
+
+Geht ihr gern zu Klassikkonzerten?
+
+ Ja, Paul und ich mögen Klassik. Wir hören gern Mozart und Beethoven.
