@@ -175,8 +175,19 @@ Lea wants to read a lot on vacation.
 What suits vacation and leisure time? Drag the appropriate words into the box.
 
 ### lange schlafen
+sleep late
+
 ### surfen lernen
+learn to surf
+
 ### einen Ausflug machen
+take a trip
+
 ### Freunde treffen können
+Can meet friends
+
 ### ans Meer fahren
+go to the sea
+
 ### nicht arbeiten müssen
+don't have to work
