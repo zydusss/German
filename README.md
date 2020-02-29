@@ -165,3 +165,6 @@ She jogs in the park in the evening.
 ### Die Familie besucht die Insel Hiddensee.
 
 ### Lea will im Urlaub viel lesen.
+
+### Was passt zu Urlaub und Freizeit? Ziehen Sie die passenden Wörter in die Box.
+
