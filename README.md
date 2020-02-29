@@ -281,3 +281,21 @@ Lea: Super!
 ### Ich bin Architekt von Beruf. Ich arbeite im Büro, ich treffe Kunden oder fahre zu den Baustellen. Wir machen gerade Pläne für eine neue Schule in Nürnberg. Ich habe im Büro viel zu tun. Ich habe immer viele Termine und viel Stress. Das Telefon klingelt oft. Nie habe ich Ruhe. Ich arbeite oft sehr lange.
 
 ### Am Abend bin ich immer müde. Ich möchte nur fernsehen. Am Wochenende habe ich Zeit. Am Sonntag koche ich oft für die Familie.
+
+
+## Positionen im Satz
+
+### Markieren Sie das Subjekt.
+
+### Beispiel: Am Abend arbeitet Timo Marielli im Restaurant. Timo Marielli arbeitet am Abend im Restaurant.
+
+### Am Abend hat Franziska Goldberg oft Konzerte.
+
+### Sabine hat am Nachmittag frei.
+
+### Bei der Arbeit muss Timo Marielli immer freundlich sein.
+
+### Am Vormittag arbeitet Sabine in der Schule.
+
+### Daniel hat im Büro viel Stress.
+
