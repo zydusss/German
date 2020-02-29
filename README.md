@@ -450,3 +450,14 @@ Super.
 Geht ihr gern zu Klassikkonzerten?
 
  Ja, Paul und ich mögen Klassik. Wir hören gern Mozart und Beethoven.
+ 
+ 
+### Ich mag die Musik von Bananamood, und du? - Ja, ich mag sie auch.
+ 
+### Wann ist das Jazzkonzert? Weißt du das Datum? Ja, ich weiß es. Am 7.12.
+###  Wir müssen gehen. Das Konzert beginnt um acht. Hast du die Tickets? Ja, ich habe sie.
+ 
+### Ich finde den Film „Lola rennt“ toll, und du? Hm, ich finde ihn nicht so gut.
+ 
+### Siehst du Jonas und Jule auf dem Festival im Sommer? Ja, ich sehe sie in Leipzig.
+### Ich lese gerade das neue Buch von Anton Miller. Kennst du den Roman? Nein, ich kenne ihn nicht.
