@@ -277,3 +277,7 @@ Lea: Super!
 ### Markus Schenk arbeitet vier Tage pro Woche von 22:00 Uhr bis 06:00 Uhr. - Er muss oft in der Nacht arbeiten.
 
 ### Heike Weber arbeitet von Montag bis Freitag von 8:00 bis 14:00 Uhr. - Sie muss nie am Wochenende arbeiten.
+
+### Ich bin Architekt von Beruf. Ich arbeite im Büro, ich treffe Kunden oder fahre zu den Baustellen. Wir machen gerade Pläne für eine neue Schule in Nürnberg. Ich habe im Büro viel zu tun. Ich habe immer viele Termine und viel Stress. Das Telefon klingelt oft. Nie habe ich Ruhe. Ich arbeite oft sehr lange.
+
+### Am Abend bin ich immer müde. Ich möchte nur fernsehen. Am Wochenende habe ich Zeit. Am Sonntag koche ich oft für die Familie.
