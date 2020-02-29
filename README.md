@@ -308,20 +308,54 @@ Sabine works at school in the morning.
 Daniel has a lot of stress in the office.
 
 ### Sabine hat am Nachmittag frei.
+Sabine works at school in the morning.
+
 ### Timo Marielli muss bei der Arbeit immer freundlich sein.
+Timo Marielli must always be friendly at work.
+
 ### Am Vormittag arbeitet Sabine in der Schule.
+Daniel has a lot of stress in the office.
+
 ### Im Büro hat Daniel viel Stress.
+Sabine is free in the afternoon.
+
 ### Markus Schenk muss oft in der Nacht arbeiten.
+Markus Schenk often has to work at night.
+
 ### Am Wochenende arbeitet Heike Weber nie.
+Heike Weber never works on weekends.
 
 ### Am Montag habe ich einen Termin. (ich | einen Termin | haben)
+I have an appointment on Monday. (I | have an appointment |)
 
 ### Am Vormittag musst du arbeiten. (du | müssen | arbeiten)
+You have to work in the morning. (you have to work)
 
 ### Wir haben am Wochenende Zeit. (am Wochenende | Zeit | haben)
+We have time on weekends. (to have | weekend | time)
 
 ### Daniel kocht am Wochenende. (am Wochenende | kochen)
+Daniel cooks on the weekend. (weekend | cooking)
 
 ### Am Abend spielst du Fußball. (du | Fußball | spielen)
+In the evening you play soccer. (you | play | football)
 
 ### Sabine hat um 10 Uhr ein Meeting. (um 10 Uhr | ein Meeting | haben)
+Sabine has a meeting at 10 a.m. (to have a meeting at 10 am)
+
+## Am Samstag um zehn
+
+### Wann fährst du?	Ich fahre am Montag.
+# Wann ist das Meeting?	Am Donnerstag um halb elf / um 10 Uhr 30.
+
+
+
+### Lea hat am Dienstag um zwei Klavierunterricht.
+
+### Paul spielt am Mittwoch um drei Fußball.
+
+### Am Donnerstag um eins kommt Eva.
+
+### Sabine muss am Freitag um drei einkaufen gehen.
+
+### Sabine muss am Mittwoch bis um zwei in der Schule arbeiten.
