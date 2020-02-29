@@ -343,6 +343,40 @@ In the evening you play soccer. (you | play | football)
 ### Sabine hat um 10 Uhr ein Meeting. (um 10 Uhr | ein Meeting | haben)
 Sabine has a meeting at 10 a.m. (to have a meeting at 10 am)
 
+
+## Wie ist die Arbeit?
+
+### Lesen und hören Sie das Telefongespräch. Welche Aussage passt? Wählen Sie aus.
+
+### Pohl. - Hallo Daniel, hast du kurz Zeit? Können wir ein paar Termine besprechen? Kannst du nächsten Dienstag am Vormittag? Die Kinder haben einen Termin beim Zahnarzt.
+
+###  Welches Datum ist das?
+
+### Der 13. Mai.
+
+### Warte, ich schaue in meinen Kalender, Moment. Das geht leider nicht, da treffe ich einen wichtigen Kunden.
+
+### Ok. Dann muss ich mitgehen. Noch eine Frage, ich möchte unseren Urlaub planen. Wann wollen wir fahren, im Juli oder im August?
+
+### August ist gut. Fahren wir zwei oder drei Wochen?
+
+### Mhm. Ich denke: Wir fahren drei Wochen, vom 02.–23. August.
+
+### Ja, das ist gut.
+
+### Gut – und am Mittwoch, den 21. Mai, habe ich am Abend einen Termin in der Schule. Kannst du dann bei den Kindern sein?
+
+### Moment. Ja, das geht.
+
+### Sehr schön. Ok, das war's. Bis heute Abend!
+
+### Ja, bis dann. Tschüs.
+
+
+
+
+
+
 ## Am Samstag um zehn
 
 ### Wann fährst du?	Ich fahre am Montag.
