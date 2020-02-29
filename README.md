@@ -379,3 +379,33 @@ Sabine has a meeting at 10 a.m. (to have a meeting at 10 am)
 ### Von Montag bis Freitag muss Sabine um 6:00 Uhr aufstehen. Am Wochenende kann sie lange schlafen.
 
 ### Eva hat im Februar viele Termine. Im März hat sie mehr Zeit.
+
+
+	Welches Datum ist heute?		
+ 	Der
+erste (1.)
+zweite (2.)
+dritte (3.)
+siebte (7.)
+dreizehnte (13.)
+siebenundzwanzigste (27.)	... Juni
+
+
+Wann ist der Termin?
+Am
+ersten (1.)
+zweiten (2.)
+dritten (3.)
+siebten (7.)
+dreizehnten (13.)
+siebenundzwanzigsten (27.)
+Am Mittwoch, den zehnten Mai (10.05.)	... Juni	
+
+Wann machst du Urlaub?
+
+Vom ersten bis zum siebenundzwanzigsten Juni.
+Vom 1. bis 27.6.
+written:	Der 10.05.	am 10.05.	vom 14.11.–20.11.
+spoken:	Der zehnte Mai	am zehnten Mai	vom vierzehnten bis zwanzigsten November
+
+
