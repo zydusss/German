@@ -306,3 +306,10 @@ Sabine works at school in the morning.
 
 ### Daniel hat im Büro viel Stress.
 Daniel has a lot of stress in the office.
+
+### Sabine hat am Nachmittag frei.
+### Timo Marielli muss bei der Arbeit immer freundlich sein.
+### Am Vormittag arbeitet Sabine in der Schule.
+### Im Büro hat Daniel viel Stress.
+### Markus Schenk muss oft in der Nacht arbeiten.
+### Am Wochenende arbeitet Heike Weber nie.
