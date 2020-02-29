@@ -461,3 +461,94 @@ Geht ihr gern zu Klassikkonzerten?
  
 ### Siehst du Jonas und Jule auf dem Festival im Sommer? Ja, ich sehe sie in Leipzig.
 ### Ich lese gerade das neue Buch von Anton Miller. Kennst du den Roman? Nein, ich kenne ihn nicht.
+
+
+Zum Kurzfilmfestival sind wir im Lux-Kino. Du kennst uns doch. Wir lieben Filme.
+
+Hast du am Samstagabend Zeit? Ich möchte dich gern mal wieder sehen.
+
+Hallo Karin, du und Emma, ihr seid doch auch in Kino 2, oder? Wo seid ihr? Ich sehe euch nicht.
+
+Hallo Max, ich gehe am Samstag auch zum Konzert. Du fährst doch mit dem Auto, kannst du mich mitnehmen?
+
+Kennst du ihn?
+
+Du kennst mich noch nicht, oder? Ich heiße …
+
+Mario mag doch auch Jazz, oder? Vielleicht möchte er morgen auch auf das Konzert gehen?
+Ich frage ihn.
+
+Geht ihr morgen auch ins Theater? Wir können euch mitnehmen.
+
+Ich mag keinen Hip Hop. Das weißt du, oder? Du kennst mich doch.
+
+Lena und ich haben keine Lust auf das Festival. Wir kommen nicht mit.
+
+Kauft ihr keine CD? Die Band ist doch super. Ich nehme eine CD.
+
+## Wie findest du die Band?
+
+Wie findest du die Band?
+
+Ich finde sie toll.
+
+Magst du den Song von Rammstein?
+
+Ich finde ihn super.
+
+Wie findest du das Theaterstück?
+
+Ich finde es langweilig.
+
+Echt? Das Stück ist doch toll.
+
+Möchtest du den neuen Film sehen?
+
+Na klar möchte ich ihn sehen. Gehen wir am Freitag ins Kino?
+
+Hast du Lust auf ein Essen im Restaurant? Ich möchte dich einladen.
+
+Ja, gern. Danke.
+
+Sieh mal dort: Kennst du die Leute?
+
+Nein, ich kenne sie nicht.
+
+Hallo, Lisa hier. Ich sehe Jonas und dich nicht. Wo seid ihr? Ich suche euch.
+
+Hallo, Jonas und ich sind hier an der Bühne links. Siehst du uns jetzt?
+
+
+Magst/Liebst du …?	Ja, sehr. / Ich liebe/mag ...
+Nein, ich mag … nicht.
+Wie findest du …?	… finde ich toll/super/langweilig …
+Gehst du gern ins Theater / ins Kino?	Ja, sehr gern.
+Ja, ich gehe gern …
+
+
+
+
+Magst du Bücher?
+Hast du einen Lieblingsfilm?
+Gehst du gern ins Theater?
+Magst du Rockmusik?
+Gehst du oft zu Konzerten?
+  
+Magst du Rockmusik?
+Ja, ich liebe Rock.
+
+Gehst du gern ins Theater?
+Nein, ich mag Theaterstücke nicht so gern. Ich sehe lieber Filme.
+
+ 
+Gehst du oft zu Konzerten?
+Ich mag Konzerte, aber ich gehe nicht oft. Ich habe keine Zeit.
+
+  
+Magst du Bücher?
+Ja sehr. Ich lese gern.
+
+Hast du einen Lieblingsfilm?
+Ja, Lola rennt und Herr der Ringe. Ich gehe gern ins Kino.
+
+ 
