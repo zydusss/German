@@ -57,8 +57,58 @@ ich	         will	      muss      	kann
           sie/Sie	    wollen	    müssen    	können
 
 
+<table>
+	<tr>
+		<td></td>
+		<td>wollen</td>
+		<td>müssen</td>
+		<td>können</td>
+	</tr>
+
+	<tr>
+		<td>ich</td>
+		<td>will</td>
+		<td>muss</td>
+		<td>kann</td>
+	</tr>
 
 
+	<tr>
+		<td>du</td>
+		<td>willst</td>
+		<td>musst</td>
+		<td>kannst</td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+
+</table>
 ### Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
 You have to learn vocabulary this afternoon.
 
@@ -194,3 +244,5 @@ don't have to work
 
 ### Paul macht heute einen Ausflug. Er hat heute keine Schule. Daniel und Sabine haben heute viele Termine. Sie haben viel Stress. Nur Lea hat viel Freizeit. Sie spielt heute eine Stunde Klavier und geht dann mit Skip spazieren.
 Paul is going on an excursion today. He has no school today. Daniel and Sabine have a lot of appointments today. You have a lot of stress. Only Lea has a lot of free time. She plays the piano for an hour today and then goes for a walk with Skip.
+
+### Eine Nachricht von Levi
