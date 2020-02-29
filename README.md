@@ -313,3 +313,15 @@ Daniel has a lot of stress in the office.
 ### Im Büro hat Daniel viel Stress.
 ### Markus Schenk muss oft in der Nacht arbeiten.
 ### Am Wochenende arbeitet Heike Weber nie.
+
+### Am Montag habe ich einen Termin. (ich | einen Termin | haben)
+
+### Am Vormittag musst du arbeiten. (du | müssen | arbeiten)
+
+### Wir haben am Wochenende Zeit. (am Wochenende | Zeit | haben)
+
+### Daniel kocht am Wochenende. (am Wochenende | kochen)
+
+### Am Abend spielst du Fußball. (du | Fußball | spielen)
+
+### Sabine hat um 10 Uhr ein Meeting. (um 10 Uhr | ein Meeting | haben)
