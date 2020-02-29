@@ -48,8 +48,17 @@ Lea doesn't want to go for a walk with Skip today. You and Marie want to play in
 Which Modal Verb Fits
 
 
-	          wollen	    müssen	    können
-ich	         will	      muss      	kann
+|           | wollen | müssen | können | sollen |
+|-----------|--------|--------|---|---|
+| ich       | will | muss | kann |
+| du        |        |        |   |   |
+| er/es/sie |        |        |   |   |
+
+
+
+|	|wollen|müssen||
+------------------------------
+|ich|will||muss|kann|
 	du	        willst    	musst	      kannst
 	er/es/sie	   will	      muss	      kann
           wir	        wollen	    müssen	    können
@@ -57,58 +66,6 @@ ich	         will	      muss      	kann
           sie/Sie	    wollen	    müssen    	können
 
 
-<table>
-	<tr>
-		<td></td>
-		<td>wollen</td>
-		<td>müssen</td>
-		<td>können</td>
-	</tr>
-
-	<tr>
-		<td>ich</td>
-		<td>will</td>
-		<td>muss</td>
-		<td>kann</td>
-	</tr>
-
-
-	<tr>
-		<td>du</td>
-		<td>willst</td>
-		<td>musst</td>
-		<td>kannst</td>
-	</tr>
-
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-
-</table>
 ### Du musst  heute Nachmittag Vokabeln lernen (müssen / lernen).
 You have to learn vocabulary this afternoon.
 
