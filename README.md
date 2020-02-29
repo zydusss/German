@@ -552,3 +552,21 @@ Hast du einen Lieblingsfilm?
 Ja, Lola rennt und Herr der Ringe. Ich gehe gern ins Kino.
 
  
+Wir fangen gleich mit der Planung an.
+
+Wir laden Freunde ein.
+Wir kaufen Essen und Getränke ein.
+Wir räumen die Wohnung auf.
+Jeder bringt etwas mit.
+Ich schreibe alles auf.
+
+Marek, rufst du Tom und Robert an?
+
+Wer lädt die Freunde zur Party ein?
+
+Wer kauft Getränke ein?
+
+Tino und Marek, räumt ihr die Wohnung auf?
+
+Wer bringt Kuchen mit?
+
