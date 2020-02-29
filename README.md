@@ -415,3 +415,11 @@ spoken:	Der zehnte Mai	am zehnten Mai	vom vierzehnten bis zwanzigsten November
 ### Wann ist das Rastafari Summer Weekend? Vom 3.8. bis 5.8.
 ### Wo kann man klassische Musik hören? Bei den Beethovenfestspielen.
 ### Wie heißt das Jazzfestival? Blue Note.
+
+
+das Kino
+der Film
+das Orchester
+die klassische Musik
+der Song
+die Band
