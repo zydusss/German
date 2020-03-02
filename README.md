@@ -1,3 +1,9 @@
+|  | Informels | Formal |
+|----|-----------|---------------|
+| A: | Hallo! | Guten Morgen! |
+| B: | Hallo! | Guten Morgen! |
+
+
 ### kann ==== can
 ### muss ==== got to
 ### will ==== want
