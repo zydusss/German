@@ -684,6 +684,8 @@ No. The concert is on October 7th.
 ### Oh, schade. Da kann ich nicht, leider. Da habe ich einen wichtigen Termin in Bremen.
 Oh shame. I can't, unfortunately. I have an important appointment in Bremen.
 
++ ich muss los ~ I have to go
+
 ### Wirklich schade. Oh, ich muss los. Ich habe gleich ein Meeting. Treffen wir uns mal wieder und trinken ein Bier?
 A real shame. Oh, I have to go. I have a meeting right away. Do we meet again and have a beer?
 
@@ -693,10 +695,21 @@ Gladly. Next week?
 
 ### Martin hat am ersten Oktober Geburstag.
 
++ ersten ~ first
+
 ### Er lädt alle am siebten Oktober ein.
 
+~  lädt alle ~invites everyone
+
 ### Martins Lieblings Kneipe heißt Moe’s.
+
++ Termin ~ Meeting
 
 ### Tobias hat am 7.10. einen Termin.
 
 ### Martin möchte Tobias treffen.
+
++ Einladung ~ Invitation
+
+## Einladung zum Geburtstag
+
