@@ -649,24 +649,44 @@ Tobias hat am 7.10. einen Termin.
 Martin möchte Tobias treffen.
 
 ## Geburstag
-
+Birthday
 
 ### Hallo Tobias, wie geht's?
+Hello Tobias, how are you?
 
 ### Martin, hallo. Danke, gut. Und dir?
+Martin, hello. Good thank you. And you?
+
+```diff
+- feiere   ~    celebrate
+- bald     ~    soon
+```
 
 ### Auch gut, danke. Du, ich feiere bald meinen 50. Geburtstag. Du bist herzlich eingeladen.
+Thank you, I'm doing well too. You, I'm going to celebrate my 50th birthday soon. You are cordially invited.
 
 ### Richtig. Du hast ja am 1. Oktober Geburtstag.
+Right. It's your birthday on October 1st.
+
+```diff
+- lade   ~    invite
+```
 
 ### Ja, ich lade alle zu einem Jazzkonzert und dann ins Moe's ein. Das ist meine Lieblingskneipe.
+Yes, I invite everyone to a jazz concert and then to Moe's. This is my favorite pub.
 
 ### Das klingt toll. Danke. Wann feierst du denn, am ersten?
+That sounds good. Thank you. When do you celebrate, on the first?
 
 ### Nein. Das Konzert ist am 7. Oktober.
+No. The concert is on October 7th.
 
 ### Oh, schade. Da kann ich nicht, leider. Da habe ich einen wichtigen Termin in Bremen.
+Oh shame. I can't, unfortunately. I have an important appointment in Bremen.
 
 ### Wirklich schade. Oh, ich muss los. Ich habe gleich ein Meeting. Treffen wir uns mal wieder und trinken ein Bier?
+A real shame. Oh, I have to go. I have a meeting right away. Do we meet again and have a beer?
 
 ### Gern. Nächste Woche?
+
+Gladly. Next week?
