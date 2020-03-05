@@ -691,12 +691,12 @@ A real shame. Oh, I have to go. I have a meeting right away. Do we meet again an
 Gladly. Next week?
 
 
-### Martin hat am ersten Oktober ____.
+### Martin hat am ersten Oktober Geburstag.
 
-### Er lädt alle am _____ Oktober ein.
+### Er lädt alle am siebten Oktober ein.
 
-### Martins Lieblings _____ heißt Moe’s.
+### Martins Lieblings Kneipe heißt Moe’s.
 
-### Tobias hat am 7.10. _____.
+### Tobias hat am 7.10. einen Termin.
 
-### Martin möchte _____.
+### Martin möchte Tobias treffen.
