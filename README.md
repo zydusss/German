@@ -647,3 +647,26 @@ Martins Lieblings Kneipe heißt Moe’s.
 Tobias hat am 7.10. einen Termin.
 
 Martin möchte Tobias treffen.
+
+## Geburstag
+
+
+### Hallo Tobias, wie geht's?
+
+### Martin, hallo. Danke, gut. Und dir?
+
+### Auch gut, danke. Du, ich feiere bald meinen 50. Geburtstag. Du bist herzlich eingeladen.
+
+### Richtig. Du hast ja am 1. Oktober Geburtstag.
+
+### Ja, ich lade alle zu einem Jazzkonzert und dann ins Moe's ein. Das ist meine Lieblingskneipe.
+
+### Das klingt toll. Danke. Wann feierst du denn, am ersten?
+
+### Nein. Das Konzert ist am 7. Oktober.
+
+### Oh, schade. Da kann ich nicht, leider. Da habe ich einen wichtigen Termin in Bremen.
+
+### Wirklich schade. Oh, ich muss los. Ich habe gleich ein Meeting. Treffen wir uns mal wieder und trinken ein Bier?
+
+### Gern. Nächste Woche?
