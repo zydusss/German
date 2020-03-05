@@ -688,5 +688,15 @@ Oh shame. I can't, unfortunately. I have an important appointment in Bremen.
 A real shame. Oh, I have to go. I have a meeting right away. Do we meet again and have a beer?
 
 ### Gern. Nächste Woche?
-
 Gladly. Next week?
+
+
+### Martin hat am ersten Oktober ____.
+
+### Er lädt alle am _____ Oktober ein.
+
+### Martins Lieblings _____ heißt Moe’s.
+
+### Tobias hat am 7.10. _____.
+
+### Martin möchte _____.
