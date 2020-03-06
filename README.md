@@ -740,37 +740,50 @@ Martin
 
 
 ## Nach dem Konzert
+After the concert
 
 
 ### Silvia: Martin, die Band ist echt toll.
+Silvia: Martin, the band is really great.
 
 ### Martin: Ja, ich kenne sie aus Stuttgart.
+Martin: Yes, I know her from Stuttgart.
 
 ### Kellner: Hat noch jemand einen Wunsch? Wir schließen bald.
+Waiter: Anyone else have a wish? We'll close soon.
 
 ### Michael: Oh, ist es schon so spät?
+Michael: Oh, is it so late?
 
 ### Kai: Ja, halb zwei.
+Kai: Yes, half past one.
 
 ### Martin: Oh, nein, danke. Wir möchten zahlen, bitte.
+Martin: Oh, no, thanks. We want to pay, please.
 
 ### Kellner: Sehr gern. Ich bringe die Rechnung. Zahlen Sie zusammen oder getrennt?
+Waiter: Very happy. I bring the bill. Are you paying together or seperately?
 
 ### Martin: Zusammen, bitte.
+Martin: Together, please.
 
 ### Kellner: Das macht dann 122 Euro und 70 Cent.
+Waiter: That makes 122 euros and 70 cents.
 
 ### Martin: Machen Sie 130 Euro, bitte.
+Martin: Make 130 euros, please.
 
 ### Kellner: 150 Euro, und ... 20 Euro für Sie zurück. Vielen Dank. Einen schönen Abend für Sie alle und noch ein schönes Wochenende.
+Waiter: 150 euros, and ... 20 euros back for you. Thank you very much. Have a nice evening for all of you and have a nice weekend.
 
 ### Martin: Danke. Ihnen auch. Auf Wiedersehen.
+Martin: Thanks. You too. Goodbye.
 
 ### Gerlinde: Ja dann: Wir sagen schon mal Tschüs.
+Gerlinde: Yes, we say goodbye.
 
 ### Michael: Vielen Dank nochmal für die Einladung. Wir sehen uns bald, oder?
+Michael: Thank you again for the invitation. See you soon, right?
 
 ### Martin: Sehr gern. Danke euch. Bis bald.
-
-
-
+Martin: Very much. Thank you. See you soon.
