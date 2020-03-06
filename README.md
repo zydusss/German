@@ -710,6 +710,23 @@ Gladly. Next week?
 ### Martin möchte Tobias treffen.
 
 + Einladung ~ Invitation
++ möchte ~
++ euch ~
++ geben ~
++ Stadt ~
++ Als ~
++ herzlich ~
++ dazu ~
++ tollen ~
 
 ## Einladung zum Geburtstag
 
+Liebe Freunde,
+
+ich möchte meinen 50. Geburtstag mit euch   . Am Samstag, den 7.   geben die Accousticals ein Konzert in der Stadt.
+Als   Fan möchte ich euch herzlich dazu   .
+Beginn ist um 20:00 Uhr im Cube. Nach dem   feiern wir im Moe`s weiter - meine Lieblingskneipe. Ich reserviere einen großen Tisch. Könnt ihr kommen?
+
+Bitte gebt bis 10.9. Bescheid. Ruft an oder schreibt eine   .
+Ich freue mich auf einen tollen   mit euch!
+Martin
