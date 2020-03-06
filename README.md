@@ -787,3 +787,17 @@ Michael: Thank you again for the invitation. See you soon, right?
 
 ### Martin: Sehr gern. Danke euch. Bis bald.
 Martin: Very much. Thank you. See you soon.
+
++ KELLNER ~ Waiter
++ GAST ~ Guest
+
+
+### Eine Suppe, ein Bier. Das macht dann 10,25 Euro.
+### Ich bringe die Rechnung.
+### Vielen Dank. Und 15 Euro für Sie zurück.
+### Zahlen Sie zusammen oder getrennt?
+### Getrennt bitte.
+### Machen Sie 30 Euro.
+### Wir möchten zahlen, bitte.
+### Wir zahlen zusammen.
+
