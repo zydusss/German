@@ -737,3 +737,40 @@ Ich freue mich auf einen tollen Abend  mit euch!
 Please give until 10.9. Notice. Call or write one. I look forward to a great time with you!
 
 Martin
+
+
+## Nach dem Konzert
+
+
+### Silvia: Martin, die Band ist echt toll.
+
+### Martin: Ja, ich kenne sie aus Stuttgart.
+
+### Kellner: Hat noch jemand einen Wunsch? Wir schließen bald.
+
+### Michael: Oh, ist es schon so spät?
+
+### Kai: Ja, halb zwei.
+
+### Martin: Oh, nein, danke. Wir möchten zahlen, bitte.
+
+### Kellner: Sehr gern. Ich bringe die Rechnung. Zahlen Sie zusammen oder getrennt?
+
+### Martin: Zusammen, bitte.
+
+### Kellner: Das macht dann 122 Euro und 70 Cent.
+
+### Martin: Machen Sie 130 Euro, bitte.
+
+### Kellner: 150 Euro, und ... 20 Euro für Sie zurück. Vielen Dank. Einen schönen Abend für Sie alle und noch ein schönes Wochenende.
+
+### Martin: Danke. Ihnen auch. Auf Wiedersehen.
+
+### Gerlinde: Ja dann: Wir sagen schon mal Tschüs.
+
+### Michael: Vielen Dank nochmal für die Einladung. Wir sehen uns bald, oder?
+
+### Martin: Sehr gern. Danke euch. Bis bald.
+
+
+
