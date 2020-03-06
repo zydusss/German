@@ -710,23 +710,35 @@ Gladly. Next week?
 ### Martin möchte Tobias treffen.
 
 + Einladung ~ Invitation
-+ möchte ~
-+ euch ~
-+ geben ~
-+ Stadt ~
-+ Als ~
-+ herzlich ~
-+ dazu ~
-+ tollen ~
++ möchte ~ would like
++ euch ~ you
++ geben ~ give
++ Stadt ~ City
++ Als ~ As
++ herzlich ~ warmly
++ dazu ~ to this
++ tollen ~ great
 
-## Einladung zum Geburtstag
+## Einladung zum Geburtstag (birthday invitation)
 
 Liebe Freunde,
+Dear friend,
 
 ich möchte meinen 50. Geburtstag mit euch   . Am Samstag, den 7.   geben die Accousticals ein Konzert in der Stadt.
 Als   Fan möchte ich euch herzlich dazu   .
+I want my 50th birthday with you. On Saturday 7th the Accousticals give a concert in the city. As a fan, I would like to warmly welcome you to this.
+
 Beginn ist um 20:00 Uhr im Cube. Nach dem   feiern wir im Moe`s weiter - meine Lieblingskneipe. Ich reserviere einen großen Tisch. Könnt ihr kommen?
+ The start is at 8:00 p.m. in the Cube. After that, we continue to celebrate at Moe's - my favorite pub. I reserve a large table. Can you come?
 
 Bitte gebt bis 10.9. Bescheid. Ruft an oder schreibt eine   .
 Ich freue mich auf einen tollen   mit euch!
+
+Please give until 10.9. Notice. Call or write one. I look forward to a great time with you!
+
 Martin
+
+
+
+
+
