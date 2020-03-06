@@ -801,3 +801,29 @@ Martin: Very much. Thank you. See you soon.
 ### Wir möchten zahlen, bitte.
 ### Wir zahlen zusammen.
 
+
+### Zahlen bitte!
+
+
+Separable verbs:
+Emphasis on the prefix
+Kannst du Ina vom Bahnhof abholen?
+Könnt ihr Kuchen mitbringen?
+
+Verbs without a prefix:
+Emphasis on the root syllable
+Kannst du Brot kaufen?
+
+Ina vom Bahnhof abholen
+
+das Wohnzimmer aufräumen
+
+Chips kaufen
+
+Tom und Jens einladen
+
+Kuchen machen
+
+den Getränkeservice anrufen
+
+ 
