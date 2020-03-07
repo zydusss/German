@@ -920,3 +920,18 @@ Die Party fängt um acht an (anfangen | um acht). Jeder bringt etwas mit. Kannst
 Ich freue mich (freuen | mich).
  Gruß 
 Tino
+
+
+
+
+## Die neue Wohnung
+
+Sehen Sie sich die Audioslideshow an und hören Sie. Lesen Sie die Texte über die Wohnung. Welcher passt? Wählen Sie aus
+
+Wenn das Video bei Ihnen nicht angezeigt wird, klicken Sie bitte hier.
+
+Die neue Wohnung ist sehr hell. Sie hat drei Zimmer: Wohnzimmer, Schlafzimmer und Arbeitszimmer. Das Schlafzimmer und das Wohnzimmer sind groß und hell. Es gibt eine Küche, ein Bad und eine Toilette. Die Wohnung hat auch einen Balkon.Correct
+
+Die neue Wohnung ist nicht groß. Sie hat kein Arbeitszimmer und keinen Balkon. Aber sie hat ein Schlafzimmer und ein Wohnzimmer. Die Küche, das Bad und die Toilette sind klein.
+
+Die neue Wohnung ist groß und hat drei Zimmer. Sie hat ein Wohnzimmer, ein Schlafzimmer und ein Arbeitszimmer. Das Bad ist sehr klein, aber die Küche ist groß. Sie hat auch eine Terrasse.
