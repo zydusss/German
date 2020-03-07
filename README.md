@@ -838,3 +838,22 @@ Die Party ist in zwei Tagen. falsch
 Die Drei müssen einkaufen.  richtig
 
 Marek will alles aufschreiben.  
+
+
+
+Wann wollen wir am Samstag anfangen, um acht oder um halb neun?
+( wollen | anfangen )
+
+Was meint ihr, wollen wir Lars und Sonja aus Weimar auch einladen?
+( wollen | einladen )
+
+Ich muss Evelin am Wochenende anrufen. Sie kommt sicher gern.
+( müssen | anrufen )
+
+Silvie hat kein Auto. Sie kann die Getränke nicht einkaufen.
+( können | einkaufen )
+
+Wir müssen nicht so viel einkaufen. Jeder bringt etwas mit.
+( müssen | einkaufen )
+
+
