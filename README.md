@@ -857,3 +857,46 @@ Wir müssen nicht so viel einkaufen. Jeder bringt etwas mit.
 ( müssen | einkaufen )
 
 
+## Räumt ihr auf?
+
+Silvie und Marek, räumt ihr die Wohnung auf? Ok. Wir räumen die Wohnung auf.
+Kauft ihr bitte die Getränke ein? Gut. Wir nehmen das Auto und kaufen Bier, Wein und Saft ein.
+Marek, kannst du Tom anrufen? Er kann sicher die Musik auf der Party machen. Klar, ich kann ihn anrufen.
+Schreibst du die Einladung, Silvie? Ja, ich kann die Einladung schreiben. Ich schreibe eine E-Mail an alle. Gebt mir die Adressen.
+Wer bringt Kuchen mit? Ich frage Leo. Er kann gut backen.
+
+Wir laden euch ein
+Lesen Sie die Einladung. Lesen Sie die Satzteile. Was passt zusammen? Ziehen Sie die Paare aufeinander.
+
+Silvie, Marek und Tino machen eine Party.
+Sie feiern in der Blücherstraße.
+Sie freuen sich über einen Kuchen oder einen Salat.
+Die Party ist am 24. Mai.
+Die Party beginnt um 20 Uhr.
+
+
+Silvie ruft ihre Freundin Evelin an und lädt sie zur Party ein. Was sagt Silvie? Ziehen Sie die Sätze an die passende Stelle im Dialog. Hören Sie dann und vergleichen Sie.
+
+Evelin Richter, hallo.
+
+Hallo Evelin, Silvie hier.
+
+Hallo Silvie. Wie geht`s?
+
+Sehr gut, danke. Wir machen eine Party. Hast du am Samstag Zeit?
+
+Oh, schön. Wann fangt ihr denn an?
+Um acht.
+
+Super. Aber meine Schwester ist am Wochenende da, kann sie mitkommen?
+Klar. Kein Problem. Fahrt ihr mit dem Zug? Wann kommt ihr an?
+
+So um halb neun.
+
+Schön. Ich hole euch ab.
+
+Danke … Wir bringen einen Kartoffelsalat mit, ok?
+
+Super! Ich freue mich. Dann bis Samstag.
+
+Ja, … und danke für die Einladung. Tschüs!
