@@ -827,3 +827,14 @@ Kuchen machen
 den Getränkeservice anrufen
 
  
+Wenn das Video bei Ihnen nicht angezeigt wird, klicken Sie bitte hier.
+
+Marek möchte eine Party machen und fragt Tino. falsch
+
+Silvie findet die Idee gut. richtig
+
+Die Party ist in zwei Tagen. falsch
+
+Die Drei müssen einkaufen.  richtig
+
+Marek will alles aufschreiben.  
