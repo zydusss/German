@@ -935,3 +935,89 @@ Die neue Wohnung ist sehr hell. Sie hat drei Zimmer: Wohnzimmer, Schlafzimmer un
 Die neue Wohnung ist nicht groß. Sie hat kein Arbeitszimmer und keinen Balkon. Aber sie hat ein Schlafzimmer und ein Wohnzimmer. Die Küche, das Bad und die Toilette sind klein.
 
 Die neue Wohnung ist groß und hat drei Zimmer. Sie hat ein Wohnzimmer, ein Schlafzimmer und ein Arbeitszimmer. Das Bad ist sehr klein, aber die Küche ist groß. Sie hat auch eine Terrasse.
+
+## Wie gefallen Ihnen die Zimmer?
+
+Wie gefällt dir/Ihnen der Balkon / das Zimmer / die Küche?	Er/Es/Sie gefällt mir.
+Er/Es/Sie gefällt mir (sehr) gut.
+Er/Es/Sie gefällt mir nicht (so gut).
+Wie gefallen dir/Ihnen die Zimmer?	Sie gefallen mir.
+Sie gefallen mir (sehr) gut.
+
+
+### Lesen Sie die Dialoge. Wählen Sie die korrekte Form von gefallen aus.
+
+Und, wie gefällt dir unsere Wohnung?
+
+Sehr gut. Mir gefallen vor allem die Kinderzimmer. Sie sind so groß und hell. Und eure Küche ist auch toll.
+
+Frau Klein, wie gefällt Ihnen die Wohnung?
+
+Die Küche und das Wohnzimmer sind schön, sie gefallen mir. Aber das Bad und der Balkon sind leider sehr klein.
+
+Kein Problem. Ich zeige Ihnen noch andere Wohnungen.
+
+Guten Tag, Frau Maier, Guten Tag, Herr Maier, wie geht es Ihnen?
+
+Gut, danke. Und Ihnen?
+
+Auch gut. Kommen Sie, ich zeige Ihnen die Wohnung. Hier ist das Schlafzimmer, und dort das Wohnzimmer. Wie gefallen Ihnen die Zimmer?
+
+Das Schlafzimmer gefällt mir sehr gut, das Wohnzimmer nicht. Es ist ein bisschen dunkel.
+
+Mir gefallen die Zimmer nicht, sie sind sehr klein.
+Sie gefallen mir nicht (so gut).
+
+## Wie finden Sie die Küche?
+
+Wie gefällt dir/Ihnen der/das/die …? /
+Wie gefallen dir/Ihnen die …?	Er/Es/Sie gefällt mir. / Sie gefallen mir.
+Er/Es/Sie gefällt mir / Sie gefallen mir (sehr) gut / nicht (so gut).
+Wie findest du den/das/die/die …?	(Sehr) gut / Nicht (so) gut.
+Ich finde … / Er/es/sie ist …
+Ich finde ihn/es/sie/sie (sehr) gut / nicht (so) gut.
+Ich finde ihn/es/sie/sie schön/hell/groß/praktisch/bequem/super/ klein/dunkel/… / nicht (so) schön …
+Er/es/sie ist schön/hell … /
+Sie sind groß/praktisch …
+
+## Der Aufzug
+
+Der Aufzug ist im vierten Stock.
+Der Aufzug ist im dritten Stock.
+Der Aufzug ist im Erdgeschoss.
+Der Aufzug ist im zweiten Stock.
+
+
+Wie geht es dem Hund von Frau Maier?
+
+Wie geht es dem Hund von Frau Maier?
+
+Es geht ihm gut.Correct
+Es geht ihm nicht gut.
+Was macht Frida heute?
+
+Sie spielt Volleyball.Correct
+Sie spielt Fußball.
+Warum ist Isabelle bei Anna?
+
+Isabelle sucht ein Paket.Correct
+Isabelle möchte das Wi-Fi von Anna benutzen.
+ 
+ 
+## Ist mein Paket bei euch?
+
++ Hallo, Frida. Wie geht’s?
+++ Danke, gut. Und Ihnen, Frau Maier?
++ Auch gut.
+++ Ist Ihr Hund wieder gesund?
++ Oh ja. Ich bin ja so froh. Und was machst du heute? Kommt dein Freund Tim?
+++ Ja, er kommt gleich. Wir spielen ein bisschen Volleyball.
++ Schön! Viel Spaß!
+
+
++ Hallo, Isabelle, wie geht’s dir?
+++ Hallo, Anna. Danke, gut. Sag mal, ist mein Paket bei euch?
++ Ja, hier bitte.
+++ Super, danke. Bis bald!
++ Ach, Isabelle, warte! Eine Frage. Unser Internet funktioniert leider nicht. Können wir euer Wi-Fi heute benutzen?
+++ Klar. Moment bitte, ich notiere das Passwort.
