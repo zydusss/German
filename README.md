@@ -900,3 +900,23 @@ Danke … Wir bringen einen Kartoffelsalat mit, ok?
 Super! Ich freue mich. Dann bis Samstag.
 
 Ja, … und danke für die Einladung. Tschüs!
+
+## Eine Einladung für Jonas
+
+Ich mache / Wir machen am … eine Party.
+Ich lade dich/Sie ein. / Wir laden dich/Sie ein.
+Ich möchte dich/Sie einladen. Wir möchten dich/Sie einladen.
+Die Party fängt um … an.
+Kannst du … mitbringen?
+Ich freue mich auf dich/Sie. / Wir freuen uns auf dich/Sie.
+
+
+## Eine Einladung für Jonas
+
+Hi Jonas,
+ das ist ja toll. Klar treffen wir uns. Ich wohne jetzt mit Marek und Silvie in einer WG in der Blücherstraße 12.
+Wir machen am Samstag eine Party. Ella und Tom kommen auch. Hast du Zeit?  Ich lade dich ein (dich | einladen).
+Die Party fängt um acht an (anfangen | um acht). Jeder bringt etwas mit. Kannst du eine Flasche Wein mitbringen (mitbringen | eine Flasche Wein)?
+Ich freue mich (freuen | mich).
+ Gruß 
+Tino
