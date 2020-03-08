@@ -1054,3 +1054,54 @@ Hallo, Frau Maier! Kommt Ihre Tochter am Wochenende?
 Nein, ich besuche sie nächste Woche.
 
 Und Ihr Hund? Nehmen Sie ihn mit?
+
+
+
+## Ist das dein Zimmer?
+
+
+Hallo Anna, wie geht’s dir? Wie ist AnswerCorrect neue WG?
+
+Alles prima. Die Mitbewohner sind nett und AnswerCorrect Zimmer ist groß und hell.
+
+Habt ihr auch ein Wohnzimmer?
+
+Nein, aber AnswerIncorrect Küche ist groß.
+
+Super. Und wie ist AnswerIncorrect Bad? Neu?
+
+Nein, es ist ein bisschen alt.
+
+Ist AnswerCorrect Sofa auch schon im Zimmer?
+
+Nein. AnswerCorrect Eltern bringen es morgen.
+
+: )
+
+Wann kommst du vorbei? Dann kannst du alles sehen.
+
+Vielleicht am Montag. Hast du Zeit?
+
+FEEDBACK
+DIE ANTWORT IST TEILWEISE RICHTIG.
+Hallo Anna, wie geht’s dir? Wie ist deine neue WG?
+
+Alles prima. Die Mitbewohner sind nett und mein Zimmer ist groß und hell.
+
+Habt ihr auch ein Wohnzimmer?
+
+Nein, aber unsere Küche ist groß.
+
+Super. Und wie ist euer Bad? Neu?
+
+Nein, es ist ein bisschen alt.
+
+Ist dein Sofa auch schon im Zimmer?
+
+Nein. Meine Eltern bringen es morgen.
+
+: )
+
+Wann kommst du vorbei? Dann kannst du alles sehen.
+
+Vielleicht am Montag. Hast du Zeit?
