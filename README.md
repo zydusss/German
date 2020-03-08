@@ -1021,3 +1021,36 @@ Isabelle möchte das Wi-Fi von Anna benutzen.
 ++ Super, danke. Bis bald!
 + Ach, Isabelle, warte! Eine Frage. Unser Internet funktioniert leider nicht. Können wir euer Wi-Fi heute benutzen?
 ++ Klar. Moment bitte, ich notiere das Passwort.
+
+
+
+##  Ich zeige dir meine Wohnung
+
+
+Ich zeige dir meine Wohnung. Das ist mein Flur. Und hier ist meine Küche.
+
+Toll. Und wo ist dein Arbeitszimmer?
+
+Das hier rechts ist mein Arbeitszimmer.
+
+Schön, deine Wohnung gefällt mir sehr gut. Und wie sind deine Nachbarn?
+
+ 
+
+Komm, das ist unsere Wohnung. Das ist unser Wohnzimmer.
+
+Sehr schön, euer Wohnzimmer gefällt mir gut. Und wo ist euer Balkon?
+
+Unser Balkon ist in der Küche. Er ist sehr ruhig.
+
+Und eure Kinder haben jetzt auch viel Platz oder?
+
+Ja, jeder hat ein Zimmer.
+
+ 
+
+Hallo, Frau Maier! Kommt Ihre Tochter am Wochenende?
+
+Nein, ich besuche sie nächste Woche.
+
+Und Ihr Hund? Nehmen Sie ihn mit?
