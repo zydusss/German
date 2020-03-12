@@ -1170,3 +1170,17 @@ Heinz geht es gut. Und seine Mutter ist auch wieder gesund.
 Wollt ihr die neue Wohnung sehen? Wann habt ihr Zeit? Wir kochen natürlich auch 
 Liebe Grüße
 Beate
+
+## Ein Umzug
+
+### das Sofa
+### die Lampe
+### das Bett
+### der Schrank
+### der Herd
+### der Fernseher
+### das Regal
+### die Waschmaschine
+### der Tisch
+### der Stuhl
+### der Kühlshrank
