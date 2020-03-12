@@ -1143,3 +1143,20 @@ Das Haus ist alt. Sein Dach ist kaputt.
 
 ## Wie ist die neue Wohnung?
 
+a|der Flur|	das Zimmer|	die Wohnung|	die Nachbarn (Plural)|
+--- |--- | --- | --- | --- |
+er/es|	sein|	sein|	seine|	seine|
+sie|	ihr|	ihr|	ihre|	ihre|
+sie|	ihr|	ihr|	ihre|	ihre|
+
+
+Liebe Beate,
+wie geht es euch? Wie ist die neue Wohnung? Habt ihr schon alles?
+Frank und ich fahren nächste Woche nach Italien. Am Wochenende ist Frank noch in Heidelberg, sein Kollege feiert Geburtstag. Ich besuche meine Eltern, ihr Garten ist jetzt fertig und ich möchte ihn ansehen.
+Wie geht es Tobias? Wie ist sein Japanischkurs? Und wie ist seine Freundin? Kennt ihr sie schon?
+Susanne hat am Montag ihre Prüfung. Sie ist nervös.
+Wie geht es Heinz? Ist seine Mutter wieder gesund?
+Ich schreibe nach dem Urlaub wieder.
+Liebe Grüße
+Sabine
+
