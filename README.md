@@ -1105,3 +1105,37 @@ Nein. Meine Eltern bringen es morgen.
 Wann kommst du vorbei? Dann kannst du alles sehen.
 
 Vielleicht am Montag. Hast du Zeit?
+
+
+
+
+a	|der Flur|	das Zimmer|	die Wohnung|	die Nachbarn (Plural)|
+--- |--- | --- | --- | --- |
+ich	|mein	|mein	|meine	|meine|
+du	|dein	|dein	|deine	|deine|
+wir	|unser	|unser	|unsere	|unsere|
+ihr	|euer	|euer	|eure	|eure|
+Sie	|Ihr	|Ihr	|Ihre	|Ihre|
+
+
+## Das ist Frida
+
+### Das ist Frau Schmidt. Ihr Computer (m.) ist neu.	
+
+### Das ist Herr Schmidt. Sein Computer (m.) ist neu.
+
+Das ist Frau Schmidt. Ihr Fahrrad (n.) ist rot.	Das ist Herr Schmidt. Sein Fahrrad (n.) ist rot.
+
+Das ist Frau Schmidt. Ihre Wohnung (f.) ist klein.	Das ist Herr Schmidt. Seine Wohnung (f.) ist klein.
+
+Das ist Frau Schmidt. Ihre Kinder (Pl.) sind klein.	Das ist Herr Schmidt. Seine Kinder (Pl.) sind klein.
+
+Das ist Frida. Ihr Volleyball ist rot.
+
+Das ist Markus. Sein Sofa ist blau.
+
+Das ist Frau Schmidt. Ihre Kinder sind acht und zehn Jahre alt.
+
+Das sind Antonio und Isabelle. Ihre Wohnung ist im zweiten Stock.
+
+Das Haus ist alt. Sein Dach ist kaputt.
