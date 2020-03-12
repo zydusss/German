@@ -1139,3 +1139,7 @@ Das ist Frau Schmidt. Ihre Kinder sind acht und zehn Jahre alt.
 Das sind Antonio und Isabelle. Ihre Wohnung ist im zweiten Stock.
 
 Das Haus ist alt. Sein Dach ist kaputt.
+
+
+## Wie ist die neue Wohnung?
+
