@@ -1149,6 +1149,7 @@ er/es|	sein|	sein|	seine|	seine|
 sie|	ihr|	ihr|	ihre|	ihre|
 sie|	ihr|	ihr|	ihre|	ihre|
 
+## Neue Wohnung
 
 Liebe Beate,
 wie geht es euch? Wie ist die neue Wohnung? Habt ihr schon alles?
@@ -1160,3 +1161,12 @@ Ich schreibe nach dem Urlaub wieder.
 Liebe Grüße
 Sabine
 
+## Re: Neue Wohnung
+
+Liebe Sabine,
+uns geht es gut. Und euch in Italien? Ist eure Ferienwohnung schön?
+Unsere neue Wohnung ist toll. Unsere Küche ist neu und unser Balkon ist sehr sonnig. Ich frühstücke jetzt oft auf dem Balkon. Und mein Arbeitszimmer ist toll, jetzt kann ich in Ruhe arbeiten. Tobias geht es gut. Sein Japanischkurs ist interessant und er lernt viel. Am Wochenende besucht er uns. Seine Freundin kommt auch mit. Ich bin gespannt. Sie heißt Caro und ihre Eltern leben in Spanien. Vielleicht können wir dort dann nächstes Jahr Urlaub machen. 
+Heinz geht es gut. Und seine Mutter ist auch wieder gesund.
+Wollt ihr die neue Wohnung sehen? Wann habt ihr Zeit? Wir kochen natürlich auch 
+Liebe Grüße
+Beate
