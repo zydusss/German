@@ -1207,3 +1207,28 @@ The hallway is not narrow. It is wide.
 The table is not big. It is small.
 
 ### Das Schlafzimmer ist nicht hell. Es ist dunkel.
+
+
+### Ist das dein Zimmer?
+
+### Ja, das ist mein Zimmer.
+
+### Ist das der Schrank von Holger?
+
+### Nein, das ist nicht sein Schrank.
+
+### Und das ist eure Küche?
+
+### Ja, genau. Das ist unsere Küche.
+
+### Entschuldigen Sie, ist das Ihr Auto?
+
+### Nein, das ist nicht mein Auto.
+
+### Anne, ist das mein Kaffee?
+
+### Ja, das ist dein Kaffee.
+
+### Jule und Björn, ist das euer Hund?
+
+### Ja, das ist unser Hund.
