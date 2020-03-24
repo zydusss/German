@@ -1184,3 +1184,26 @@ Beate
 ### der Tisch
 ### der Stuhl
 ### der Kühlshrank
+
+
+### Das Sofa ist nicht neu. Es ist alt.
+
+The sofa is not new. It's old.
+
+### Auf dem Balkon ist es nicht laut. Es ist leise.
+
+It's not loud on the balcony. It is quiet.
+
+### Das Bett ist nicht teuer. Es ist billig.
+
+The bed is not expensive. It s cheap.
+
+### Der Flur ist nicht schmal. Er ist breit.
+
+The hallway is not narrow. It is wide.
+
+### Der Tisch ist nicht groß. Er ist klein.
+
+The table is not big. It is small.
+
+### Das Schlafzimmer ist nicht hell. Es ist dunkel.
