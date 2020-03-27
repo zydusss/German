@@ -1231,3 +1231,52 @@ The table is not big. It is small.
 ### Jule und Björn, ist das euer Hund?
 
 ### Ja, das ist unser Hund.
+
+
+
+
+### Sehen Sie sich die Häuser von Frau Hansen und Herrn Müller an. Lesen Sie die Sätze und schreiben Sie das Gegenteil.
+Take a look at the houses of Mrs. Hansen and Mr. Müller. Read the sentences and write the opposite.
+
+
+### Ihr Haus ist groß.	Sein Haus ist klein.
+
+### Ihr Haus ist teuer.	Sein Haus ist billig.
+
+### Ihr Haus ist neu.	Sein Haus ist alt.
+
+### Die Flure sind sehr breit.	Die Flure sind sehr schmal.
+
+### Die Zimmer sind sehr hell.	Die Zimmer sind sehr dunkel.
+
+Adjective|	Pronunciation	|Translation
+groß	|grohss	|big
+klein	|kliyn	|small
+heiß	|hiyss	|hot
+kalt	|kahlt	|cold
+lang	|lahng	|long
+kurz	|kuhrts	|short
+dick	|dihk	|fat
+duenn	|dünn	|thin
+
+
+Adjective	|Pronunciation|	Translation
+alt	|ahlt	|old
+jung	|yuhng	|young
+reich	|riysch	|rich
+arm	|ahrm	|poor
+schnell	|SCH-nehll	|fast
+langsam	|lAHNG-sahm	|slow
+dunkel	|DUHN-kehl	|dark
+hell	|hehl	|bright/light
+
+
+Adjective	|Pronunciation	|Translation
+hübsch	|HUE-bsch	|beautiful
+hässlich	|HEYSS-lisch	|ugly
+glücklich	|GLUHCK-lisch	|happy
+traurig	|TROW-rihg	|sad
+langweilig	|LAHNG-wiy-lich	|boring
+interessant	|IHNTEHR-ehs-sahnt	|interesting
+teuer	|TOY-ehr	|expensive
+billig	|BIHL-lig	|cheap
