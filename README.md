@@ -1280,3 +1280,76 @@ langweilig	|LAHNG-wiy-lich	|boring
 interessant	|IHNTEHR-ehs-sahnt	|interesting
 teuer	|TOY-ehr	|expensive
 billig	|BIHL-lig	|cheap
+
+
+
+
+Pronoun	Possessive
+Pronoun	Pronunciation	English
+Translation
+ich	mein	miyn	mine
+du	dein	diyn	yours
+er	sein	siyn	his
+sie	ihr	ihr	hers
+es	sein	siyn	its
+wir	unser	UHNS-ur	ours
+ihr	euer	OY-uhr	yours
+sie	ihr	ihr	theirs
+Sie	Ihr	ihr	yours
+
+### Nominative/der Nominativ
+The nominative case is used to mark the subject of a sentence. In the nominative case possessive pronouns have an 'er' ending for masculine, an 'e' ending for the feminine and plural, and an 's' or 'es' ending for neutral.
+
+
+Masculine	Feminine	Neuter	Plural
+meiner	meine	meins	meine
+deiner	deine	deins	deine
+seiner	seine	seins	seine
+ihrer	ihre	ihr(e)s	ihre
+seiner	seine	seins	seine
+unserer	unsere	unseres	unsere
+eurer	eure	eures	eure
+ihrer	ihre	ihr(e)s	ihre
+Ihrer	Ihre	Ihr(e)s	Ihre
+
+
+### Accusative/der Akkusativ
+The accusative case is used to mark the direct object of a sentence. In the accusative case possessive pronouns have an 'en' ending for the masculine, an 's' or 'es' for the neutral, and an 'e' ending for the feminine and plural.
+
+Masculine	Feminine	Neuter	Plural
+meinen	meine	meins	meine
+deinen	deine	deins	deine
+seinen	seine	seins	seine
+ihren	ihre	ihr(e)s	ihre
+seinen	seine	seins	seine
+unseren	unsere	unseres	unsere
+euren	eure	eures	eure
+ihren	ihre	ihres	ihre
+Ihren	Ihre	Ihres	Ihre
+
+
+### Hallo Kai und Birgit! Wie sieht eure neue Wohnung aus?
+
+### Unsere Wohnung? Oh, sie ist wirklich sehr schön! Kai hat ein Arbeitszimmer. Es ist klein, aber schön.
+
+### Ja, das stimmt. Mein Arbeitszimmer gefällt mir wirklich gut.
+
+### Und eure Küche? Wie gefällt sie euch?
+
+### Sehr gut. Sie ist hell und hat einen Balkon. Unser Balkon ist schön groß und sehr sonnig. Wir frühstücken dort jeden Morgen. Und du, Helena, gefällt dir deinZimmer in der WG noch?
+
+### Ja, mein Zimmer gefällt mir immer noch sehr gut. Es ist ja auch groß und schön. Die Leute in der WG sind nett. Ich wohne gern dort.
+
+### Wann kommst du und schaust dir unsere Wohnung an, Helena?
+
+### Am Sonntag vielleicht? Habt ihr Zeit?
+
+### Hm, da kommt Birgits Vater.
+
+### Ja, genau.
+
+### Ihr Vater bringt ein Sofa. Sonntag passt also nicht so gut. Nächste Woche Samstag vielleicht?
+
+### Okay, das geht. Bis dann!
+
+### Tschüs Helena!
