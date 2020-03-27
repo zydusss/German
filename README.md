@@ -1056,7 +1056,6 @@ Nein, ich besuche sie nächste Woche.
 Und Ihr Hund? Nehmen Sie ihn mit?
 
 
-
 ## Ist das dein Zimmer?
 
 
