@@ -1384,3 +1384,48 @@ Ihren	Ihre	Ihres	Ihre
 ### Ja. Warum?
 
 ### Ich muss morgen nicht arbeiten. Machen wir etwas? Hast du Zeit?
+
+
+# Wie ist ihr Wohnzimmer? Nominativ
+
+# Dein Urlaub beginnt morgen, oder? Nominativ
+
+# Ich finde ihr Arbeitszimmer super. Akkusativ
+
+# Ihre Wohnung ist sehr schön. Nominativ
+
+# Antonio hat seinen Computer im Arbeitszimmer. Akkusativ
+
+# Isabelle hat ihren Laptop im Wohnzimmer. Akkusativ
+
+
+## mein
+
+### Ich finde mein Ladegerät nicht. Wo ist es?
+
+### Ich glaube, es ist im Bad.
+
+### Wie bitte? Im Bad? Und wo finde ich meinen Laptop?
+
+### Der liegt da im Karton!
+
+### O je! Hoffentlich ist er nicht kaputt. Der war sehr teuer.
+
+ 
+
+## unser
+
+### Siehst du unsere Uhr für die Küche?
+
+### Nein. Aber die brauchen wir nicht mehr. Sie war nicht schön.
+
+### Ich suche auch unsere Gläser. Wo sind sie?
+
+### Die sind in dem Karton hier.
+
+### Ach ne! Drei Gläser sind kaputt.
+
+### Aber die sind doch schon alt.
+
+### Aber sie waren sehr schön!
+
