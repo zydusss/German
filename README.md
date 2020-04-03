@@ -1466,3 +1466,35 @@ Ihren	Ihre	Ihres	Ihre
 ### Kein Problem. Das Sofa gibt es in vielen verschiedenen Farben.
 
 ### Super!
+
+
+
+### Wow, diese Küche ist schön.
+
+### Stimmt. Sie gefällt mir auch sehr gut. Wie teuer ist sie?
+
+### Puh, fast 10 000 Euro. Das ist sehr teuer. So viel können wir nicht zahlen.
+
+ 
+
+### Schau, hier gibt es ein Angebot. Der Kühlschrank kostet nur 199 Euro. Das ist sehr billig.
+
+### Nein, ich finde das nicht billig.
+
+ 
+
+### Das Sofa ist zu groß für unser Wohnzimmer. Es hat keinen Platz.
+
+### Ja, stimmt. Hier, die Größe ist gut. Gefällt dir das Sofa?
+
+ 
+
+### Die Lampe ist sehr schön. Sie gefällt mir.
+
+### Ich finde sie nicht schön. Die Farbe gefällt mir nicht.
+
+ 
+
+### Wie findest du den Schrank hier?
+
+### Ich glaube, er ist zu klein. Die Kinder haben so viele Sachen.
