@@ -1353,3 +1353,34 @@ Ihren	Ihre	Ihres	Ihre
 ### Okay, das geht. Bis dann!
 
 ### Tschüs Helena!
+
+
+### Hallo, Tanja, wie geht es dir?
+
+### Gut, und dir?
+
+### Gut. Kennst du die Wohnung von Antonio und Isabelle schon?
+
+### Nein. Wie ist sie?
+
+### Sie ist sehr schön. Du musst sie auch ansehen. Sie haben jetzt viel Platz. Ich finde ihr Arbeitszimmer super. Es ist groß und hell. Antonio hat seinen Computer im Arbeitszimmer und Isabelle hat ihren Laptop im Wohnzimmer. Nun können beide in Ruhe arbeiten.
+
+### Und wie ist ihr Wohnzimmer?
+
+### Schön. Sie haben immer noch ihren Schrank, ihren Tisch und ihre Stühle. Aber sie brauchen noch ein Sofa.
+
+### Und, wie viel kostet die Wohnung?
+
+### Sie zahlen über 1000 Euro Miete im Monat.
+
+### Puh, das ist aber teuer.
+
+### Ja, aber die Wohnung ist groß, sie hat 78m2. Ich glaube, der Preis ist normal hier.
+
+### Stimmt.
+
+### Sag mal, dein Urlaub beginnt morgen oder?
+
+### Ja. Warum?
+
+### Ich muss morgen nicht arbeiten. Machen wir etwas? Hast du Zeit?
