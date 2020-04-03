@@ -1429,3 +1429,40 @@ Ihren	Ihre	Ihres	Ihre
 
 ### Aber sie waren sehr schön!
 
+
+
+### Guten Tag. Kann ich Ihnen helfen?
+
+### Ja, wir suchen ein Sofa.
+
+### Die Sofas finden Sie im dritten Stock.
+
+### Danke.
+
+### Entschuldigung, was kostet dieses Sofa?
+
+### Das Rote? Es kostet 899 Euro.
+
+### Puh, das ist zu teuer. Wir möchten maximal 700 Euro bezahlen.
+
+### Vielleicht dann das Sofa hier? Es kostet 659 Euro.
+
+### Hm, es gefällt mir nicht. Ich finde das Grün nicht schön.
+
+### Hier habe ich auch noch ein Angebot. Das Sofa kostet nur 259 Euro, das ist sehr günstig.
+
+### Stimmt, das ist günstig. Und ich finde es sehr schön. Das Grau gefällt mir.
+
+### Hm, ich finde es zu klein.
+
+### Zu klein? Hm, hier ist noch ein anderes Sofa. Es ist nicht so klein, aber kostet mehr – 399 Euro.
+
+### Super, ja. Die Größe ist sehr gut.
+
+### Ist es nicht zu hell?
+
+### Ja, weiß ist vielleicht nicht gut.
+
+### Kein Problem. Das Sofa gibt es in vielen verschiedenen Farben.
+
+### Super!
