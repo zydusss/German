@@ -1664,5 +1664,69 @@ Das Wochenende war <b>günstig<b>.
 - laut > loud
 - kalt > cold
 
+### Der Pool war zu klein.
 
+### Das Wasser war zu kalt.
+
+### Das Hotel war zu groß.
+
+### Es war zu laut.
+
+### Der Urlaub war zu kurz.
+
+
+------------------------------------
+
+## Ida lebt jetzt in Bayern
+
+### Lesen Sie den Chat zwischen Caroline und Ida. Ida wohnt seit zwei Wochen mit ihrer FamilieHallo Ida! Bist du auch mal wieder online? Wie geht's dir und Markus und den Kindern?
+
+- endlich >
+- Umzug >
+- jetzt >
+- Erzähl >
+- Platz >
+- hell >
+- Nachbarn >
+- toll >
+- freuen >
+- Besuch >
+- Freitagmorgen >
+- nehme >
+- Rad > 
+- holt >
+- bestimmt >
+- halb >
+- Aussagen >
+
+### Hallo Caroline! Ja endlich, wir hatten bis gestern Abend kein Internet.
+
+### Na, wie war denn euer Umzug?
+
+### Der Umzug war total chaotisch!!! Aber jetzt ist alles da! Juhu!
+
+### Und wie ist euer Haus? Erzähl ... >
+- halb >
+
+### Das Haus ist sehr schön! Es ist groß und hell. Wir haben viel Platz.
+
+### Schön! Und wie sind die Nachbarn?
+
+### Unsere Nachbarn sind sehr nett. Sie heißen Alexander und Anna und sie haben auch zwei Kinder.
+
+### Das ist ja toll!
+
+### Wir freuen uns schon auf deinen Besuch am Wochenende! Wann kommst du und was möchtest du machen?
+
+### Ich fahre am Freitagmorgen in Berlin los und bin dann um 14:30 in München. Ich nehme mein Rad mit. Ich möchte sehr gerne Rad fahren und schwimmen natürlich auch.
+
+### Markus holt dich dann in München ab!
+
+### Perfekt! Ich freue mich schon auf euch.
+
+### Wir freuen uns auch! Das Wochenende wird bestimmt toll!
+
+### Ja! Du Ida, es ist schon halb 7... Ich muss jetzt einkaufen. Bis Freitag!
+
+### Ja, bis Freitag! Tschüs! in Bayern. Lesen Sie die Aussagen. Richtig oder falsch? Wählen Sie aus.
 
