@@ -1656,3 +1656,13 @@ Das Wochenende war <b>günstig<b>.
 	
 
 --------------------------
+
+
+## Zu kurz, zu laut, zu kalt
+
+- kurz > short
+- laut > loud
+- kalt > cold
+
+
+
