@@ -1933,20 +1933,39 @@ Michael
 
 -----------------------------------------
 
-AW: Wochenende in Berlin
-Ich gehe am Freitagabend mit Sabine ins Theater und am Samstag treffe ich Sabine und ihren Mann Peter
-zum Frühstück. Am Nachmittag möchte ich gern eine Stadttour machen und vielleicht ein bisschen
-einkaufen … Habt ihr Zeit?
-Deine Mama
-Am Samstagabend möchte ich dich und Caroline gerne zum Essen einladen und am Sonntag können
+### AW: Wochenende in Berlin
+### Ich gehe am Freitagabend mit Sabine ins Theater und am Samstag treffe ich Sabine und ihren Mann Peter zum Frühstück. Am Nachmittag möchte ich gern eine Stadttour machen und vielleicht ein bisschen einkaufen … Habt ihr Zeit?
+### Deine Mama
+ 
+ 
+------------------
+### Am Samstagabend möchte ich dich und Caroline gerne zum Essen einladen und am Sonntag können
 wir dann zusammen das Pergamonmuseum besuchen. Das ist eine gute Idee!
 ich freue mich auch schon sehr auf das Wochenende in Berlin!
 Viele Grüße
-Hallo Michael,
+
+-------------------
+### Hallo Michael,
 Ich freue mich! Bis Freitag!
 In die Oper möchte ich am Sonntag nicht. Ich mag keine Mozart-Opern.
 Mein Zug kommt am Freitag um 10:47 Uhr am Hauptbahnhof an. Ich kann auch ein Taxi nehmen.
 Caroline muss mich nicht abholen!
-  Correct
-
  
+----------------------
+
+### Anrede	
+- Hallo Ida,
+- Hallo Mama,
+- Lieber Michael,
+### Schluss	
+- Bis Bald!
+- Bis Freitag!
+- Ich freue mich!
+- Mach's gut!
+### Gruß	
+- Ich sende dir viele Grüße!
+- Liebe Grüße
+- Viele Grüße 
+ 
+ 
+-------------------
