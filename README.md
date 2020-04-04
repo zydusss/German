@@ -1629,3 +1629,30 @@ Nein, aber ich habe Verenas Nummer. Sie weiß die Nummer von Andreas bestimmt. M
 
 Ja, danke.
 (Yes, thank you.)
+
+
+---------------------------
+
+- toll >
+- schön >
+- klein >
+- hell >
+- super >
+- günstig >
+
+Das Wellness-Wochenende war <b>toll</b> aber zu kurz.
+
+Salzburg ist sehr <b>schön</b> und das Hotel war super.
+
+Das Hotel war sehr <b>klein</b>.
+
+Das Zimmer war klasse. Es war groß und <b>hell</b>.
+
+Die Sauna war toll und die Massagen waren <b>super</b>.
+
+Leider war der Pool sehr <b>klein</b>.
+
+Das Wochenende war <b>günstig<b>.
+	
+
+--------------------------
