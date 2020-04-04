@@ -1678,55 +1678,73 @@ Das Wochenende war <b>günstig<b>.
 ------------------------------------
 
 ## Ida lebt jetzt in Bayern
+(Ida now lives in Bavaria)
 
 ### Lesen Sie den Chat zwischen Caroline und Ida. Ida wohnt seit zwei Wochen mit ihrer FamilieHallo Ida! Bist du auch mal wieder online? Wie geht's dir und Markus und den Kindern?
 
-- endlich >
-- Umzug >
-- jetzt >
-- Erzähl >
-- Platz >
-- hell >
-- Nachbarn >
-- toll >
-- freuen >
-- Besuch >
-- Freitagmorgen >
-- nehme >
-- Rad > 
-- holt >
-- bestimmt >
-- halb >
-- Aussagen >
+(Read the chat between Caroline and Ida. Ida has been living with her family for two weeks Are you online again? How are you and Markus and the kids?)
+
+- endlich >finally
+- Umzug > Moving
+- jetzt > now
+- Erzähl > tell
+- Platz > Place
+- hell > Bright
+- Nachbarn > Neighbors
+- toll > great
+- freuen > happy
+- Besuch > Visit
+- Freitagmorgen > Friday morning
+- nehme > take
+- Rad > Wheel
+- holt > fetches
+- bestimmt > definitely
+- halb > half
+- Aussagen > Statements
+- nett > nice
+
 
 ### Hallo Caroline! Ja endlich, wir hatten bis gestern Abend kein Internet.
-
+(Hello Caroline! Finally, we had no internet until last night.)
 ### Na, wie war denn euer Umzug?
+(How was your move?)
 
 ### Der Umzug war total chaotisch!!! Aber jetzt ist alles da! Juhu!
+(The move was totally chaotic !!! But now everything is there! Yeah!)
 
 ### Und wie ist euer Haus? Erzähl ... >
-- halb >
+(And what is your house like? Tell ...>)
 
 ### Das Haus ist sehr schön! Es ist groß und hell. Wir haben viel Platz.
+(The house is (very nice! It is large and bright. We have a lot of space.))
 
 ### Schön! Und wie sind die Nachbarn?
+(Nice! And how are the neighbors?)
 
 ### Unsere Nachbarn sind sehr nett. Sie heißen Alexander und Anna und sie haben auch zwei Kinder.
+(Our neighbors are very nice. They are called Alexander and Anna and they also have two children.)
 
 ### Das ist ja toll!
+(That's great!)
 
 ### Wir freuen uns schon auf deinen Besuch am Wochenende! Wann kommst du und was möchtest du machen?
+(We look forward to your visit on the weekend! When are you coming and what do you want to do?)
 
 ### Ich fahre am Freitagmorgen in Berlin los und bin dann um 14:30 in München. Ich nehme mein Rad mit. Ich möchte sehr gerne Rad fahren und schwimmen natürlich auch.
+(I leave Berlin on Friday morning and will be in Munich at 2:30 p.m. I take my bike with me. I would very much like to ride a bike and of course also swim.)
 
 ### Markus holt dich dann in München ab!
+(Markus will then pick you up in Munich!)
 
 ### Perfekt! Ich freue mich schon auf euch.
+(Perfect! I look forward to seeing you.)
 
 ### Wir freuen uns auch! Das Wochenende wird bestimmt toll!
+(We are happy too! The weekend will be great!)
 
 ### Ja! Du Ida, es ist schon halb 7... Ich muss jetzt einkaufen. Bis Freitag!
+(Yes! You Ida, it's already half past six ... I have to go shopping now. See you on Friday!)
 
 ### Ja, bis Freitag! Tschüs! in Bayern. Lesen Sie die Aussagen. Richtig oder falsch? Wählen Sie aus.
+(Yes, until Friday! Bye! in Bavaria. Read the statements. Right or wrong? Choose.)
 
