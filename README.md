@@ -1821,3 +1821,31 @@ Hi Michael!
 
 ### Na, dann viel Spaß! Mach's gut! ♥♥
 (Well, then have fun! Take care!)
+
+
+----------------------------------
+
+
+### Gefallen ausdrücken	
+
+### Das Wetter war klasse!
+### Die Kinder hatten sehr viel Spaß.
+### Die Stadt ist toll.
+### Mein Tag war sehr schön.
+### Unser Urlaub war prima.
+### Unser Wochenende war prima!
+### Missfallen ausdrücken	
+### Das Freizeitangebot war gar nicht gut.
+### Das Wetter war gar nicht gut.
+### Der Urlaub war langweilig.
+### Wir hatten keinen Pool und das Zimmer war klein und dunkel.
+
+----------------------------------------
+
+|	Nominative|	Accusative|
+|-----------------|---------------|
+|Singular	mein Tisch	meinen Tisch|
+| 	|mein Bett	|mein Bett|
+| 	|meine Lampe	|meine Lampe|
+|Plural	|meine Möbel	|meine Möbel|
+
