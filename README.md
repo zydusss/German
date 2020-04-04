@@ -1562,3 +1562,58 @@ Lara
  
 ▲ Wie lange hatten Julia und Sam denn Urlaub ?
 ▼ Zwei Wochen.
+
+----------------
+
+-ich war
+-wir waren
+-du warst
+-ich hatte
+-wir hatten
+-er war
+-er hatte
+-wir hatten
+-ihr hattet
+-sie war
+-ihr wart
+-du hattest
+-sie hatten
+-sie waren
+-sie hatte
+-Sie waren
+
+
+--------------------
+
+## Bonus: Was ist los? 
+(what's going on?)
+
+### Lesen Sie die Dialoge. Ergänzen Sie die Possessivartikel im Akkusativ. Schreiben Sie.
+(Read the dialogues. Complete the possessive articles in the accusative case. You write.)
+
+![Image description](https://github.com/zydusss/German/blob/master/possessive-articles-1024x768.png)
+
+
+### Was ist los?
+
+### Carmen und Ansgar suchen <b>ihren</b> Schlüssel.
+
+### Der ist hier. Ansgar, Carmen! Ich habe <b>euren</b> Schlüssel!
+
+### Das ist ja super. Vielen Dank! Puh!
+
+### Möchtet ihr <b>unseren</b> Tisch haben?
+
+### Ihr braucht <b>euren</b> Tisch nicht mehr?
+
+### Nein wir haben einen neuen Tisch.
+
+### Der Park ist toll! Hast du <b>deine</b> Kamera dabei?
+
+### Nein, aber ich habe <b>mein</b> Handy mit. Ich mache ein Foto, ja?
+
+### Ich will Andreas anrufen, aber ich finde <b>seine</b> Telefonnummer nicht. Hast du sie?
+
+### Nein, aber ich habe Verenas Nummer. Sie weiß die Nummer von Andreas bestimmt. Möchtest du <b>ihre</b> Nummer haben?
+
+### Ja, danke.
