@@ -1849,3 +1849,32 @@ Hi Michael!
 | 	|meine Lampe	|meine Lampe|
 |Plural	|meine Möbel	|meine Möbel|
 
+
+-----------------------------------
+
+## Wo ist meine Kamera?
+
+Lena, siehst du <b>mein</b> Portemonnaie?
+
+Ja, hier ist es. Und hier ist <b>deine</b> Sonnenbrille
+
+Und wo ist <b>meine</b> Kamera?
+
+Deine Kamera hat Max. Ich kann sie holen.
+Max! Maax! Caroline braucht <b>ihre</b> Kamera wieder!
+
+Hier ist sie.
+
+Hier ist <b>deine</b> Kamera. Und Max hatte auch deinen MP3-Player.
+
+Danke. Und dann brauche ich noch <b>meinen</b> E-Reader.
+
+Hier ist er. Hast du jetzt alles?
+
+Hm, ich glaube ja.
+
+Ist das <b>dein</b> Ladegerät?
+
+Ja, das muss auch noch mit. Dann haben wir alles. Perfekt.
+
+
