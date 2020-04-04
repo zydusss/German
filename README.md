@@ -1785,27 +1785,39 @@ Das Wochenende war <b>günstig<b>.
 
 
 ### Hallo Caro!
-
+Hello Caro!
 ### Hallo Michael!
+Hi Michael!
 
 ### Na, alles gut bei dir?
+(Everything good with you?)
 
 ### Ja, mir geht’s prima!
+(Yes, I'm fine!)
 
 ### Wie war die Reise?
+(How was the trip?)
 
 ### Die Reise war lang, aber okay!
+(The journey was long, but okay!)
 
 ### Und wie gefällt dir Bayern?
+(And how do you like Bavaria?)
 
 ### Sehr gut!
+(Very good!)
 
 ### Wie war dein Tag? Schön?
+(How was your day? Nice?)
 
 ### Ja, sehr schön! Wir waren am See.
+(Yes, very nice! We were at the lake.)
 
 ### Was macht ihr heute Abend?
+(What are you going to do this evening?)
 
 ### Wir grillen. Es riecht schon sehr lecker. Jetzt hab‘ ich Hunger.
+(We grill. It smells very delicious. I'm hungry now.)
 
 ### Na, dann viel Spaß! Mach's gut! ♥♥
+(Well, then have fun! Take care!)
