@@ -1594,38 +1594,38 @@ Lara
 ![Image description](https://github.com/zydusss/German/blob/master/possessive-articles-1024x768.png)
 
 
-### Was ist los?
+Was ist los?
 (What's happening?)
 
-### Carmen und Ansgar suchen <b>ihren</b> Schlüssel.
+Carmen und Ansgar suchen <b>ihren</b> Schlüssel.
 (Carmen and Ansgar are looking for their key.)
 
-### Der ist hier. Ansgar, Carmen! Ich habe <b>euren</b> Schlüssel!
+Der ist hier. Ansgar, Carmen! Ich habe <b>euren</b> Schlüssel!
 (It is here. Ansgar, Carmen! I have your key!)
 
-### Das ist ja super. Vielen Dank! Puh!
+Das ist ja super. Vielen Dank! Puh!
 (That's great. Thank you so much! Phew!)
 
-### Möchtet ihr <b>unseren</b> Tisch haben?
+Möchtet ihr <b>unseren</b> Tisch haben?
 (Do you want our table?)
 
-### Ihr braucht <b>euren</b> Tisch nicht mehr?
+Ihr braucht <b>euren</b> Tisch nicht mehr?
 (You no longer need your table?)
 
-### Nein wir haben einen neuen Tisch.
+Nein wir haben einen neuen Tisch.
 (No, we have a new table.)
 
-### Der Park ist toll! Hast du <b>deine</b> Kamera dabei?
+Der Park ist toll! Hast du <b>deine</b> Kamera dabei?
 (The park is great! Do you have your camera with you?)
 
-### Nein, aber ich habe <b>mein</b> Handy mit. Ich mache ein Foto, ja?
+Nein, aber ich habe <b>mein</b> Handy mit. Ich mache ein Foto, ja?
 (No, but I have my cell phone with me . I'm taking a photo, yes?)
 
-### Ich will Andreas anrufen, aber ich finde <b>seine</b> Telefonnummer nicht. Hast du sie?
+Ich will Andreas anrufen, aber ich finde <b>seine</b> Telefonnummer nicht. Hast du sie?
 (I want to call Andreas, but I ca n't find his phone number. Do you have it?)
 
-### Nein, aber ich habe Verenas Nummer. Sie weiß die Nummer von Andreas bestimmt. Möchtest du <b>ihre</b> Nummer haben?
+Nein, aber ich habe Verenas Nummer. Sie weiß die Nummer von Andreas bestimmt. Möchtest du <b>ihre</b> Nummer haben?
 (No, but I have Verena's number. She knows Andreas's number. Do you want her number?)
 
-### Ja, danke.
+Ja, danke.
 (Yes, thank you.)
