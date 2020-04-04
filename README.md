@@ -1878,3 +1878,42 @@ Ist das <b>dein</b> Ladegerät?
 Ja, das muss auch noch mit. Dann haben wir alles. Perfekt.
 
 
+-------------------------------
+
+## Liebe Caroline, ...
+
+Betreff  : Gut zurück in Berlin?
+
+Liebe Caroline,
+ich hoffe, du bist gut zurück! Das Wochenende war wirklich sehr schön! Die Kinder hatten viel Spaß am See. Du auch? Unsere gemeinsame Wanderung am Sonntag war klasse.
+Wir freuen uns schon sehr auf deinen Besuch im Herbst! Bring Michael mit!
+Mach’s gut!
+
+Viele liebe Grüße
+Ida und Familie
+
+
+### Notes
+
+### Subject:	Danke! /  Es war toll bei euch! /…
+### Salutation:	Hallo (liebe/lieber) …, / Liebe/Lieber …,
+### Message body:	Ich hoffe, ... / Danke für ... / … war sehr schön. / ... ich komme ...
+### Conclusion:	Bis bald! /  Mach’s gut!
+### Greeting	Viele (liebe) Grüße / Liebe Grüße / Ich sende dir viele liebe Grüße.
+
+
+### Betreff:	
+Danke!
+### Anrede:	 
+Hallo Ida,
+### Hauptteil: 
+danke für das Wochenende! Es war so toll bei euch in Bayern! Ich hatte sehr viel Spaß!
+ Die Radtour, schwimmen mit Max und Lena und unsere gemeinsame Wanderung waren prima!
+ Euer Haus ist sehr schön und Tegernsee ist toll! Im Herbst komme ich dann mit Michael!
+Schluss: Bis bald!
+### Gruß: 
+Ich sende dir viele liebe Grüße!
+
+--------------------------------
+
+
