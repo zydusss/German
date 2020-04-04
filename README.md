@@ -1530,3 +1530,15 @@ Ihren	Ihre	Ihres	Ihre
 |ihr	|seid	|wart	|habt	|hattet
 |sie/Sie	|sind	|waren	|haben	|hatten
 P.S. Wie geht’s dir? Hast du viel Stress in der Arbeit?
+
+
+
+
+
+Hallo Julia,
+leider kann ich erst jetzt antworten. Ich <b>hatte keine</b> Zeit. Meine Woche <b>war</b> nicht so toll!  Meine Arbeitskollegin Jana <b>war</b> im Urlaub und wir <b>hatten</b> sehr viel Arbeit! Ich freue mich auf mein Wellness-Wochenende in Salzburg!!!
+Dir geht es ja richtig gut in Australien. Schön! Deine Bilder sind toll! Wie <b>war</b> der Bondi Beach? Und wie <b>war</b> das Barbecue bei Sams Freunden? <b>Hattet</b> ihr Spaß?
+
+Ich wünsche dir noch eine schöne Zeit mit Sam!
+Viele liebe Grüße
+Lara
