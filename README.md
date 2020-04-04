@@ -1916,4 +1916,37 @@ Ich sende dir viele liebe Grüße!
 
 --------------------------------
 
+## Auf Besuch in Berlin
 
+### Lesen Sie die E-Mail von Michael an seine Mutter und lesen Sie die Aussagen. Richtig oder falsch? Wählen Sie aus.
+
+Betreff : Wochenende in Berlin
+
+Hallo Mama,
+
+Caroline und ich freuen uns schon sehr auf deinen Besuch am Wochenende! Ich muss am Freitag leider arbeiten, aber Caroline hat am Freitag frei und holt dich vom Bahnhof ab. Wann kommst du denn in Berlin an? Ihr könnt dann dein Gepäck nach Hause bringen und wir treffen uns um 12 Uhr zum Mittagessen. Wann gehst du denn mit Sabine ins Theater? Am Freitagabend oder Samstagabend?
+Möchtest du am Sonntag mit uns ins Museum gehen? Caroline hat Tickets für das Pergamonmuseum. Das ist wirklich sehr toll. Das gefällt dir bestimmt. Möchtest du am Sonntagabend in die Oper gehen? Die Staatsoper spielt „Don Giovanni".
+Ich warte auf deine Antwort.
+
+Liebe Grüße
+Michael
+
+-----------------------------------------
+
+AW: Wochenende in Berlin
+Ich gehe am Freitagabend mit Sabine ins Theater und am Samstag treffe ich Sabine und ihren Mann Peter
+zum Frühstück. Am Nachmittag möchte ich gern eine Stadttour machen und vielleicht ein bisschen
+einkaufen … Habt ihr Zeit?
+Deine Mama
+Am Samstagabend möchte ich dich und Caroline gerne zum Essen einladen und am Sonntag können
+wir dann zusammen das Pergamonmuseum besuchen. Das ist eine gute Idee!
+ich freue mich auch schon sehr auf das Wochenende in Berlin!
+Viele Grüße
+Hallo Michael,
+Ich freue mich! Bis Freitag!
+In die Oper möchte ich am Sonntag nicht. Ich mag keine Mozart-Opern.
+Mein Zug kommt am Freitag um 10:47 Uhr am Hauptbahnhof an. Ich kann auch ein Taxi nehmen.
+Caroline muss mich nicht abholen!
+  Correct
+
+ 
