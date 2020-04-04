@@ -1982,3 +1982,48 @@ Mama
 
 ----------------------
 
+## Genitiv-s
+
+### Lesen Sie und ergänzen Sie die Sätze. Ergänzen Sie Genitiv-s oder Apostroph bei den Namen. Schreiben Sie.
+
+#### Max
+
+- Wie gefällt dir Max‘Fahrrad?
+
+- Es ist sehr schön.
+
+#### Ida
+
+- Ist das Idas Haus?
+
+- Alexander und Anna
+
+- Nein, das ist Alexanders und Annas Haus.
+
+
+#### Julia
+
+- Wie war Julias Urlaub in Australien?
+
+- Ihr Urlaub war toll!
+
+#### Markus
+
+- Wie heißt Markus' Frau?
+
+- Sie heißt Ida.
+
+ 
+#### Moritz
+
+- Ist das Moritz' E-Reader?
+
+- Ja, das ist sein E-Reader.
+
+#### Thomas
+
+- Wie heißen Thomas' Kinder?
+
+- Leonie und Laurin.
+
+
