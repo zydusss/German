@@ -1498,3 +1498,35 @@ Ihren	Ihre	Ihres	Ihre
 ### Wie findest du den Schrank hier?
 
 ### Ich glaube, er ist zu klein. Die Kinder haben so viele Sachen.
+
+
+### Hallo Julia,
+### na, wie geht’s dir in Australien? Alles okay? Erzähl mal ein bisschen … Wie ist Australien? Wie ist Sydney?
+### Ist Sam wirklich so toll? Was machst du denn so? Hast du Spaß? Ich warte auf deine Antwort!!!
+
+### Liebe Grüße
+### Lara
+
+--------------------------
+
+### Hi Lara,
+### mir geht es sehr gut!  Australien ist prima! Und Sam ist super!!!
+### Gestern war ich mit Sam in Sydney. Das Opernhaus ist wirklich schön. Wir waren auch im Sydney Aquarium. Das war toll. Am Abend waren wir bei Sams Freunden. Die sind alle sehr nett. Wir hatten viel Spaß. Heute Vormittag fahren wir zum Strand. Wir gehen surfen. Kennst du den Bondi Beach? Ich freue mich! Und am Abend machen Freunde von Sam ein Barbecue. Typisch für Australien und bestimmt lecker!
+### Schau dir meine Fotos an! Sind sie nicht toll …?
+
+### Liebe Grüße
+### Julia
+
+
+
+
+	Present	Past	Present	Past
+|----|-----------|-----------|-----------|---------------|
+|   |    	sein|   |   	haben|   |
+|ich	|bin	|war	|habe	|hatte|
+|du	|bist	|warst	|hast	|hattest|
+|er/es/sie	|ist	|war	|hat	|hatte
+|wir	|sind	|waren	|haben	|hatten
+|ihr	|seid	|wart	|habt	|hattet
+|sie/Sie	|sind	|waren	|haben	|hatten
+P.S. Wie geht’s dir? Hast du viel Stress in der Arbeit?
