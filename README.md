@@ -1533,7 +1533,7 @@ P.S. Wie geht’s dir? Hast du viel Stress in der Arbeit?
 
 
 
-
+----------------------
 
 Hallo Julia,
 leider kann ich erst jetzt antworten. Ich <b>hatte keine</b> Zeit. Meine Woche <b>war</b> nicht so toll!  Meine Arbeitskollegin Jana <b>war</b> im Urlaub und wir <b>hatten</b> sehr viel Arbeit! Ich freue mich auf mein Wellness-Wochenende in Salzburg!!!
@@ -1542,3 +1542,23 @@ Dir geht es ja richtig gut in Australien. Schön! Deine Bilder sind toll! Wie <b
 Ich wünsche dir noch eine schöne Zeit mit Sam!
 Viele liebe Grüße
 Lara
+
+----------------------
+
+▲ Warst du auch in Melbourne ?
+▼ Nein, leider nicht.
+ 
+▲ Wo wart ihr denn gestern Vormittag?
+▼ Wir waren in Sydney .
+ 
+▲ Hattest du viel Spaß ?
+▼ Oh ja, ich hatte wirklich viel Spaß. Surfen ist toll.
+ 
+▲ Wie war eure Woche ?
+▼ Nicht so toll. Wir hatten sehr viel Arbeit.
+ 
+▲ War das Abendessen bei Sams Freunden schön ?
+▼ Oh ja! Es war sehr schön.
+ 
+▲ Wie lange hatten Julia und Sam denn Urlaub ?
+▼ Zwei Wochen.
