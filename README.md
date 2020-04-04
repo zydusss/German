@@ -1969,3 +1969,16 @@ Caroline muss mich nicht abholen!
  
  
 -------------------
+
+Lieber Michael,
+so, jetzt bin ich wieder zu Hause.
+Vielen Dank für das Wochenende. Es war sehr schön <b>bei</b> euch. Der Abend im Theater war toll und der <b>Besuch</b> im Pergamonmuseum war sehr interessant. Ich hatte viel Spaß. Berlin ist wirklich prima! Das Essen mit dir und Caroline war auch sehr schön.
+Vielen Dank für alles!
+Papa und ich <b>freuen</b> uns auf euren Besuch!
+
+Bis bald!
+Liebe Grüße
+Mama
+
+----------------------
+
