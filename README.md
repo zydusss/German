@@ -1706,6 +1706,7 @@ Das Wochenende war <b>günstig<b>.
 
 ### Hallo Caroline! Ja endlich, wir hatten bis gestern Abend kein Internet.
 (Hello Caroline! Finally, we had no internet until last night.)
+
 ### Na, wie war denn euer Umzug?
 (How was your move?)
 
@@ -1747,4 +1748,39 @@ Das Wochenende war <b>günstig<b>.
 
 ### Ja, bis Freitag! Tschüs! in Bayern. Lesen Sie die Aussagen. Richtig oder falsch? Wählen Sie aus.
 (Yes, until Friday! Bye! in Bavaria. Read the statements. Right or wrong? Choose.)
+
+
+### Ida und Markus haben kein Internet. - falsch
+
+### Der Umzug war chaotisch. - richtig
+
+### Die Kinder von Idas Nachbarn heißen Alexander und Anna - falsch
+
+### Caroline kommt um 14:30 in München an. - richtig
+
+### Ida holt Caroline vom Bahnhof ab. - falsch
+
+### Ida möchte wandern und Rad fahren. - falsch
+
+
+------------------------------
+
+- Möbel abholen >
+- Rad fahren >
+- eine Wanderung machen >
+
+
+--------------------------------
+
+
+
+### Expressing likes	~~~~ Expressing dislikes
+### … ist/war schön/gut/toll/klasse/prima!	~~~~ … ist/war (gar) nicht gut / nicht schön / schrecklich.
+### Das Museum/… ist/war interessant. ~~~~	Das Museum/… ist/war langweilig.
+### Das Wetter war (sehr) gut / toll/klasse. ~~~~	Das Wetter war nicht gut / schlecht/schrecklich.
+### Ich hatte (viel) Spaß! ~~~~	Ich hatte keinen Spaß!
+
+
+-----------------------------------
+
 
