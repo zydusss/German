@@ -1520,7 +1520,7 @@ Ihren	Ihre	Ihres	Ihre
 
 
 
-	Present	Past	Present	Past
+|   |	Present	|Past	|Present	|Past|
 |----|-----------|-----------|-----------|---------------|
 |   |    	sein|   |   	haben|   |
 |ich	|bin	|war	|habe	|hatte|
