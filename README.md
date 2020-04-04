@@ -1784,3 +1784,28 @@ Das Wochenende war <b>günstig<b>.
 -----------------------------------
 
 
+### Hallo Caro!
+
+### Hallo Michael!
+
+### Na, alles gut bei dir?
+
+### Ja, mir geht’s prima!
+
+### Wie war die Reise?
+
+### Die Reise war lang, aber okay!
+
+### Und wie gefällt dir Bayern?
+
+### Sehr gut!
+
+### Wie war dein Tag? Schön?
+
+### Ja, sehr schön! Wir waren am See.
+
+### Was macht ihr heute Abend?
+
+### Wir grillen. Es riecht schon sehr lecker. Jetzt hab‘ ich Hunger.
+
+### Na, dann viel Spaß! Mach's gut! ♥♥
