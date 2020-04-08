@@ -2058,3 +2058,10 @@ Mama
 - ein bis zwei Stunden täglich / pro Tag
 - ca. drei Stunden pro Woche
 - viermal im Jahr
+
+
+
+-----------------------------
+
+
+
