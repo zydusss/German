@@ -2026,4 +2026,35 @@ Mama
 
 - Leonie und Laurin.
 
+--------------------------------------
 
+## Im Netz (In the Web)
+
+### Lesen Sie den Artikel. Wie lange nutzen Deutsche täglich das Internet? Welche Anwendungen nutzen sie am meisten? Ergänzen Sie auf dem Notizzettel die passenden Zahlen. Schreiben Sie.
+
+(Read the article. How long do Germans use the Internet every day? What applications do they use the most? Complete the appropriate numbers on the sticky note. You write.)
+
+### Circa 56 Millionen Deutsche nutzen das Internet.
+
+#### Im Durchschnitt sind sie pro Tag drei Stunden online. Circa 70% nutzen das Internet mit ihrem Computer oder Laptop und 60% surfen mit ihrem Smartphone. Und es sind täglich mehr.
+
+### Aber was machen die Personen im Internet?
+
+#### Kommunikation und Informationen sind sehr wichtig. Vier von fünf Personen, also 80%, schreiben E-Mails. Und 30% chatten mit Freunden. Aber nicht nur E-Mails und Chats sind wichtig. Immer mehr Menschen telefonieren auch im Internet, zum Beispiel mit Skype. Kommunikation ist also sehr wichtig. Aber noch mehr Personen suchen im Internet Informationen. 83% nutzen Suchmaschinen wie Google, Bing oder Yahoo. Andere surfen einfach so im Internet, lesen Blogs und Nachrichten, hören Musik oder sehen Videos an.
+
+### Sehr wichtig sind auch soziale Netzwerke wie zum Beispiel Facebook.
+
+#### Besonders junge Leute nutzen soziale Netzwerke oft – ein bis zwei Stunden pro Tag. Die Deutschen nutzen auch das Telefon für die Kommunikation mit Freunden und Familie. Aber im Durchschnitt telefonieren sie nur noch 50 Minuten pro Woche, also weniger als eine Stunde.
+
+- die Sekunde
+- die Minute (= 60 Sekunden)
+- die Stunde (= 60 Minuten)
+- der Tag (= 24 Stunden)
+- die Woche
+- das Jahr
+
+#### How often / How long?
+- 30 Minuten täglich / pro Tag
+- ein bis zwei Stunden täglich / pro Tag
+- ca. drei Stunden pro Woche
+- viermal im Jahr
