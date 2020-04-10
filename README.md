@@ -2065,5 +2065,47 @@ Mama
 
 -----------------------------
 
+##  Sie waren drei Stunden online
 
+### Sehen Sie sich die Zeitangaben in Zahlen an und ergänzen Sie die Sätze. Schreiben Sie. (Look at the times in numbers and complete the sentences. You write.)
+
+### Sie telefonieren seit zwei Minuten und fünfzehn Sekunden. (You've been on the phone for two minutes and fifteen seconds.)
+
+### Sie telefonieren seit zwei Minuten und fünfzehn Sekunden.
+
+### Sie waren eine Stunde, fünfundzwanzig Minuten und dreißig Sekunden online.
+
+### Sie waren eine Minute und neun Sekunden am Telefon.
+
+### Sie waren seit zwölf Stunden und vier Minuten nicht online. 
+
+### Die Registrierung ist noch dreizehn Stunden und fünf Minuten möglich.
+
+-------------------------------
+
+## Wofür nutzen Sie das Internet? (What do you use the internet for?)
+
+### Welche Aussage passt zu welcher Person? Schreiben Sie ja (die Aussage passt) oder nein (die Aussage passt nicht). [ Which statement fits which person? Write yes (the statement fits) or no (the statement does not fit). ]
+
+
+Nutzt keine sozialen Netzwerke
+Surft gern im Internet.
+Nutzt das Internet täglich.
+Schreibt viele E-Mails.
+Chattet viel über Skype.
+
+
+---------------------------------
+
+## Alles Pasta!  (All pasta)
+
+### Lesen Sie den Blogbeitrag und die Aussagen. Richtig oder falsch? Wählen Sie aus.
+
+### Alles Pasta! Workshop in Italien 12. September 22:43
+
+### Diese Woche gibt es leider kein Rezept. Ich bin seit einer Woche in Italien bei einem Pasta-Workshop von meinem Freund Alessio. Es ist wunderbar.
+
+### Ich liebe Italien und das Essen hier: Pizza, Pasta, Fisch …
+
+### Heute kochen wir Pasta mit Gemüse aus dem Garten. Alles frisch, hier kommt nichts aus dem Supermarkt. Morgen mache ich mit der Mutter von Alessio einen Ausflug. Wir fahren zu einem Weinkeller. Nächste Woche gibt es dann auch ein paar Wein-Tipps!
 
