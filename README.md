@@ -2103,9 +2103,31 @@ Chattet viel über Skype.
 
 ### Alles Pasta! Workshop in Italien 12. September 22:43
 
+- Diese > This
+- Woche > Week
+- gibt > Gives
+- leider > Unfortunately
+- Rezept > Recipe
+- seit > Since
+- wunderbar > wonderful
+
 ### Diese Woche gibt es leider kein Rezept. Ich bin seit einer Woche in Italien bei einem Pasta-Workshop von meinem Freund Alessio. Es ist wunderbar.
 
 ### Ich liebe Italien und das Essen hier: Pizza, Pasta, Fisch …
+
+- kochen > cook
+- Gemüse > vegetables
+- dem > the
+- Garten > garden
+- frisch > fresh
+- Ausflug > Excrusion
+- mache > do
+- Morgen > Tomorrow
+- Weinkeller > Wine cellar
+- fahren > drive
+- Nächste > next 
+- paar > couple 
+- Wein-Tipps > wine tips
 
 ### Heute kochen wir Pasta mit Gemüse aus dem Garten. Alles frisch, hier kommt nichts aus dem Supermarkt. Morgen mache ich mit der Mutter von Alessio einen Ausflug. Wir fahren zu einem Weinkeller. Nächste Woche gibt es dann auch ein paar Wein-Tipps!
 
