@@ -2142,14 +2142,23 @@ Chattet viel über Skype.
 
 -----------------------------------------
 
+## Der Kochworkshop
 
+### Sehen Sie sich die Bilder an. Was passt zusammen? Ordnen Sie zu.
 
-
-
+### Das Gemüse kommt aus dem Garten.
+### 	Das ist Alessio mit seiner Mutter. Sie kochen oft zusammen.
+### Nach dem Workshop bekommt ihr neue Rezepte.
+### Lina bekommt von Alessio viele Rezepte.
+### Morgen fahren wir zu einem Weinkeller.
 -----------------------------------------
 
+## Präpositionen
 
+## Lesen Sie den Blogeintrag. Markieren Sie die Präpositionen mit Artikel (Beispiel: mit meiner). Die Wörter in der Box helfen Ihnen.
+### seit nach zu aus mit bei von
 
+![Image description](https://github.com/zydusss/German/blob/master/dativ_article.JPG)
 
 
 -----------------------------------------
