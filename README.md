@@ -2160,5 +2160,5 @@ Chattet viel über Skype.
 
 ![Image description](https://github.com/zydusss/German/blob/master/dativ_article.JPG)
 
-
+### Der Workshop klingt toll. Ich liebe Pasta. Ich war leider seit zwei Jahren nicht mehr in Italien. Du hast bestimmt sehr viele Ideen nach dem Workshop. Ich bin gespannt! Ich bekomme sehr oft Obst und Gemüse aus dem Garten von einem Freund. Gerade habe ich viele Zucchini, Paprika und Tomaten. Vielleicht hast du ja ein tolles Rezept mit den Zutaten? Ich habe leider keine Idee. Macht dein Freund den Workshop oft? Ich bin nächstes Jahr bei einer Freundin in Neapel. Vielleicht kann ich dann auch zu dem Workshop fahren.
 -----------------------------------------
