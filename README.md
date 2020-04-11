@@ -2131,3 +2131,25 @@ Chattet viel über Skype.
 
 ### Heute kochen wir Pasta mit Gemüse aus dem Garten. Alles frisch, hier kommt nichts aus dem Supermarkt. Morgen mache ich mit der Mutter von Alessio einen Ausflug. Wir fahren zu einem Weinkeller. Nächste Woche gibt es dann auch ein paar Wein-Tipps!
 
+### Die Leser bekommen diese Woche keine Rezepte von Lina.
+
+### Ein Freund macht den Workshop.
+
+### Das Gemüse ist aus dem Supermarkt.
+
+### Morgen trifft Lina die Mutter von Alessio.
+
+
+-----------------------------------------
+
+
+
+
+
+-----------------------------------------
+
+
+
+
+
+-----------------------------------------
