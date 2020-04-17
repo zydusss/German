@@ -2218,8 +2218,37 @@ Chattet viel über Skype.
 
 ----------------------------------------
 
+## Technischer Fortschritt
+
+### Sehen Sie sich den Zeitstrahl an und lesen Sie die Sätze. Ziehen Sie die Paare aufeinander.
+
+#### im Internet	| telefonieren
+#### Informationen	| suchen
+#### mit dem Tablet	| surfen
+#### mit dem Handy	| ins Internet gehen
+#### E-Mails	| verschicken
 
 ----------------------------------------
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
 
 
 
