@@ -2162,3 +2162,44 @@ Chattet viel über Skype.
 
 ### Der Workshop klingt toll. Ich liebe Pasta. Ich war leider seit zwei Jahren nicht mehr in Italien. Du hast bestimmt sehr viele Ideen nach dem Workshop. Ich bin gespannt! Ich bekomme sehr oft Obst und Gemüse aus dem Garten von einem Freund. Gerade habe ich viele Zucchini, Paprika und Tomaten. Vielleicht hast du ja ein tolles Rezept mit den Zutaten? Ich habe leider keine Idee. Macht dein Freund den Workshop oft? Ich bin nächstes Jahr bei einer Freundin in Neapel. Vielleicht kann ich dann auch zu dem Workshop fahren.
 -----------------------------------------
+
+
+![Image description](https://github.com/zydusss/German/blob/master/Preposition.JPG)
+
+----------------------------------------
+
+## Stimmen zum Workshop
+
+### Hören Sie den Podcast über den Workshop und lesen Sie die Aussagen. Was passt zusammen? Ordnen Sie zu.
+
+### Ich kann nicht so gut kochen. Aber jetzt kann ich sehr gute Pasta machen.
+
+### Der Workshop ist toll, aber nach einer Woche Pasta brauche ich Gemüse.
+
+### Das Gemüse aus dem Garten ist toll. Leider muss ich zu Hause alles im Supermarkt kaufen.
+
+----------------------------------------
+
+## Es ist toll
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
