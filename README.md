@@ -2257,10 +2257,38 @@ Chattet viel über Skype.
 
 ### Beispiel: Was machst du heute Abend? – Nach der Arbeit gehe ich ins Kino. (nach / die Arbeit)
 
+### Woher kommt das Gemüse? – Es kommt frisch aus dem Garten.
 
+### Seit wann lebst du in Deutschland? – Seit einem Monat.
+
+### Was macht er? – Er telefoniert mit seinem Bruder.
+
+### Wo bist du? – Beim Arzt.
+
+### Wohin fahrt ihr morgen? – Zu einem Kochkurs.
+
+### Wer ist das? – Das ist die Mutter von meiner Freundin.
 
 
 ----------------------------------------
+
+## Ein Interview
+
+Guten Tag, wie nutzen Sie das Internet?
+
+Ich brauche das Internet viel für die Arbeit. In meiner Freizeit chatte ich mit meinen Freunden, meistens über WhatsApp. Und ich schreibe einen Blog über Architektur. Ja, und ich höre oft Musik im Internet.
+
+Wie lange sind sie täglich im Internet?
+
+Oh, mindestens zehn Stunden. Aber nicht immer am Computer, privat meistens über mein Smartphone.
+
+Vielen Dank. Und Sie, was machen Sie meistens im Internet?
+
+Ich muss für die Arbeit täglich viele E-Mails schreiben. Privat lerne ich jetzt Spanisch mit einem Lernprogramm. Und ich telefoniere mit meinen Freunden in Amerika, über Skype.
+
+Nutzen Sie auch soziale Netzwerke wie Facebook?
+
+Ja, aber selten. Und manchmal spiele ich Computerspiele.
 
 
 
