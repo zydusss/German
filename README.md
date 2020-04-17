@@ -2230,6 +2230,54 @@ Chattet viel über Skype.
 
 ----------------------------------------
 
+## Präpositionen mit Dativ I
+
+### der Kochkurs:
+- Beim Kochkurs lerne ich viel.
+- Seit dem Kochkurs kann ich gut kochen.
+- Nach dem Kochkurs treffe ich Martina.
+
+### das Konzert:
+- Beim Konzert von Gentleman hatte ich viel Spaß.
+- Vom Gentleman-Konzert sprechen alle.
+- Zum Gentleman-Konzert gehe ich mit Alicia.
+
+### die Arbeit:
+- Nach der Arbeit fahre ich zum Theater.
+- Bei der Arbeit habe ich nette Kollegen.
+- Mit der Arbeit habe ich Probleme.
+
+----------------------------------------
+
+## Präpositionen mit Dativ II
+
+### Ergänzen Sie die passende Angabe aus der Box. Achten Sie auf die korrekte Dativ-Form. Schreiben Sie.
+
+(zu / ein Kochkurs) (seit / ein Monat) (bei / der Arzt) (von / meine Freundin) (aus / der Garten) (mit / sein Bruder)
+
+### Beispiel: Was machst du heute Abend? – Nach der Arbeit gehe ich ins Kino. (nach / die Arbeit)
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
 
 
 ----------------------------------------
