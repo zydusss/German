@@ -2198,7 +2198,22 @@ Chattet viel über Skype.
 ![Image description](https://github.com/zydusss/German/blob/master/Preposition_Plus_Artikel.JPG)
 
 
+### Ich surfe im Internet auf dem Weg zur Arbeit.  (zu / die Arbeit)
 
+### Ich hole meine Musik aus dem Internet.
+(aus / das Internet)
+
+### Ich chatte viel mit einer Freundin in Berlin.
+(mit / eine Freundin)
+
+### Bei der Arbeit muss ich viele Mails schreiben.
+(bei / die Arbeit)
+
+### Beim Sport höre ich Musik.
+(bei / der Sport)
+
+### Ich fahre mit dem Fahrrad zum Bahnhof.
+(zu / der Bahnhof)
 
 
 ----------------------------------------
