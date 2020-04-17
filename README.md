@@ -2182,10 +2182,21 @@ Chattet viel über Skype.
 
 ## Es ist toll
 
+### Mir gefällt der Workshop sehr gut. Ich kann nicht gut kochen. – Also bis jetzt! …Aber mit den Tipps von Alessio kann ich nach dem Workshop meine Freunde zum Essen einladen.
 
+### Ich lerne bei dem Workshop sehr viel. Die Rezepte von Alessio sind super und die Pasta ist sehr lecker. Aber morgen esse ich nur Obst und Gemüse aus dem Garten. Eine Woche Pasta ist zu viel!
+
+### Wir kochen seit einer Woche nur mit super Zutaten. Hier macht Pastakochen richtig Spaß! Alles ist frisch und total lecker. Leider habe ich zu Hause keinen Garten. Mein Gemüse ist aus dem Supermarkt.
 
 
 ----------------------------------------
+
+## Ich chatte viel
+
+### Lesen Sie die Sätze. Ergänzen Sie die Präpositionen zusammen mit dem Artikel im Dativ. Schreiben Sie.
+
+![Image description](https://github.com/zydusss/German/blob/master/Preposition_Plus_Artikel.JPG)
+
 
 
 
