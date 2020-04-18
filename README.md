@@ -2335,7 +2335,23 @@ Ja, das ist nett. Kannst du die Bücher nehmen?
 
 ----------------------------------------
 
+## Einladung zur Silvesterparty
 
+### Karina bekommt von Mia eine Einladung zur Silvesterparty. Lesen Sie die Einladung. Auf welche Fragen finden Sie in der Einladungs-Mail eine Antwort? Wählen Sie aus.
+
+### Einladung zur Silvesterparty
+<br/>
+Liebe Freunde,
+<br/>
+auch dieses Jahr machen wir wieder unsere Silvesterparty:
+Ab 21 Uhr in der Steinstraße 6.
+<br/>
+Wie immer essen wir Fondue und Sekt ist auch genug da!
+Dieses Jahr machen wir auch ein Feuerwerk.
+<br/>
+Wir hoffen, ihr kommt.
+<br/>
+Mia & Thomas
 
 
 ----------------------------------------
