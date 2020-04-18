@@ -2295,6 +2295,49 @@ Ja, aber selten. Und manchmal spiele ich Computerspiele.
 
 ----------------------------------------
 
+### NACH DEM BEFINDEN FRAGEN UND DARAUF REAGIEREN
+
+### Geht es dir/Ihnen gut?	
+- Na ja, es geht (so). Und dir/Ihnen?
+- Ja, super/gut/ sehr gut. Und dir/Ihnen?
+
+### Wie geht es dir/Ihnen/euch?	
+- Ach, nicht so gut. / Es geht. Und dir/Ihnen?
+- Gut. / Sehr gut. / Super, danke.
+
+### 1
+- Hi Karina, geht's dir gut?
+- Na ja, es geht so.
+
+### 2
+- Hallo, Frau Mälzer? Wie geht es Ihnen?
+- Ach, nicht so gut.
+
+### 3
+- Hallo, geht's euch gut?
+- Hallo Karina. Ja, super!
+
+----------------------------------------
+
+### HILFE ANBIETEN (OFFER HELP)
+
+Kann ich Ihnen helfen?
+Kann ich dir helfen?
+Kann ich euch helfen?
+
+### HILFE ANNEHMEN (ACCEPT HELP)
+
+Gerne.
+Oh ja. Sehr nett, danke.
+
+### HILFE ABLEHNEN (REJECT HELP)
+
+Nein, nein. Das schaffe ich.
+
+----------------------------------------
+
+
+
 ## Ja, das ist nett!
 
 ![Image description](https://github.com/zydusss/German/blob/master/Help.JPG)
@@ -2352,6 +2395,15 @@ Dieses Jahr machen wir auch ein Feuerwerk.
 Wir hoffen, ihr kommt.
 <br/>
 Mia & Thomas
+
+### QQQQ
+
+- Wer macht die Party? Correct
+- Was gibt es zu Essen und zu Trinken? Correct
+> Was muss man mitbringen?
+> Bis wann müssen die Freunde antworten?
+- Wo ist die Party? Correct
+- Wann beginnt die Party? Correct
 
 
 ----------------------------------------
