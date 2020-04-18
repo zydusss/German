@@ -2295,8 +2295,43 @@ Ja, aber selten. Und manchmal spiele ich Computerspiele.
 
 ----------------------------------------
 
+## Ja, das ist nett!
 
+![Image description](https://github.com/zydusss/German/blob/master/Help.JPG)
 
+### Lesen Sie die Dialoge. Ziehen Sie die Sätze an die passende Stelle in den Dialogen.
+
+### 1
+
+Geht es Ihnen nicht gut?
+
+Nein.
+
+Kann ich Ihnen helfen? Möchten Sie etwas trinken?
+
+Ja, gerne.
+
+Hier bitte.
+
+### 2
+
+Kann ich euch helfen?
+
+Nein, danke. Wir sind gleich fertig.
+
+Okay. Aber sagt es. Ich kann gerne etwas helfen.
+
+### 3
+
+Hallo Brigitte. Was trägst du denn alles?
+
+Hallo Sebastian. Wir hatten ein Meeting. Jetzt räume ich alles auf.
+
+Brauchst du Hilfe?
+
+Ja, das ist nett. Kannst du die Bücher nehmen?
+  
+  
 
 ----------------------------------------
 
