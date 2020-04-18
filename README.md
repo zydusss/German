@@ -2408,27 +2408,132 @@ Mia & Thomas
 
 ----------------------------------------
 
+### Bist du Mias Schwester?
+
+### DIE PERSONEN KENNEN SICH. (The people know each other)
+
+
+### DIE PERSONEN KENNEN SICH NICHT. (The people dont know)
+
+----------------------------------------
+
+
+## Kennen wir uns nicht? 
+(Do not we know each other?)
+
+### ADDRESSING PEOPLE AND RESPONDING
+
+### Mia!	> Thomas!
+### Frau Wagner?	> Ja, bitte?
+### Bist du Thomas? / Sind Sie Herr Schmitt?	> Ja, (das bin ich.) / Ja, warum?
+### Sind Sie nicht Frau Schmitt?	> Nein, ich bin Frau Wagner. / Nein, ich heiße Wagner.
+### Hallo, ich heiße Thomas.	> Ich heiße Marlis. Hallo.
+### Guten Tag, ich heiße Wagner.	> Schmitt. Guten Tag.
+
+
+### Hallo,kennenwirunsnicht?Ja ... stimmt, du warst doch auch im Japanischkurs bei Mimiko.Ja, genau. Lernst du noch Japanisch?Nein, ich habe leider keine Zeit.
+
+### Wagner!Entschuldigung, sind Sie nicht Frau Herrmann?Nein, mein Name ist Wagner.Oh, Entschuldigung. Schön Sie kennenzulernen und ein gutes neues Jahr!Danke, ihnen auch.
+
 
 
 
 ----------------------------------------
 
+## Prosit Neujahr!
 
+### Hören Sie den Dialog über Silvester in Deutschland. Was passt zu Silvester? Ziehen Sie die passenden Wörter in die Box.
+
+### On New Year’s Eve you can say:
+
+### Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
+
+### Feuerwerk
+### Sekt trinken
+### Party feiern
+### "Frohes neues Jahr!"
 
 
 ----------------------------------------
 
 
+## Silvester und andere Feste
+
+### 1. Einladung zum 40. Geburtstag
+
+Liebe Freunde,
+
+nun ist es soweit. Ich werde 40.
+Das will ich mit euch feiern. Am 15.08. ab 18 Uhr bei uns zu Hause im Garten. Es gibt natürlich auch Musik.
+Schreibt mir bitte bis zum 31.07., ob ihr kommen könnt.
+
+Liebe Grüße
+Dieter
+
+
+### 2. Einladung zur Hochzeit
+
+#### Für Jetzt & für Immer
+
+Wir heiraten am 21.07.
+Die Trauung findet um 12 Uhr statt.
+Ab 14 Uhr feiern wir.
+Wir laden euch herzlich zur Hochzeit ein.
+
+Hoffentlich feiert ihr mit uns! Bitte schreibt bis 21.05., ob ihr kommt.
+
+Mia & Thomas
+
+
+(
+We are getting married on July 21st.
+The wedding takes place at 12 noon.
+We celebrate from 2 p.m.
+We cordially invite you to the wedding.
+
+Hopefully you celebrate with us! Please write until May 21st if you are coming.
+)
+
+### 3. Einladung zum Weihnachtsessen
+
+Hallo Karina,
+
+auch dieses Jahr machen wir wieder unser Weihnachtsessen. Also, nicht vergessen!
+
+26.12.2014
+ab 20 Uhr
+Leonrodstraße 21
+Ich hoffe, du kommst!
+
+Liebe Grüße,
+Steffi
+
+### 4. Einladung zur Silvesterparty
+
+Liebe Freunde,
+
+auch dieses Jahr machen wir wieder unsere Silvesterparty:
+Ab 21 Uhr in der Steinstraße 6
+Wie immer essen wir Fondue und Sekt ist auch genug da!
+Dieses Jahr machen wir auch ein Feuerwerk.
+
+Wir hoffen, ihr kommt.
+Mia & Thomas
 
 
 ----------------------------------------
 
+### Super! Herzlichen Glückwunsch!
+▲ Danke!
 
+### Gutes neues Jahr!
+▲ Danke, dir auch!
 
+### Frohe Weihnachten!
+▲ Danke! Euch auch
 
-----------------------------------------
-
-
+### Alles Gute zum Geburtstag, Dieter!
+▲ Vielen Dank!
 
 
 ----------------------------------------
