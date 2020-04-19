@@ -2632,8 +2632,20 @@ Volleyball spielen
 
 ----------------------------------------
 
+## Auf dem Festival
+
+### Was machen die Personen auf dem Festival? Ergänzen Sie die passenden Verben. Achten Sie auf die Konjugation der Verben. Die Wörter in der Box helfen Ihnen. Schreiben Sie.
 
 
+- Peter lernt Gitarre spielen.
+
+- Marie und Jakob sehen ein Theaterstück.
+
+- Sascha geht in ein Konzert.
+
+- Ben macht einen Kochkurs.
+
+- Die Kinder spielen Volleyball.
 
 ----------------------------------------
 
