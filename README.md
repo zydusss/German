@@ -2694,9 +2694,29 @@ Volleyball spielen
 
 ### Wie komme ich von der Schule zum Festival?
 
+### Du kannst mit dem Bus 99 fahren.
+
 ----------------------------------------
 
+## Lust auf Improtheater?
 
+![Image description](https://github.com/zydusss/German/blob/master/Definite_ArticlesNAD.JPG)
+
+### Lesen Sie den Gruppenchat. Ergänzen Sie kein, ein oder einen Possessivartikel in der korrekten Form. Schreiben Sie.
+
+### Hi, habt ihr nächste Woche Lust auf Improtheater am Donnerstag? Beim Sommernacht-Festival gibt es ein Stück von fastwords.
+
+### Schade, ich habe keine Zeit
+
+### Gute Idee, kann ich eine Freundin mitnehmen?
+
+### Ich habe keine Lust. Das finde ich langweilig.
+
+### Schön, wie viel kostet ein Ticket?
+
+### Schade, ich kann nicht, ich habe einen Termin.
+
+### Tut mir leid. Ich sehe gerade, es gibt keine Tickets am Donnerstag. Habt ihr auch am Mittwoch Zeit?
 
 
 
