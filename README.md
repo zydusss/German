@@ -2538,6 +2538,130 @@ Mia & Thomas
 
 ----------------------------------------
 
+## Was macht man mit Freunden?Question Player
+
+### in den Club gehen
+
+- ins Café gehen
+- ins Schwimmbad gehen
+- ins Theater gehen
+- in den Park gehen
+- in den Club gehen
+
+
+----------------------------------------
+
+## Veranstaltungstipp (Event Tip)
+
+
+### Hören Sie den Veranstaltungstipp. Welche Dinge gibt es bei dem Sommerfestival im Park? Wählen Sie die passenden Bilder aus.
+(Hear the event tip. What are the things at the summer festival in the park? Choose the right pictures.)
+
+
+
+
+----------------------------------------
+
+
+## Festival-Programm
+
+### Sehen Sie das Wochenprogramm für das Festival an. Welche Veranstaltung passt? Schreiben Sie die passende Nummer neben die Sätze.
+
+### Sommernacht-Festival – Woche 1 – Programm
+
+#### Musikzelt <br/>	
+1
+Montag 20 Uhr
+Akrobatik: Nouveau Cirque	<br/>
+
+2
+Donnerstag 20 Uhr
+Konzert: Jamie Cullum	<br/>
+
+3
+Freitag 20 Uhr
+Musical: Grease	<br/>
+
+4
+Samstag 20 Uhr
+Konzert: Gentleman	<br/>	
+
+#### Theaterzelt
+
+5
+Mittwoch 16 Uhr
+Theater: Der kleine Prinz
+
+6
+Donnerstag 20 Uhr
+Improtheater: „fastwords“
+
+7
+Freitag 19.30 Uhr
+Comedy: Caveman
+
+8
+Samstag 19.30 Uhr
+Theater: Romeo und Julia
+
+#### Kinderzelt
+
+9
+Donnerstag 15 Uhr
+Kochkurs  <br/>
+
+10
+Freitag 15 Uhr
+Gitarrenkurs  <br/>
+
+11
+Samstag 11 Uhr
+Graffiti-Workshop <br/>
+
+12
+Sonntag 14 Uhr
+Volleyball spielen
+
+- Sie möchten am Wochenende in ein Konzert gehen. Answer 4
+
+
+- Sie möchten am Nachmittag mit ihren Kindern ein Theaterstück sehen. Answer 5
+
+
+- Ihre Kinder möchten Sport machen. Answer 12
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+
+----------------------------------------
+
+
+
+
+
+----------------------------------------
+
+
+
+
+
+----------------------------------------
+
+
+
+
+
+----------------------------------------
+
+
 
 
 
