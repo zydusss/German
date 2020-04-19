@@ -2649,8 +2649,29 @@ Volleyball spielen
 
 ----------------------------------------
 
+## Super Konzerte!
 
+### Lesen Sie die Forumseinträge zum Festival: Was finden die Besucher positiv, was finden sie negativ? Ordnen Sie zu.
+(Read the forum entries for the festival: What do visitors find positive, what do they find negative? Arrange into.)
 
+### Wie hat euch das Sommernacht-Festival gefallen?
+(How did you like the Summer Night Festival?)
+
+### Super Konzerte! Ich komme nächstes Jahr wieder.
+(Great concerts! I'll come again next year.)
+
+### Das Improtheater war sehr lustig. Kann ich nur empfehlen.
+(The improtheater was very funny. I can only recommend.)
+
+### Zu viele Leute – vor allem am Wochenende!
+(Too many people - especially on weekends!)
+
+###  Internationales Essen – sehr interessant!
+(International food - very interesting!)
+
+### Die Produkte sind zu teuer – hier kaufe ich nichts.
+
+(The products are too expensive - I don't buy anything here.)
 
 
 ----------------------------------------
