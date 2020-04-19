@@ -2700,7 +2700,7 @@ Volleyball spielen
 
 ## Lust auf Improtheater?
 
-![Image description](https://github.com/zydusss/German/blob/master/Definite_ArticlesNAD.JPG)
+![Image description](https://github.com/zydusss/German/blob/master/Definite_Articles_NAD.JPG)
 
 ### Lesen Sie den Gruppenchat. Ergänzen Sie kein, ein oder einen Possessivartikel in der korrekten Form. Schreiben Sie.
 
@@ -2722,9 +2722,26 @@ Volleyball spielen
 
 ----------------------------------------
 
+## In Heidelberg
 
+### Pia und Markus sind in Heidelberg. Sie gehen in die Touristeninformation. Sehen Sie sich die Audioslideshow an und hören Sie. Lesen Sie die Aussagen. Was passt? Wählen Sie aus.
 
+### das Schloss
+### die Alte Brücke
+### das Karlstor 
+### der Neckar
 
+### Wenn das Video bei Ihnen nicht angezeigt wird, klicken Sie bitte hier.
+
+### Pia und Markus machen Urlaubcin Heidelberg.
+
+### Pia und Markus sind nur zwei Tage in der Stadt.
+
+### Die Stadtrundfahrt mit dem Bus dauert zwei Stunden.
+
+### Pia und Markus möchten das Schloss Heidelberg gerne sehen.
+
+### Pia mag Theater.
 
 ----------------------------------------
 
