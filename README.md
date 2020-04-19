@@ -2745,7 +2745,78 @@ Volleyball spielen
 
 ----------------------------------------
 
+## Wie kann ich Ihnen helfen?
 
+### ASKING FOR AND PROVIDING INFORMATION
++ Entschuldigung, können Sie uns helfen?
++ Entschuldigung, kann/darf ich Sie etwas fragen?
++ Ich habe eine Frage: Wann/wo …?
+
+### PROVIDING INFORMATION
++ Wie kann ich Ihnen helfen?
++ Ja, natürlich. / Aber natürlich.
++ Sie können …
++ Ich empfehle Ihnen …
++ Ich kann Ihnen einen Plan mit den Abfahrtszeiten / den Preisen geben.
+
+### UM INFORMATIONEN BITTEN
++ Können Sie uns Tipps geben?
++ Entschuldigung. Haben Sie einen Stadtplan?
++ Wann sind denn die Stadtrundfahrten?
++ Wie lange dauert denn die Stadtrundfahrt?
+
+
+### INFORMATIONEN GEBEN / REAGIEREN
++ Ja, natürlich. Hier, bitte sehr.
++ Ich gebe Ihnen einen Plan mit den Zeiten.
++ Sie können eine Stadtrundfahrt mit dem Bus machen
++ Guten Tag, wie kann ich Ihnen helfen?
++ Ich empfehle Ihnen einen Besuch im Theater.
+
+
+----------------------------------------
+
+
+
+----------------------------------------
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+----------------------------------------
 
 
 
