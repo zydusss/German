@@ -2682,7 +2682,17 @@ Volleyball spielen
 ### Lesen Sie die Kommentare. Was passt? Wählen Sie aus.
 (Read the comments. What's up? Choose.)
 
+![Image description](https://github.com/zydusss/German/blob/master/Definite_Articles.JPG)
 
+### Ich war gestern auch auf dem Festival. Es war toll und das Essen war auch sehr lecker. Nur die Produkte sind leider ein bisschen teuer, aber sie sind schön.
+
+### Ich war gestern bei Jamie Cullum. Es war super und die Leute waren alle begeistert! Ich liebe Jamie Cullum. Nach dem Konzert war ich noch beim Markt. Das indische Essen war sehr lecker.
+
+### Ich möchte am Mittwoch mit meinen Kindern in das Theater „Der kleine Prinz“ gehen. Ist es gut für Kinder?
+
+### Ja, es ist gut! Ich war mit den Kindern von meiner Schwester und sie hatten viel Spaß.
+
+### Wie komme ich von der Schule zum Festival?
 
 ----------------------------------------
 
