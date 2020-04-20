@@ -2817,31 +2817,31 @@ Volleyball spielen
 
 [Dativ_Personal_Pronouns.JPG]
 
-### Wo sind wir denn? Pia, gibst du <b>mir</b> mal bitte den Stadtplan?
-### - Hier bitte. Warte, ich helfe <b>dir</b>.
-### Ich glaube, wir sind hier falsch.
+- Wo sind wir denn? Pia, gibst du <b>mir</b> mal bitte den Stadtplan?
+- Hier bitte. Warte, ich helfe <b>dir</b>.
+- Ich glaube, wir sind hier falsch.
 
 
-### Entschuldigung, kann ich euch was fragen?
-### + Ja, bitte?
-### Könnt Ihr <b>uns</b> auf dem Stadtplan den Weißen Bock zeigen?
-### + Ja, natürlich. Der ist hier.
-### Vielen Dank.
+- Entschuldigung, kann ich euch was fragen?
+- Ja, bitte?
+- Könnt Ihr <b>uns</b> auf dem Stadtplan den Weißen Bock zeigen?
+- Ja, natürlich. Der ist hier.
+- Vielen Dank.
 
 
-### - Markus, schau mal, das Buch über Heidelberg ist doch sehr schön.
-### Gefällt es <b>dir</b>? Möchtest du es haben?
+- Markus, schau mal, das Buch über Heidelberg ist doch sehr schön.
+- Gefällt es <b>dir</b>? Möchtest du es haben?
 - Nein, nicht für mich. Aber dein Vater hat doch bald Geburtstag. Schenk <b>ihm</b> doch das Buch.
-# Oh ja, das ist eine gute Idee.
+- Oh ja, das ist eine gute Idee.
 
 
-### - Markus, hilf <b>ihr</b> doch. Der Kinderwagen ist bestimmt schwer.
-### Kann ich <b>Ihnen</b> mit dem Kinderwagen helfen?
-### = Das ist sehr nett. Vielen Dank.
+- Markus, hilf <b>ihr</b> doch. Der Kinderwagen ist bestimmt schwer.
+- Kann ich <b>Ihnen</b> mit dem Kinderwagen helfen?
+- Das ist sehr nett. Vielen Dank.
 
 
-### ~ Hallo Pia! Wie ist es in Heidelberg? Gefällt es <b>euch</b>?
-### - Oh ja, hier ist es sehr schön. Heidelberg ist eine super Stadt.
+- Hallo Pia! Wie ist es in Heidelberg? Gefällt es <b>euch</b>?
+- Oh ja, hier ist es sehr schön. Heidelberg ist eine super Stadt.
 
 
 ----------------------------------------
