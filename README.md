@@ -2776,7 +2776,36 @@ Volleyball spielen
 
 ----------------------------------------
 
+## Unterwegs in Heidelberg
 
+### Pia und Markus suchen das Universitätsmuseum. Sie fragen eine Passantin. Hören Sie das Gespräch und ziehen Sie die Sätze an die passende Stelle im Dialog.
+
+
+### Hmm …. Das Museum muss doch hier sein, oder?   Pia, gibst du mir mal bitte den Stadtplan?
+
+### Hier, bitte. Warte, ich helfe dir.
+
+### Ich glaube, wir sind hier nicht richtig.   Entschuldigung, können Sie uns bitte helfen?
+
+### Ja, bitte?
+
+### Wir suchen das Universitätsmuseum.
+
+### Das ist gleich hier um die Ecke. Direkt in der Universität.
+
+### Ah, vielen Dank.
+
+### Ach, darf ich Sie noch etwas fragen?
+
+### Natürlich.
+
+### Wo können wir denn hier gut essen?
+
+### Da empfehle ich Ihnen den Weißen Bock. Da können Sie sehr gut essen.
+
+### Können Sie uns das bitte auf dem Stadtplan zeigen?
+
+### Natürlich. Also …
 
 ----------------------------------------
 
