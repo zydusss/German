@@ -2950,13 +2950,35 @@ Are you helping him
 
 ----------------------------------------
 
+## Was bekommen Sie wo? (What do you get where?)
+
+### Bewegen Sie die Maus über die Bilder. Hören und lesen Sie. 
+(Move the mouse over the pictures. Hear and read.)
+
++ die Bank : das Geld
++ der Gelautomat : das Geld
++ die Post : die Breifmarken
++ der Museumsshop : die Postkarte, das Souvenir
++ die Touristeninformation : der Stadplan, der Prospekt
++ die Kasse : das Ticket
+
+
 
 
 
 ----------------------------------------
 
+## Bei der Post
 
+### Angela hat Postkarten und braucht 5 Briefmarken.
 
+### Angela kauft 2 Briefmarken für das Ausland.
+
+### Angela möchte eine Postkarte nach Norwegen und eine Postkarte nach Kanada schicken.
+
+### Zwei Briefmarken international kosten 1,50 Euro.
+
+### Angela bezahlt 2,85 Euro für fünf Briefmarken.
 
 ----------------------------------------
 
