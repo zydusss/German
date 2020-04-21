@@ -2815,7 +2815,7 @@ Volleyball spielen
 ### Lesen Sie die Dialoge. Markieren Sie die Personalpronomen im Dativ.
 
 
-[Dativ_Personal_Pronouns.JPG]
+![Image description](https://github.com/zydusss/German/blob/master/Dativ_Personal_Pronouns.JPG)
 
 - Wo sind wir denn? Pia, gibst du <b>mir</b> mal bitte den Stadtplan?
 - Hier bitte. Warte, ich helfe <b>dir</b>.
@@ -2846,8 +2846,36 @@ Volleyball spielen
 
 ----------------------------------------
 
+## ich - mir / du - dir ...
+
++ Guten Tag, können Sie <b>mir</b> sagen, wann die Stadtrundfahrten sind?
+
++ Ich gebe <b>Ihnen</b> einen Plan mit den Abfahrtszeiten mit.
+
++ Ich danke <b>Ihnen</b>.
+
++ Gibst du <b>mir</b> mal bitte meine Kamera?
+
++ Ja, klar. Hier bitte.
+
++ Ich dank' <b>dir</b>.
+
++ Entschuldigung, könnt ihr <b>uns</b> bitte helfen? Wir suchen die Alte Brücke!
+
++ Natürlich. Wir können <b>euch</b> das auf dem Stadtplan zeigen.
+
++ Ja, super. Vielen Dank!
 
 
++ Lisa, schau mal, ich glaube, der Mann braucht Hilfe. Komm, wir helfen <b>ihm</b>.
+
++ Guten Tag! Können wir <b>Ihnen</b> helfen?
+
++ Guten Tag! Ja, bitte. Ich suche das Hotel Post.
+
++ Tim, gibst du Papa bitte die Kamera!
+
++ Ja, sofort. Ich möchte nur noch ein Foto machen und dann geb‘ ich <b>ihm</b> die Kamera.
 
 ----------------------------------------
 
