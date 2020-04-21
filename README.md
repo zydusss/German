@@ -2982,6 +2982,22 @@ Are you helping him
 
 ----------------------------------------
 
+## Fragen helfen weiter
+
+
+### Sehen Sie sich die Handlungskarten an und lesen Sie die Fragen. Was passt zusammen? Ordnen Sie zu.
+
+### Stadplan: Können Sie mir bitte einen Stadtplan geben?
+
+### Bahnof: Entschuldigung. Wo ist der Bahnhof?
+
+### Busfahrplan: Haben Sie einen Busfahrplan?
+
+### Zugticket: Wie viel kostet ein Ticket?
+
+### Breifmarken: Entschuldigung. Haben Sie Briefmarken?
+
+### Stadtrundfahrt: Eine Frage bitte: Wann sind denn die Stadtrundfahrten?
 
 
 
