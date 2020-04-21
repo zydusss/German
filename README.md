@@ -2884,21 +2884,21 @@ Volleyball spielen
 ### Personalpronomen im Nominativ und im Dativ. Was passt zusammen? Suchen Sie Paare.
 (Personal pronouns in nominative and dative. What fits together? Find couples.)
 
-+ Sie brauchen einen Stadtplan.
-+ Gibst du ihnen einen Stadtplan?
++ Sie brauchen einen Stadtplan. (You need a city map.)
++ Gibst du ihnen einen Stadtplan? (Do you give them a city map?)
 
 
-+ Brauchen Sie Hilfe?
-+ Kann ich Ihnen helfen?
++ Brauchen Sie Hilfe? (Do you need help?)
++ Kann ich Ihnen helfen? (Can I help you?)
 
-+ Sie möchte das Buch.
-+ Er schenkt ihr das Buch.
++ Sie möchte das Buch. (She wants the book.)
++ Er schenkt ihr das Buch.(He gives her the book.)
 
-+ Ich finde das sehr schön.
-+ Das gefällt mir wirklich.
++ Ich finde das sehr schön.(I think that's very nice.)
++ Das gefällt mir wirklich.(I really like that.)
 
-+ Wir suchen ein Restaurant.
-+ Können Sie uns ein Restaurant empfehlen?
++ Wir suchen ein Restaurant.(We are looking for a restaurant.)
++ Können Sie uns ein Restaurant empfehlen?(Can you recommend a restaurant to us?)
 
 + Wie findet ihr das Schloss Heidelberg?
 + Gefällt euch das Schloss Heidelberg?
@@ -2908,6 +2908,25 @@ Volleyball spielen
 
 + Er braucht Hilfe.
 + Hilfst du ihm?
+
+
+
+
+
+
+
+How do you like Heidelberg Castle?
+
+Do you like Heidelberg Castle?
+
+What do you think of Heidelberg?
+
+Do you like the city?
+
+He needs help.
+
+Are you helping him
+
 
 ----------------------------------------
 
