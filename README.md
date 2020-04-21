@@ -2930,7 +2930,22 @@ Are you helping him
 
 ----------------------------------------
 
+## Im Schloss Heidelberg (In Heidelberg Castle)
 
+### Sehen Sie sich das Schild mit den Eintrittspreisen an und wählen Sie den richtigen Preis. Wie viel bezahlen die Personen?
+(Look at the entry price sign and choose the right price. How much do people pay?)
+
+![Image description](https://github.com/zydusss/German/blob/master/Schloss_Heidelberg.JPG)
+
+### Thomas Berger (36 Jahre) möchte das Schloss mit dem Audioguide ansehen >> 9
+
+### Familie Sánchez (4 Personen) möchte eine Führung machen. >> 10
+
+### Patrick Mähler (24 Jahre, Student) möchte nur das Schloss ansehen.  >> 4
+
+### Paola Monti aus Italien (67 Jahre) möchte das Schloss mit dem Audioguide ansehen. >> 7
+
+### Miju Nakamura reist mit einer japanischen Reisegruppe (22 Personen) und möchte eine Führung machen. >> 3,60
 
 
 ----------------------------------------
