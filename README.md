@@ -3140,9 +3140,39 @@ Wie spät ist es? Es ist 20 nach acht.
 Nora kommt zu spät. Das Auto ist kaputt.
 ----------------------------------------
 
+## Verspätungen (Delays)
 
+### Hören Sie die Dialoge noch einmal. Wie viele Minuten sind die Personen zu spät? Ergänzen Sie die Sätze.
+(Hear the dialogs again. How many minutes are the people late? Complete the sentences.)
 
++ Steffi kommt circa 15 Minuten zu spät.
+
++ Matthias Misic ist 30 Minuten zu spät.
+
++ Frau Grün ist 20 Minuten zu spät.
+
++ Nora ist schon 10 Minuten zu spät.
 
 ----------------------------------------
 
+## Es tut mir leid!
 
+### Hören Sie die Gespräche. Ziehen Sie die Elemente an die passende Stelle im Satz.
+
++ Guten Morgen!   
++ Entschuldigen Sie bitte, 
++ Frau Baumann.   
++ Mein Zug hatte Verspätung.
++ Guten Morgen, Herr Ritter.   
++ Kein Problem. 
++ Wir warten noch auf Herrn Sander und Frau Reiner.
+
+
++ Hallo Christian.
++ Hallo Maria. Wo bist du denn?
++ Tut mir leid. 
++ Ich bin noch im Büro.
++ Im Büro? Wir warten schon seit 15 Minuten!
++ Entschuldige bitte, aber wir hatten ein Meeting. 
++ Aber ich komme jetzt nach Hause.
++ Schon gut. Bis gleich.
