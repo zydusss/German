@@ -3091,7 +3091,25 @@ Liest du am Wochenende Bücher?
 
 ----------------------------------------
 
+## Wie kommen Sie zur Arbeit?
 
+### Klicken Sie auf die Bilder und lesen Sie die Texte. Ziehen Sie die Elemente an die passende Stelle im Satz.
+
+#### Ich heiße Sabine Krüger und bin Krankenschwester. Ich arbeite im Marien Hospital in Düsseldorf. Ich wohne in der Rosenstraße und fahre jeden Tag mit dem Rad zum Krankenhaus. Ich brauche nur zehn Minuten. Das ist super, ich komme immer pünktlich zur Arbeit!
+
++ Sabine Krüger fährt   mit dem Rad in die Arbeit. Sie braucht nur   zehn Minuten.
+
+#### Hallo! Ich bin Sven Heinemann und wohne in Rosenheim. Ich arbeite als Ingenieur bei BMW. Ich fahre fünf Minuten mit dem Auto zum Bahnhof und dann ca. 40 Minuten mit dem Zug nach München. Ich brauche 45 Minuten bis nach München. 
+
++ Sven Heinemann fährt mit dem Auto fünf Minuten zum Bahnhof und dann noch   circa 40 Minuten mit dem Zug nach München
+
+#### Ich heiße Karim Saad. Ich bin Fotograf und wohne in Essen. Mein Fotostudio ist im Zentrum. Ich fahre mit dem Bus zur Arbeit. Normalerweise brauche ich circa 20 Minuten zur Arbeit. Manchmal gibt es leider Stau. Dann brauche ich 30 Minuten.
+
++ Karim Saad fährt mit dem Bus zur Arbeit. Er braucht circa 20 Minuten zur Arbeit.
+
+#### Ich bin Karina Leitz. Ich komme aus Leipzig, aber ich wohne jetzt in Konstanz. Ich studiere Chemie. Ich brauche nur fünf Minuten zur Uni. Ich brauche keinen Bus und keine Straßenbahn. Ich gehe zu Fuß. Das ist perfekt! Ich kann lange schlafen.
+
++ Karina Leitz braucht nur fünf Minuten zur Uni. Sie geht zu Fuß  
 
 
 ----------------------------------------
