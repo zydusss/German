@@ -3062,3 +3062,39 @@ Schenk ihr doch ein Buch. Ich glaube, das gefällt ihr. Sie liest gern.
 https://www.youtube.com/watch?v=uoEwlH9XgZ0
 
 ----------------------------------------
+
+## Was kann man fragen?
+
+Wann frühstückst du am Wochenende?
+
+Machen Sie am Wochenende Sport?
+
+Trinkst du gern Bier?
+
+Wie oft kaufen Sie Obst?
+
+Wo ist die Kasse?
+
+Liest du am Wochenende Bücher?
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+
+
+
+----------------------------------------
+
+
