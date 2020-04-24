@@ -3224,7 +3224,185 @@ Nora kommt zu spät. Das Auto ist kaputt.
 
 -------------------------------------------
 
+## Vanessa ist zu spät ...(Vanessa is too late ...)
+
+### Hören Sie den Dialog. Wählen Sie eine Rolle und sprechen Sie. Sie können auch mehrmals sprechen. Hören Sie Ihre eigene Aufnahme an und vergleichen Sie.
+(Hear the dialogue. Choose a role and speak. You can also speak several times. Listen to your own recording and compare.)
 
 
+-------------------------------------------
+
+## Herr Beck auch
+
+### Hören Sie den Dialog. Wählen Sie eine Rolle und sprechen Sie. Sie können auch mehrmals sprechen. Hören Sie Ihre eigene Aufnahme an und vergleichen Sie.
+
+
+
+-------------------------------------------
+
+## Ich stehe im Stau
+
+### Lesen Sie die SMS-Texte und hören Sie die Gespräche. Was passt zusammen? Ordnen Sie zu.
+
+### Hallo Julia! Es tut mir leid, aber der Zug hat 20 Minuten Verspätung. Ich komme erst um Viertel vor eins in Köln an.
+
+### Hallo Tom. Tut mir leid, aber ich stehe im Stau. Wartet nicht mit dem Essen auf mich!
+
+### Frau Vasic, es tut mir leid, aber ich habe eine Panne. Mein Auto ist kaputt. Ich kann nicht pünktlich zum 9 Uhr-Termin kommen.
+
+### Hi Bernd! Wir haben noch ein Meeting. Ich kann leider nicht zum Fußballtraining kommen. Tut mir leid! Bis Donnerstag! LG Peter
+
+-------------------------------------------
+
+## Pünktlichkeit in Deutschland (Punctuality in Germany)
+
+
+man is an impersonal indefinite pronoun that can stand for one or more unspecified persons.
+man + verb in the 3rd person singular
+Zu einem Termin mit dem Chef kommt man pünktlich.
+In Deutschland kommt man pünktlich.
+
+### Lesen Sie die Forumseinträge zum Thema „Pünktlichkeit in Deutschland“. Beantworten Sie die Fragen. Unhöflich oder nicht? Wählen Sie aus.
+
+### Hallo, ich bin Luis. Ich komme aus Portugal und wohne seit zwei Monaten in Deutschland. Ich war gestern beim Arzt und nur zehn Minuten zu spät. Das war leider ein Problem. In Portugal sind zehn Minuten Verspätung okay. Wie ist das hier in Deutschland? Wann ist Pünktlichkeit wichtig?
+
+### Pünktlichkeit ist in Deutschland in der Arbeit und bei offiziellen Terminen sehr wichtig! Zu einem Termin mit dem Chef, zu einem Meeting oder zum Arzt kommt man pünktlich. Zu spät kommen ist unhöflich!
+
+### Ja, genau! Zu einem Termin mit dem Chef kommt man in Deutschland immer pünktlich. Auch zu einem Termin beim Arzt.
+
+### So pünktlich sind die Deutschen gar nicht! Auf Partys kommen sie nie pünktlich. Das finde ich komisch!
+
+
+Maxx
+Heute um 20:54
+
+### Partys beginnen ja oft AB … Uhr und nicht UM … Uhr. Zu einer Party komme ich oft eine Stunde später. Das ist normal.
+
+
+Carola
+Heute um 21:20
+
+### Ich bin leider immer unpünktlich ! Bei einem Treffen mit Freunden ist das schon okay, aber nicht bei einem Meeting mit Kollegen. Da kommt man pünktlich.
+
+
+Gina
+Heute um 22:00
+
+### Ich lade oft Freunde zum Essen ein. Manchmal kommen sie auch zehn Minuten zu spät. Das ist kein Problem für mich. Oft ist das Essen auch noch nicht ganz fertig. Dann ist es auch gut !
+
++ Am Freitagabend laden Freunde Luis zum Abendessen ein. Das Essen ist um 19 Uhr. Luis kommt um 19:10. Ist das unhöflich? - Nein
++ Luis hat einen Termin beim Zahnarzt. Er muss länger arbeiten und kommt 20 Minuten zu spät. Ist das unhöflich? - Ja
++ Luis hat ein Meeting mit Kollegen im Büro. Das Meeting beginnt um 9 Uhr. Luis kommt um 10 nach neun. Ist das unhöflich? - Ja
++ Luis‘ Freunde machen eine Party. Die Party beginnt ab neun. Luis kommt um halb zehn. Ist das unhöflich? - Nein
+
+-------------------------------------------
+
+## Man kommt pünktlich
+
+man is an impersonal indefinite pronoun that can stand for one or more unspecified persons.
+man + verb in the 3rd person singular
+Zu einem Termin mit dem Chef kommt man pünktlich.
+In Deutschland kommt man pünktlich.
+
+### Lesen Sie den Text und wählen Sie die richtige Verbform.
+
+In Deutschland <b>kommt</b> man zu offiziellen Terminen pünktlich. Zum Beispiel <b>kommt</b> man zu einem Termin beim Arzt oder zu einem Termin beim Chef nicht zu spät. Das ist sehr unhöflich. Auch ins Theater <b>muss</b> man pünktlich kommen oder zu einem Konzert. Aber zu einer Party <b>müssen</b> Sie nicht pünktlich kommen. Auch zu einem Essen bei Freunden <b>kommen</b> viele Menschen nicht pünktlich. Und wie ist das in Ihrem Heimatland? Wann <b>kommt</b> man pünktlich und wann ist Pünktlichkeit nicht so wichtig?
+
+
+
+
+
+
+-------------------------------------------
+
+## Wie geht das denn?
+
+### Sehen Sie sich die vier Bilder an und hören Sie die Gespräche. Was passt zusammen? Ordnen Sie zu.
+
+### der Drucker / drucken
+### der Scanner / scannen
+### der Kopierer / kopieren / die Kopie
+### der Klick / (an)klicken
+### der Download / downloaden oder herunterladen
+### der Button / einen Button drücken
+
+
+
+
+
+-------------------------------------------
+## Hilf mir bitte!
+
+
+### formal	
+Entschuldigung, können Sie mir helfen?
+Können Sie mir das (bitte) erklären?	
+
+### informal
+Hilf mir bitte!
+Entschuldigung, kannst du mir helfen?
+Wie geht das (denn)?
+Kannst du mir das (bitte) erklären?
+
+
+### Responding to imperatives and polite requests
+Ja, natürlich. / Ja, gern. / Ich helfe Ihnen gern.	Ja, natürlich. / Ja, gern. / Ich helfe dir gern.
+Nein, tut mir leid. / Oh, das tut mir leid. Das kann/weiß ich leider auch nicht.
+
+
+-------------------------------------------
+## Hilf mir bitte!
+
+Entschuldigung, können Sie mir bitte helfen?
+
+Ja, natürlich. Was ist das Problem?
+
+Ich möchte meinen Ausweis scannen.Wie geht das denn?
+
+Einen Moment bitte.Ich helfe Ihnen sofort. Ach, der Kopierer hat kein Papier. Einen Moment bitte. Hier ist Papier.
+
+
+
+Thomas!
+
+Ja, Mama. Was ist los?
+
+Thomas, kann ich mit dem Drucker auch etwas scannen?
+
+Ja, klar.
+
+Wie geht das denn? Kannst du mir das erklären?
+
+Natürlich.  Du musst nur hier auf scannen drücken und auf ok.
+
+Ah, das ist ja wirklich einfach …
+
+-------------------------------------------
+
+## Ich habe ein Problem
+
+### Milena arbeitet an der Uni. Ein Student braucht Hilfe beim Kopieren. Welche Anleitung ist richtig? Hören Sie das Gespräch und wählen Sie aus. 
+(Milena works at the university. A student needs help copying. Which instructions are correct? Listen to the conversation and choose.)
+
+
+
+-------------------------------------------
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
 
 
