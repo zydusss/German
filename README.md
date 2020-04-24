@@ -3080,6 +3080,13 @@ Liest du am Wochenende Bücher?
 ----------------------------------------
 
 
+## Verspätung, Stau und Panne
+
+### Der Zug ist zehn Minuten zu spät. Er ist nicht pünktlich.
+
+### Was mache ich jetzt? Das Auto ist kaputt! Ich muss in 20 Minuten im Büro sein.
+
+### Es gibt so viele Autos in der Stadt. Jeden Morgen stehe ich eine halbe Stunde im Stau.
 
 
 ----------------------------------------
