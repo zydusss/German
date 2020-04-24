@@ -3017,6 +3017,21 @@ Are you helping him
 + Erwachsene >> adults
 
 
+- Was kostet der Eintritt ins Museum?
+
+- Erwachsene zahlen 10 Euro, Schüler zahlen 4 Euro und für Kinder bis 6 Jahre ist der Eintritt frei.
+
+- Und wann beginnt die nächste Führung?
+
+- Um 14:30 Uhr.
+
+- Gehen wir Kaffee trinken?
+
+- Ja, aber ich muss noch zur Bank gehen. Ich brauche Geld.
+
+- Guten Tag, ich möchte eine Postkarte nach Italien schicken. Was kostet das?
+
+- Eine Briefmarke für das Ausland kostet 80 Cent.
 
 ----------------------------------------
 
