@@ -3035,6 +3035,30 @@ Are you helping him
 
 ----------------------------------------
 
+## Wie kann ich Ihnen helfen?
 
+
+Kann ich Ihnen helfen?
+
+Ich suche das Schloss. Können Sie mir das auf dem Stadtplan zeigen?
+
+Natürlich, bitte sehr.
+
+Ich danke Ihnen.
+
+
+
+Könnt ihr uns ein Café empfehlen?
+
+Ja, das Max & Co. ist gut. Sollen wir euch den Weg zeigen?
+
+Oh, super, danke! Ihr helft uns sehr!
+
+
+Was kann ich Nina schenken? Kannst du mir einen Tipp geben?
+
+Schenk ihr doch ein Buch. Ich glaube, das gefällt ihr. Sie liest gern.
+
+https://www.youtube.com/watch?v=uoEwlH9XgZ0
 
 ----------------------------------------
