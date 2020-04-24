@@ -3176,3 +3176,37 @@ Nora kommt zu spät. Das Auto ist kaputt.
 + Entschuldige bitte, aber wir hatten ein Meeting. 
 + Aber ich komme jetzt nach Hause.
 + Schon gut. Bis gleich.
+
+
+
+------------------------------
+
+## Was sagen Sie?
+
+### Lesen Sie die Sätze und ordnen Sie zu.
+
+### APOLOGISING FOR LATENESS
+- Entschuldigung, bitte.
+- Entschuldige bitte, / Entschuldigen Sie bitte, der Zug hatte Verspätung / ich hatte eine Panne / wir hatten noch ein Meeting …
+- Ich bitte um Entschuldigung. / Es tut mir leid, ich bin zu spät.
+- Entschuldigen Sie die Verspätung.
+
+### RESPONDING TO AN APOLOGY
+- Schon gut. / Kein Problem. / Das macht (doch) nichts.
+- Kommen Sie das nächste Mal bitte pünktlich.
+
+### SIE SIND ZU SPÄT. EINE ANDERE PERSON WARTET. (SIE SIND ZU SPÄT. EINE ANDERE PERSON WARTET.)
+
++ Entschuldige bitte.
++ Entschuldigen Sie die Verspätung!
++ Entschuldigung, bitte.
++ Es tut mir leid, ich bin zu spät.
++ Ich bitte um Entschuldigung.
++ Tut mir leid.
+
+### SIE WARTEN. DIE ANDERE PERSON KOMMT ZU SPÄT. (WAIT. THE OTHER PERSON IS LATE.)
+
++ Das macht (doch) nichts.
++ Kein Problem.
++ Kommen Sie das nächste mal bitte pünktlich!
++ Schon gut.
