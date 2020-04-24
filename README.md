@@ -3002,6 +3002,19 @@ Are you helping him
 
 
 ----------------------------------------
+## Urlaub in der Stadt
+(Vacation in the city)
+
+
++ Urlab >> Vacation
++ Stadt >> City
++ Schüler >> student
++ Postkarte >> postcard
++ Ausland >> foreign countries
++ Kinder >> children
++ Führung >> guide
++ Geld >> money
++ Erwachsene >> adults
 
 
 
