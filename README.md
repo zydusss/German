@@ -3114,7 +3114,30 @@ Liest du am Wochenende Bücher?
 
 ----------------------------------------
 
+## Ich bin zu spät!
 
+### Hören Sie die Gespräche und lesen Sie die Aussagen. Was passt? Wählen Sie aus.
+
+#### Steffi steht im Stau./ Steffi ist im Büro.
+
+#### Herr Misic kommt um 11 Uhr. / Herr Misic kommt um 13:30 Uhr.
+
+
+Steffi steht im Stau.
+
+Steffi kommt etwas später.
+
+Herr Misic kommt um 11 Uhr.
+
+Herr Misic muss warten.
+
+Herr Schäfer und Frau Grün haben einen Termin um 8:30 Uhr.
+
+Frau Grün kommt zu spät. Ihr Bus hatte Verspätung.
+
+Wie spät ist es? Es ist 20 nach acht.
+
+Nora kommt zu spät. Das Auto ist kaputt.
 ----------------------------------------
 
 
