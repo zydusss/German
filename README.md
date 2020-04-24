@@ -3210,3 +3210,21 @@ Nora kommt zu spät. Das Auto ist kaputt.
 + Kein Problem.
 + Kommen Sie das nächste mal bitte pünktlich!
 + Schon gut.
+
+
+-----------------------------------------
+
++ Es tut mir leid.
++ Entschuldigen Sie bitte.
++ Das macht doch nichts.
++ Kein Problem.
++ Es tut mir leid, mein Auto ist kaputt.
++ Bitte entschuldigen Sie die Verspätung.
++ Kommen Sie das nächste Mal bitte pünktlich.
+
+-------------------------------------------
+
+
+
+
+
