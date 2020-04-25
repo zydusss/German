@@ -3514,23 +3514,15 @@ The infinitive is often used for written instructions.
 - Fotos hochladen
 -------------------------------------------
 
-Du musst auf Fotos klicken.
+## Kannst du mir helfen?
 
-Und dann auf Album erstellen klicken.
-Du wählst den Ordner mit den Bildern aus Paris aus.Du wählst den Ordner mit den Bildern aus Paris aus.
-
-Danach klickst du auf Fotos hochladen.
-Fertig!
-Und auf Öffnen klicken.
-Du wählst den Ordner mit den Bildern aus Paris aus.
-  Correct
-
-  Correct
-
-  Correct
-
- 
-
++ Du musst auf Fotos klicken.
++ Und dann auf Album erstellen klicken.
++ Du wählst den Ordner mit den Bildern aus Paris aus.Du wählst den Ordner mit den Bildern aus Paris aus.
++ Dann musst du die Bilder markieren.
++ Und auf Öffnen klicken.
++ Danach klickst du auf Fotos hochladen.
++ Fertig!
 
 -------------------------------------------
 
