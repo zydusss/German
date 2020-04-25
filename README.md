@@ -3646,9 +3646,65 @@ Auf "Bilder hinzufügen" klicken.
 + Der Rucksack ist vor dem Regal.
 + Die Visitenkarten sind neben dem Telefon.
 + Der Kalender ist an der Wand.
++ Die Tasche ist unter dem Tisch.
++ Das Bild ist über dem Regal.
++ Das Bild ist hinter dem Telefon.
++ Die Tasche ist zwischen den Büchern.
+
 -------------------------------------------
 
+## Das Buch steht im Regal
 
+### Sehen Sie sich die Bilder an und lesen Sie die Sätze. Welche Präposition passt? Wählen Sie aus.
 
++ Das Formular ist in der Mappe
++ Das Handy ist auf dem Schreibtisch.
++ Das Papier ist unter dem Drucker.
++ Das Buch ist zwischen den Ordnern.
++ Die Pflanze ist hinter dem Laptop.
++ Der Terminkalender ist über dem Schreibtisch.
 
 -------------------------------------------
+
+## Wo ist das Meeting?
+
+### Wo ist was/wer? Lesen Sie die kurzen Gespräche. Ergänzen Sie die Präpositionen mit dem richtigen Artikel im Dativ. Schreiben Sie.
+
++ Das Meeting ist in Raum 3. Wo ist das?
+
++ Raum 3 ist im ersten Stock hinter dem Aufzug. (hinter – der Aufzug)
+
++ Wo ist der Ordner? Ich brauche ihn.
+
++ Er ist auf dem Schrank zwischen den Büchern. (zwischen – das Buch)
+
++ Wo ist die Visitenkarte von Frau Andersson?
+
++ Sie ist in der Mappe. (in – die Mappe)
+
++ Wo ist Herr Meißner gerade? Ich möchte ihn etwas fragen.
+
++ Er ist bei Herrn Gebauer im Büro. (in – das Büro)
+
++ Wo ist das Formular für Bewerber? Ich finde es nicht.
+
++ Es ist auf dem Schreibtisch. (auf – der Schreibtisch)
+
+
+-------------------------------------------------------
+
+## Der Arbeitsplatz
+
+#### Beschreiben Sie dieses Foto aus einem Büro. Sie können auch Ihren Arbeitsplatz beschreiben.
+#### Wo sind die Dinge auf dem Bild? Nennen Sie fünf Gegenstände und beschreiben Sie ihre Position. Sprechen Sie. Ihre Lehrkraft gibt Ihnen Feedback.
+
+
+
+
+----------------------------------------------------------
+
+## Bringen Sie den Ordner, bitte
+
+#### Frau Steinmann bittet Kim: „Bereiten Sie den Raum für das Meeting vor.“ Hören Sie die Anweisungen von Frau Steinmann. Was passt zusammen? Ordnen Sie zu.
+
+
