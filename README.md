@@ -3388,6 +3388,20 @@ Ah, das ist ja wirklich einfach …
 
 -------------------------------------------
 
+- the groceries	die Lebensmittel
+- the supermarket	der Supermarkt
+- the bakery	die Bäckerei
+- the butcher shop	die Metzgerei
+- the cash point	die Kasse
+- the money	das Geld
+- the credit card	die Kreditkarte
+- the shopping trolley	der Einkaufswagen
+- the shopping basket	der Einkaufskorb
+- the gram	das Gramm
+- the kilogram	das Kilogramm
+- 1 dozen	ein Dutzend
+- 1 slice	eine Scheibe
+- 1 piece	ein Stück
 
 
 
