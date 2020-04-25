@@ -3625,14 +3625,27 @@ Auf "Bilder hinzufügen" klicken.
 
 ![Prep_Dative](/Prep_Dative.JPG)
 
++ Über dem Schreibtisch ist der Kalender.
++ Das Bild ist an der Wand.
++ Das Buch ist zwischen den Ordnern.
++ Die Pflanze ist hinter dem Drucker.
++ Auf dem Schreibtisch ist der Drucker.
++ Die Tasche ist auf dem Stuhl.
++ Die Brille ist in der Tasche.
++ Die Visitenkarten sind neben dem Telefon.
 
 
 -------------------------------------------
 
+## Wo ist was?
 
+### Sehen Sie sich die Bilder an. Ziehen Sie die Präpositionen an die passende Stelle im Satz.
 
-
-
++ Die Brille ist   in der Tasche.
++ Der Kugelschreiber ist auf dem Tisch
++ Der Rucksack ist vor dem Regal.
++ Die Visitenkarten sind neben dem Telefon.
++ Der Kalender ist an der Wand.
 -------------------------------------------
 
 
