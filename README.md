@@ -3408,6 +3408,55 @@ Ah, das ist ja wirklich einfach …
 
 -------------------------------------------
 
+## Ich brauche Hilfe
+
+### formal	
+- Entschuldigung, können Sie mir helfen?
+- Können Sie mir das (bitte) erklären?	
+
+### informal
+- Hilf mir bitte!
+- Entschuldigung, kannst du mir helfen?
+- Wie geht das (denn)?
+- Kannst du mir das (bitte) erklären?
+
+### Responding to imperatives and polite requests
+- Ja, natürlich. / Ja, gern. / Ich helfe Ihnen gern.	
+- Ja, natürlich. / Ja, gern. / Ich helfe dir gern.
+- Nein, tut mir leid. / Oh, das tut mir leid. Das kann/weiß ich leider auch nicht.
+
+### SIE FRAGEN NACH HILFE (YOU ASK FOR HELP)
+Entschuldigung, können Sie mir helfen?
+Hilf mir bitte!
+Kannst du mir das bitte erklären?
+Kannst du mir helfen?
+Wie geht das denn?
+
+### SIE KÖNNEN HELFEN (You can help)
+Einen Moment, bitte. Ich helfe Ihnen sofort.
+Ich helfe Ihnen gern.
+Ja, klar!
+Ja, natürlich.
+
+### SIE KÖNNEN NICHT HELFEN (You Can't Help)
+Da kann ich dir leider auch nicht helfen.
+Nein, tut mir leid.
+Oh, das tut mir leid. Das kann ich leider auch nicht.
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
+
+
+
+
+
+
+-------------------------------------------
+
 
 
 
@@ -3420,3 +3469,49 @@ Ah, das ist ja wirklich einfach …
 -------------------------------------------
 
 
+
+
+-------------------------------------------
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+-------------------------------------------
