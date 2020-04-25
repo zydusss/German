@@ -3616,6 +3616,14 @@ Auf "Bilder hinzufügen" klicken.
 
 -------------------------------------------
 
+## Chaos
+
+### Der erste Tag in der Agentur ist zu Ende. Kim hatte viel Stress. Sie möchte nach Hause, aber erst muss sie den Schreibtisch aufräumen und ihre Sachen suchen. Helfen Sie Kim. Wiederholen Sie die Wörter aus Kapitel 2.
+
+
+## In Kims Büro
+
+![Prep_Dative](/Prep_Dative.JPG)
 
 
 
