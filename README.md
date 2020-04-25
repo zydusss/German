@@ -3526,23 +3526,63 @@ The infinitive is often used for written instructions.
 
 -------------------------------------------
 
+## Das Fotoalbum
 
+### Testen Sie, ob Sie eine Anleitung auf Deutsch verstehen. Laden Sie hier auf der Lernplattform mithilfe der Anleitung ein Foto hoch.
+
+Anleitung:
+
+Auf "Bilder hinzufügen" klicken.
+Auf "Datei wählen" klicken.
+Auf "Durchsuchen" klicken.
+Das richtige Bild auswählen.
+Auf "Datei hochladen" klicken.
+Auf "Bilder hinzufügen" klicken.
 
 
 
 -------------------------------------------
 
+## Kopie, Post, Bild (Copy, post, picture)
+
+### Hören und lesen Sie die Wörter. Achten Sie auf die markierten Buchstaben. Was spricht man stark und schwach aus? Ordnen Sie zu.
+(Hear and read the words. Pay attention to the marked letters. What do you say strong and weak? Arrange into.)
+
+#### stark	
+- p
+- pp
+#### schwach	
+- b
+- bb
+
+
+-------------------------------------------
+
+## Die Zusage (The acceptance)
+
+### Kim Müller möchte ein Praktikum bei der Personalagentur Steinmann machen. Nach ihrer Bewerbung bekommt Sie eine Antwort von der Agentur. Lesen Sie den Brief und die Fragen. Ordnen Sie die Antworten zu.
+(Kim Müller would like to do an internship at the personnel agency Steinmann. After your application you will receive an answer from the agency. Read the letter and questions. Assign the answers.)
+
+#### A „Praktikum“ is a work placement, often during or straight after a degree course, or during school. It is only short term (between two weeks and six months). The „der Praktikant / die Praktikantin“ works at a company and receives little or no money. He or she wants to learn about that profession.
+
+
+![AcceptnceLetter](/12-1-1.jpg)
+
++ Wer macht ein Praktikum? - Kim Müller.
++ Wie heißt die Sekretärin der Agentur? - Irene Papenburg.
++ Wann beginnt das Praktikum? - Im Juli.
++ Wie lange dauert das Praktikum? - Bis Dezember.
++ Wo ist die Personalagentur? - In Köln.
++ Wo wohnt Kim? - In Düsseldorf.
 
 
 
 -------------------------------------------
 
+## Der erste Tag (The first day)
 
-
-
--------------------------------------------
-
-
+### Am dritten Juli kommt Kim in die Agentur. Hören Sie die Dialoge und sehen Sie sich die Bilder zu den Dialogen an. Was passt zusammen? Ordnen Sie zu.
+(Kim joins the agency on July 3rd. Listen to the dialogues and look at the pictures of the dialogues. What fits together? Arrange into.)
 
 
 
