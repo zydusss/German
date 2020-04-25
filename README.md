@@ -3584,12 +3584,35 @@ Auf "Bilder hinzufügen" klicken.
 ### Am dritten Juli kommt Kim in die Agentur. Hören Sie die Dialoge und sehen Sie sich die Bilder zu den Dialogen an. Was passt zusammen? Ordnen Sie zu.
 (Kim joins the agency on July 3rd. Listen to the dialogues and look at the pictures of the dialogues. What fits together? Arrange into.)
 
++ Die Sekretärin begrüßt Kim und informiert Frau Steinmann.
 
++ Die Chefin, Frau Steinmann, zeigt Kim die Büros.
+
++ Thomas Gebauer, ein Kollege, lernt Kim kennen
 
 -------------------------------------------
 
+## Müller, guten Tag
+
+#### Was kann ich für Sie tun?	>>> Ich bin … / Mein Name ist … / Ich habe einen Termin bei …
+#### Sie sind … / Sind Sie nicht …?	>>> Ja, … / Nein, …
+#### Ich bin … / Mein Name ist … >>>	Freut mich. / Schön, dass Sie da sind. Herzlich willkommen.
+
++ Was kann ich für Sie tun?
++ Ich habe einen Termin bei Frau Keller.
+
++ Guten Tag, mein Name ist Stegemann!
++ Guten Tag, Herr Stegemann.
+
++ Mein Name ist Grit Lehmann.
++ Sie sind die neue Kollegin, oder? Herzlich willkommen.
+
++ Sie sind die neue Praktikantin, oder? Schön, dass Sie da sind.
++ Vielen Dank.
 
 
++ Darf ich mich vorstellen? Fabian Beck.
++ Torsten Zenker. Freut mich.
 
 -------------------------------------------
 
