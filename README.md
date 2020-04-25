@@ -3445,8 +3445,24 @@ Oh, das tut mir leid. Das kann ich leider auch nicht.
 
 -------------------------------------------
 
+## Sätze mit Modalverben
+
+#### Yes/no question
+Modal verb	| Sentence bracket	| Infinitive	 
+Kannst	| du mir	| helfen?
+
+#### Statement
+ |	|Modal verb	|Sentence bracket	|Infinitive
+|Natürlich|	kann|	ich dir	|helfen.
 
 
++ Kannst du mir bitte helfen ?
++ Natürlich kann ich dir helfen .
++ Entschuldigung. Können Sie mir helfen ?
++ Können Sie einen Moment warten ?
++ Da kann ich dir leider auch nicht helfen .
++ Kannst du mir das bitte erklären ?
++ Ich kann Ihnen das leider nicht erklären .
 
 -------------------------------------------
 
