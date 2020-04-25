@@ -3457,12 +3457,20 @@ Kannst	| du mir	| helfen?
 
 
 + Kannst du mir bitte helfen ?
+(Can you help me please ?)
 + Natürlich kann ich dir helfen .
+(Of course I can help you.)
 + Entschuldigung. Können Sie mir helfen ?
+(Excuse me. Can you help me ?)
 + Können Sie einen Moment warten ?
+(Can you wait a moment)
 + Da kann ich dir leider auch nicht helfen .
+(Unfortunately I can't help you with that either.)
 + Kannst du mir das bitte erklären ?
+(Can you please explain this to me ?)
 + Ich kann Ihnen das leider nicht erklären .
+(Unfortunately, I cannot explain this to you.)
+
 
 -------------------------------------------
 
