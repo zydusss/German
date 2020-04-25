@@ -3474,22 +3474,44 @@ Kannst	| du mir	| helfen?
 
 -------------------------------------------
 
+## Die Anleitung
+
+#### THE INFINITIVE IN WRITTEN INSTRUCTIONS
+
+The infinitive is often used for written instructions.
+
+- Einstellungen öffnen.
+- Kopie wählen.
+- Auf Ok drücken.
+- Anzahl eingeben.
 
 
+-------------------------------------------
+
+## Ein Album erstellen (Create an album)
+
+### Sehen Sie sich die Bilder an. Ziehen Sie die Elemente auf das passende Bild.
+
+- auf Fotos klicken
+- auf Album erstellen klicken
+- Ordner wählen
+- Bilder markieren
+- auf Öffnen klicken
+- Fotos hochladen
 
 
 
 -------------------------------------------
 
 
+- auf Öffnen klicken
+- Fotos hochladen
 
-
-
--------------------------------------------
-
-
-
-
+- auf Album erstellen klicken
+- Ordner wählen
+- Bilder markieren
+- auf Öffnen klicken
+- Fotos hochladen
 -------------------------------------------
 
 
