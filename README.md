@@ -3854,10 +3854,16 @@ Magdalena Kießling)
 
 ----------------------------------------------------------
 
+## Viele Termine
 
-
-
-
++ Am Morgen ist Magdalena um acht in der Arbeit.
++ Zuerst liest sie ihre E-Mails.
++ Dann muss sie eine E-Mail an einen Kunden schreiben.
++ Danach hat sie ein Meeting mit zwei Kollegen.
++ Zuletzt ruft sie einen Kunden an.
++ Am Nachmittag hat Magdalena zuerst ein Gespräch mit Henrik Meerbach.
++ Dann muss sie einen Bericht schreiben.
++ Zuletzt ruft sie eine Kollegin an.
 
 ----------------------------------------------------------
 
