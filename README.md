@@ -3703,8 +3703,9 @@ Auf "Bilder hinzufügen" klicken.
 
 ----------------------------------------------------------
 
-## Bringen Sie den Ordner, bitte
+## Bringen Sie den Ordner, bitte 
+(Bring the folder, please)
 
 #### Frau Steinmann bittet Kim: „Bereiten Sie den Raum für das Meeting vor.“ Hören Sie die Anweisungen von Frau Steinmann. Was passt zusammen? Ordnen Sie zu.
-
+(Ms. Steinmann asks Kim: "Prepare the room for the meeting." Listen to Ms. Steinmann's instructions. What fits together? Arrange into.)
 
