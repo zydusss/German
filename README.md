@@ -3867,8 +3867,15 @@ Magdalena Kießling)
 
 ----------------------------------------------------------
 
+## Besuch am Wochenende
 
++ Man kauft im Supermarkt ein.
++ Man putzt und räumt die Wohnung auf.
++ Man wählt ein Kulturprogramm für das Wochenende aus.
++ Man bereitet das Essen vor.
++ Man holt den Besuch vom Bahnhof ab.
 
+ 
 
 
 
