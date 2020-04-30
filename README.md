@@ -3709,3 +3709,42 @@ Auf "Bilder hinzufügen" klicken.
 #### Frau Steinmann bittet Kim: „Bereiten Sie den Raum für das Meeting vor.“ Hören Sie die Anweisungen von Frau Steinmann. Was passt zusammen? Ordnen Sie zu.
 (Ms. Steinmann asks Kim: "Prepare the room for the meeting." Listen to Ms. Steinmann's instructions. What fits together? Arrange into.)
 
+#### die Formulare drucken
+#### die Mappen bringen
+#### den Ordner bringen
+#### den Laptop starten
+#### die Kollegen informieren
+
+
+----------------------------------------------------------
+
+
+## Eine Frage, bitte …
+
+### Polite Enquiries
+Haben Sie das verstanden? / Ist das klar? (Did you understand that? / Is that clear?)
+Entschuldigung, …? (Excuse me)
+Bitte, … ?
+Wie bitte? Noch einmal, bitte. (I beg your pardon? Once Again please)
+Entschuldigung, was heißt das / was bedeutet …? (Sorry, what does that mean / what does ... mean?)
+Habe ich das richtig verstanden? (Have I understood that correctly?)
+
+### Anweisungen und Nachfragen: Was passt zusammen? Ziehen Sie die Paare aufeinander.
+(Instructions and questions: What fits together? Pull the pairs together.)
+
+#### Wir brauchen 20 Mappen für den Termin morgen. Bitte bringen Sie mir die Mappen.
+#### Wo finde ich die Mappen, bitte?
+
+#### Der Termin mit Frau Altmann ist jetzt erst am 14.11. um 10:00 Uhr. Bitte schreiben Sie das in den Kalender.
+#### Noch einmal bitte, wann ist der neue Termin?
+
+#### Wir haben um zehn ein Meeting mit Herrn Meißner im großen Besprechungsraum. Kommen Sie bitte um Viertel vor zehn in den Raum.
+#### Entschuldigung, was heißt „im großen Besprechungsraum“, ist das Raum 3?
+
+#### Das Formular ist im Ordner „Bewerber-Meeting 1“. Holen Sie mir bitte den Ordner“.
+#### Entschuldigung, ist der Ordner im Regal bei Frau Papenburg?
+
+#### Drucken Sie das Programm für das Meeting um zwei bitte fünfmal, nein sechsmal, aus. Neues Papier finden Sie im Schrank neben dem Büro.
+#### Habe ich das richtig verstanden: Sie brauchen das Programm sechsmal?
+
+
