@@ -3842,8 +3842,13 @@ Magdalena Kießling)
 
 ----------------------------------------------------------
 
+## Auf dem Anrufbeantworter
 
-
++ Wie ist Kims neue Telefonnummer?
++ Wo wollen die Eltern Magdalena treffen?
++ Wann kommt Jochen?
++ Was sagt die Zahnarztpraxis: Wann ist der neue Termin?
++ An welchem Tag kann Magdalena das Sofa bis 20:00 Uhr abholen?
 
 
 
