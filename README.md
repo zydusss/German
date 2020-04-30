@@ -3774,6 +3774,27 @@ Habe ich das richtig verstanden? (Have I understood that correctly?)
 
 ----------------------------------------------------------
 
+## 
+
+### Hallo Kim,
+danke für deine E-Mail. Das klingt toll: ein Praktikum bei einer Personalagentur.
+Ich bin jetzt seit zwei Monaten in Berlin. Weißt du das schon?
+Berlin ist toll! Ich arbeite bei einer Marketingagentur. Der Job ist super. Aber ich habe viel Stress, viele Meetings ... ganz anders als im Studium. Meine Kollegen sind nett, besonders Franziska.   Das Essen in der Kantine ist leider nicht so lecker. 
+Meine Wohnung ist noch nicht fertig. Viele Sachen sind noch in Umzugskartons. Ich brauche noch Regale, Stühle, eine Kaffeemaschine …
+Am Wochenende kommen meine Eltern zu Besuch.
+
+Ruf doch mal an. Wir müssen mal wieder reden.
+
+LG
+Magdalena
+
+
++ Magdalena arbeitet bei einer Personalagentur. - falschCorrect
++ Sie findet Berlin gut. - richtigCorrect
++ Die Wohnung ist schon fertig. - falschCorrect
++ Ihre Eltern kommen am Wochenende zu Besuch. - richtigCorrect
++ Magdalena will Kim bald anrufen. - falschCorrect
+ 
 
 
 
