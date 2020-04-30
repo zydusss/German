@@ -3748,3 +3748,68 @@ Habe ich das richtig verstanden? (Have I understood that correctly?)
 #### Habe ich das richtig verstanden: Sie brauchen das Programm sechsmal?
 
 
+
+----------------------------------------------------------
+
+
+## Was ist wo?
+
+### Sehen Sie sich das Foto an und ergänzen Sie die passende Präposition mit dem richtigen Artikel. Die Farben helfen Ihnen. Schreiben Sie.
+
+- Der Kalender ist hinter dem Laptop.
+
+- Viele Dinge sind auf dem Drucker.
+
+- Die Brille ist vor dem Geld.
+
+- Der Ausweis ist neben der Maus.
+
+- Die Briefmarken sind zwischen der Schere und dem Schlüssel.
+
+- Das Papier ist im Drucker.
+
+- Das Handy ist neben dem Bild.
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------
+
