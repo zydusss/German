@@ -3800,13 +3800,39 @@ Magdalena
 
 ----------------------------------------------------------
 
+## Magdalenas Tag
 
+### Gespräche im Büro. Lesen Sie die Fragen und hören Sie die Dialoge zweimal. Was passt? Wählen Sie aus.
 
-
-
++ Wie ist die Zimmernummer von Herrn Meerbachs Büro? 17
++ Wie spät ist es?  - 9:55 Uhr.
++ Wie ist Frau Maiers Adresse?  - Hegelstraße 13.
++ Was isst Magdalena zu Mittag?  - Nudeln mit Gemüse.
++ Was kosten die Kaffeemaschinen bei Meyers?  - 79,90€.
++ Wann möchte Jochen Magdalena in der Wohnung helfen?  - Am Mittwoch.
 ----------------------------------------------------------
 
+### Betreff : Meeting Firma Hellmann_Thema: Internetseite
 
+Lieber Herr Meerbach, (Dear Mr. Meerbach,)
+
+#### hier meine Planung für den Hellmann-Termin: 
+(Here is my planning for the Hellmann appointment:)
+#### Zuerst zeigen wir unser Konzept für die Internetseite (30 Minuten). 
+(First we show our concept for the website (30 minutes).)
+#### Dann können wir gemeinsam über die Ideen sprechen und danach müssen wir den genauen Inhalt der Seite planen (vielleicht 120 Minuten?).
+(Then we can talk about the ideas together and then we have to plan the exact content of the page (maybe 120 minutes?).)
+
+#### Zuletzt können wir noch eine halbe Stunde über den Zeitplan sprechen.
+(Finally, we can talk about the schedule for half an hour.)
+
+#### Was denken Sie?
+(What do you think?)
+
+Herzliche Grüße
+Magdalena Kießling
+(Kind regards
+Magdalena Kießling)
 
 
 
