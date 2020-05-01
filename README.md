@@ -3875,7 +3875,75 @@ Magdalena Kießling)
 + Man bereitet das Essen vor.
 + Man holt den Besuch vom Bahnhof ab.
 
- 
+
+----------------------------------------------------------
+
+## Magdalena bekommt Besuch
+
+
+
+#### Beispiel: 
+####  Zuerst putzt Magdalena das Bad.
+(Magdalena, putzen, das Bad)
+
+
+#### Danach kauft sie im Supermarkt ein.
+(sie, ein|kaufen, im Supermarkt)
+
+
+#### Dann räumt sie die Wohnung auf.
+(sie, auf|räumen, die Wohnung)
+
+
+#### Später ruft sie ihre Eltern an.
+(sie, an|rufen, ihre Eltern)
+
+
+#### Zuletzt macht Magdalena einen Kuchen.
+(Magdalena, machen, einen Kuchen)
+
+
+#### Sie kauft danach im Supermarkt ein .
+
+#### Dann räumt Magdalena die Wohnung auf .
+
+#### Sie ruft danach ihre Eltern an .
+
+#### Magdalena macht zuletzt einen Kuchen .
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+
+----------------------------------------------------------
 
 
 
