@@ -3912,11 +3912,18 @@ Magdalena Kießling)
 #### Magdalena macht zuletzt einen Kuchen .
 
 ----------------------------------------------------------
+## Wir müssen das noch fertig machen
 
+### Kim und Frau Steinmann haben einen schlechten Tag. Kim kommt zu spät ins Büro. Was passiert? Hören und sehen Sie. Wählen Sie die richtigen Antworten.
 
 
 ----------------------------------------------------------
 
+## Sie sind schon wieder zu spät
+(You're late again)
+
+### Was darf man, was darf man nicht am Arbeitsplatz? Was muss man, was nicht? Lesen Sie die Sätze und sehen Sie sich die Bilder an. Was passt zusammen? Ordnen Sie zu.
+(What are you allowed to do, what are you not allowed to do at work? What do you have to do and what not? Read the sentences and look at the pictures. What fits together? Arrange into.)
 
 
 ----------------------------------------------------------
